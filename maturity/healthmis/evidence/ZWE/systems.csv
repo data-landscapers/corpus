@@ -6,3 +6,5 @@ ZWE,Impilo EHR,Zimbabwe,other,,,700+ facilities,2025-01-01-zwe-integration-and-i
 ZWE,DHIS2,Zimbabwe,hmis,DHIS2,Ministry of Health and Child Care,"national, province, district",2025-01-01-zwe-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health
 ZWE,NHIS,NHIS Zimbabwe,hmis,DHIS2,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d
 ZWE,HMIS,Zimbabwe,hmis,,Ministry of Health and Child Care,,2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi
+ZWE,"National Health Data Warehouse ingestion (FHIR/REST, ETL/ELT)",Zimbabwe,other,,MoHCC,,2026-11-25-zwe-ta-to-develop-national-health-data-ingestion-fhir-integration-and-etl-
+ZWE,National Health Data Warehouse (NHDWH),Zimbabwe,other,,MoHCC,,2026-11-25-zwe-ta-to-develop-national-health-data-warehouse-data-marts-and-analytics

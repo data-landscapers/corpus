@@ -71,6 +71,7 @@ CIV,2026-10-16-civ-la-cote-d-ivoire-deploie-mhealth-one-la-version-de-mhealth-in
 CMR,2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022,,2026-10-19
 CMR,2024-06-06-cmr-emis-operationalization-new-it-hardware-for-the-nsi,,2026-11-03
 CMR,2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine,,2026-11-07
+CMR,2024-08-12-cmr-annuaire-statistique-de-la-region-du-nord-ouest-edition-2023,,2026-11-28
 CMR,2025-04-08-cmr-minsante-registres-ameliores-dhis2,,2026-10-19
 CMR,2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon,,2026-10-19
 CMR,2025-11-24-cmr-35e-journee-africaine-de-la-statistique-le-littoral-mise-sur-l-innovat,,2026-11-12
@@ -204,6 +205,7 @@ GHA,2026-10-09-ghana-ghima-unlicensed-health-data-handlers,,2026-10-19
 GHA,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange,,2026-10-22
 GHA,2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst,,2026-10-29
 GHA,2026-11-24-gha-health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-s,,2026-11-25
+GHA,2026-11-25-gha-ghana-validates-new-health-data-and-health-records-strategy-and-operat,,2026-11-28
 GIN,2024-03-01-gin-guinean-computer-scientists-trained-to-manage-health-logistics-system,,2026-11-12
 GIN,2025-01-01-pasa2-gestion-analyse-validation-donnees-snis-dhis2,,2026-10-19
 GIN,2025-11-24-pt2s-avis-general-passation-marches,,2026-10-19
@@ -424,6 +426,7 @@ NER,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10
 NER,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite,,2026-10-19
 NER,2026-09-30-ner-connecting-niger-s-health-information-systems,,2026-11-07
 NER,2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh,,2026-11-11
+NGA,2024-06-01-nga-nhmis-bulletin-june-2024-edition,,2026-11-28
 NGA,2025-01-07-nga-businessday-bodogwu-ucms-ai,,2026-10-22
 NGA,2025-05-30-dhis2-school-reporting-edo-state,,2026-10-19
 NGA,2025-06-01-nga-nhmis-bulletin-june-2025-edition,,2026-10-19
@@ -437,6 +440,7 @@ NGA,2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare,,2026-10-29
 NGA,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern,,2026-11-06
 NGA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 NGA,2026-11-12-ehealth-africa-using-tech-to-close-gaps,,2026-11-21
+NGA,2026-11-23-nga-national-council-on-health-approves-2026-national-telemedicine-guideli,,2026-11-28
 RWA,2024-04-01-rwa-assessment-and-exploratory-analysis-of-indicator-based-surveillance-ib,,2026-11-07
 RWA,2025-04-03-rwanda-health-intelligence-center-launch,,2026-10-19
 RWA,2026-01-01 Digital Public Goods Alliance,,2026-10-19
@@ -600,6 +604,7 @@ TZA,2026-09-30-tza-mediawireexpress-who-controls-health-data,,2026-10-19
 TZA,2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali,,2026-11-21
 TZA,2026-11-06-tza-digital-transformation-cuts-nhif-claims-payment-period-to-50-days,,2026-11-11
 TZA,2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money,,2026-11-07
+TZA,2026-11-26-tza-tanzania-leads-africa-in-health-systems-but-gaps-remain,,2026-11-28
 UGA,2023-12-18-crs-301-20230103130002-2023-empowering-districts-and-schools-with-data-a-digit,,2026-11-06
 UGA,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor,,2026-11-06
 UGA,2024-10-19-uga-private-schools-on-the-spot-for-delayed-digital-registration,,2026-11-21
@@ -652,3 +657,5 @@ ZWE,2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-st
 ZWE,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d,,2026-11-07
 ZWE,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 ZWE,2026-11-10-xaf-who-afro-his-maturity-functionality-report-africa-health-data-forum,,2026-11-12
+ZWE,2026-11-25-zwe-ta-to-develop-national-health-data-ingestion-fhir-integration-and-etl-,,2026-11-28
+ZWE,2026-11-25-zwe-ta-to-develop-national-health-data-warehouse-data-marts-and-analytics,,2026-11-28

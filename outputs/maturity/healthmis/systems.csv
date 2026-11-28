@@ -216,6 +216,7 @@ NGA,DNEMIS,Nigeria,other,DHIS2,Federal Ministry of Education,,2026-07-05 Post by
 NGA,DNEMIS,Nigeria,other,DHIS2,Federal Ministry of Education,,2026-08-14-nga-nigeria-launches-nationwide-education-data-system-reaching-more-than-4
 NGA,HeliumMum,Nigeria,other,,Helium Health,,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern
 NGA,Logistics Management Information System (LoMIS),LoMIS,other,,eHealth Africa,,2026-11-12-ehealth-africa-using-tech-to-close-gaps
+NGA,NHMIS (DHIS-2),National Health Management Information System,hmis,DHIS2,Federal Ministry of Health,,2024-06-01-nga-nhmis-bulletin-june-2024-edition
 RWA,DHIS2,Rwanda,hmis,DHIS2,,700+ facilities,2026-01-20 Building Open Digital States Country Case Studies on the Impact of DPGs for DPI
 RWA,DHIS2-based student absence tracking,Rwanda,other,DHIS2,MINEDUC,,2026-02-11-hisp-rwanda-mineduc-education-data-partnership
 RWA,DHIS2,Rwanda,hmis,DHIS2,,,2026-01-01 Digital Public Goods Alliance
@@ -288,6 +289,7 @@ TZA,Zanzibar Health Information Layer,Tanzania (Zanzibar),other,,Ministry of Hea
 TZA,ZanHFR,Tanzania (Zanzibar),other,,,,2025-10-01-tza-advancing-tanzanias-information-systems-interoperability-agenda
 TZA,M-Mama,M-Mama emergency referral dispatch platform,other,,state ownership transition,,2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money
 TZA,GoTHOMIS,Tanzania,other,,Ministry of Health,"links 7,700 facilities",2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali
+TZA,DHIS2,Tanzania,hmis,DHIS2,,,2026-11-26-tza-tanzania-leads-africa-in-health-systems-but-gaps-remain
 UGA,DHIS2,Uganda,hmis,DHIS2,,central and subnational,2025-12-01-impulse-erhis-newborn-data-functionalities
 UGA,HMIS e-register,Uganda,hmis,mobile digital register,Ministry of Health,Health Centre II and III,2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january
 UGA,DHIS2,Uganda,hmis,DHIS2,Ministry of Health,,2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january
@@ -317,3 +319,5 @@ ZWE,Impilo EHR,Zimbabwe,other,,,700+ facilities,2025-01-01-zwe-integration-and-i
 ZWE,DHIS2,Zimbabwe,hmis,DHIS2,Ministry of Health and Child Care,"national, province, district",2025-01-01-zwe-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health
 ZWE,NHIS,NHIS Zimbabwe,hmis,DHIS2,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d
 ZWE,HMIS,Zimbabwe,hmis,,Ministry of Health and Child Care,,2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi
+ZWE,"National Health Data Warehouse ingestion (FHIR/REST, ETL/ELT)",Zimbabwe,other,,MoHCC,,2026-11-25-zwe-ta-to-develop-national-health-data-ingestion-fhir-integration-and-etl-
+ZWE,National Health Data Warehouse (NHDWH),Zimbabwe,other,,MoHCC,,2026-11-25-zwe-ta-to-develop-national-health-data-warehouse-data-marts-and-analytics
