@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-sle-salpost-and-felei-techcity-present-investment-proposals-at-waiis-2026",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Minister said Sierra Leone's backbone fibre is already connected to Guinea's; a further submarine cable is only being sought through pooled demand with Guinea, Liberia and The Gambia.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Backbone fibre link to Guinea",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone fibre link to Guinea",
+   "country_label": "Sierra Leone",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
