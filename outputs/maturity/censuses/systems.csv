@@ -86,6 +86,7 @@ CAF,Population census 2003,Census 2003,census,,,,2026-10-08-world-development-in
 CAF,Multiple Indicator Cluster Survey 2018-2019,MICS 2018-19,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
 CAF,Priority survey (PS) 2008,PS 2008,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
 CAF,Population census 2003,Census 2003,census,,,,2025-12-09-statistical-performance-indicators-2026-11-10
+CAF,RGPH-4,RGPH-4,census,tablets,ICASEES,,2025-09-01-caf-education-annuaire-statistique-2023-2024
 CIV,MICS 2026,MICS 2026,survey,,ANStat with UNICEF,,2026-05-11-cote-divoire-mics-2026-phase-nationale-collecte-anstat-unicef
 CIV,MICS 2026,MICS 2026,survey,,ANStat with UNICEF,,2026-05-11-unicef-civ-2026-mics-2026-equipment
 CIV,RGEE-CI,RGEE-CI 2025,other,,ANStat,,2025-06-07-recensement-general-entreprises-etablissements-rgee-ci
@@ -442,6 +443,7 @@ MWI,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-
 MWI,Fourth National ICT Survey 2026,National ICT Survey 2026,survey,,National Statistical Office with MACRA,,2026-08-19-malawi24-nso-macra-ict-survey-jobs
 MWI,Fourth National ICT Survey 2026,National ICT Survey 2026,survey,,National Statistical Office with MACRA,,2026-08-14-malawi-national-ict-survey-nso-macra
 MWI,Integrated household survey (IHS) 2016,Malawi,survey,,,,2026-10-08-world-development-indicators-selection-2026-11-10
+MWI,2028 Population and Housing Census,Malawi,census,,,,2026-11-26-mwi-malawi-just-relaunched-its-power-of-data
 NAM,2023 Population and Housing Census,PHC 2023,census,,Namibia Statistics Agency,,2026-07-27-namibia-bon-eid-administrative-data-sharing-census-costs
 NAM,2023 Population and Housing Census,PHC 2023,census,,Namibia Statistics Agency,,2024-10-30-nsa-2023-census-media-release-rural-electrification
 NAM,EMIS Annual Education Census,EMIS 2023,other,,"Ministry of Education, Arts and Culture",,2024-01-01-education-management-information-system-emis
@@ -648,6 +650,7 @@ TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital
 TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-27-tunisie-enquete-int-2026-usage-internet-competences-numeriques
 TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-24-int-tunisie-synthese-enquete-internet-competences-numeriques-2026
 TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-24-tunisie-int-enquete-internet-competences-numeriques-2026
+TUN,"Recensement general de l'agriculture (Survey Solutions, tablets)",Tunisia agricultural census 2026,other,Survey Solutions,,,2026-11-24-tun-recensement-agricole-la-tunisie-mise-sur-le-num-rique-pour-actualiser
 TZA,Integrated Labour Force Survey 2025,ILFS 2025,survey,NBS microdata catalogue (DDI),"National Bureau of Statistics and Office of the Chief Government Statistician, Zanzibar",,2026-07-15-integrated-labour-force-survey-2025
 TZA,Population and Housing Census 2022,PHC 2022,census,,National Bureau of Statistics,,2026-07-15-integrated-labour-force-survey-2025
 TZA,Population and Housing Census 2022,PHC 2022,census,,,,2025-08-04-inec-tanzania-responds-to-concerns-over-voter-register-numbers
