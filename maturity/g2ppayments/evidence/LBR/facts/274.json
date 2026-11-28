@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-lbr-pay-na-na-s-next-test-is-the-money-that-does-not-arrive",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The op-ed says a Central Bank of Liberia directive provides for government-to-person mobile-money payments to go through the national electronic payment switch from 27 October 2025; no payments made are reported.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

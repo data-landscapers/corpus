@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-22-bdi-burundi-le-projet-d-appui-aux-filets-sociaux-adopte-des-technologies-i",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank team said in January 2026 that Merankabandi's CORE-MIS, hosted by the government, is interconnected with several payment service providers for payment processing and reconciliation and delivered emergency transfers to over 30,000 beneficiaries.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "CORE-MIS (Merankabandi)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
