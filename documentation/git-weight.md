@@ -34,6 +34,7 @@ The published product is `outputs/maturity/` and the compiled cell files. Everyt
 
 - **Facts stay in git, folded.** A night's arrivals restage a country from all its facts, in any study, so they must be on hand every night. The 145,745 part files become one `facts.jsonl` per cell, 6,210 files and the same 62 MB, appended to rather than added to.
 - `search*/`, `_batch/` and `readlist.csv` go to `corpus-maturity-work` on R2, one archive per study per night under `{study}/{date}.tar.gz`, written by the run that made them. Only a rebuild reads them, and it pulls its own study's archive.
+- **Measured after, 28 November 2026**: `git clone --depth 1` takes 62 seconds for 53,891 files, against five minutes for 260,267; `git gc` packed the 479,237 loose objects, leaving 3.21 GB in two packs.
 - **Facts folded the same day**: 148,373 part files into 6,187 `facts.jsonl`. A drafter or carry still writes `facts/{n}.json`, and `study-profile.py --merge` folds it after merging (`study_lib.fold_facts`).
 - **`readlist.csv` stays in git** *(housekeeping 91, 2026-11-28)*: every night's arrivals pass appends to it and `study-update.py close` writes it, so it is read nightly, not only at a rebuild. `search*/` and `_batch/` were untracked that day, 68,327 files; `scripts/maturity-archive.py` archives them.
 - Git keeps `study.json`, the study's markdown, its evidence summaries, the folded facts and the five compiled files per cell: about 38,000 files and 155 MB, so `maturity/` falls from 249,796 files to about 38,000 and the tree from 260,267 to about 48,000.
