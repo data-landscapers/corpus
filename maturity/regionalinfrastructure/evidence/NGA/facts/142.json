@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-nga-nigeria-and-togo-sign-mou-twinned-data-park",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Nigeria and Togo signed an MoU on 26 November 2026 in Lagos to develop twinned, interconnected data parks, Nigeria's host facility near Egbin Power Station and Togo's as a backup and disaster-recovery site, per Nigeria's communications ministry.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Nigeria-Togo Twinned Data Park",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria-Togo Twinned Data Park",
+   "country_label": "Nigeria-Togo Twinned Data Park",
+   "class": "shared",
+   "platform": "",
+   "owner": "Governments of Nigeria and Togo, proposed joint SPV",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
