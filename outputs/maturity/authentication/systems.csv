@@ -103,6 +103,7 @@ CIV,RNPP,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-
 CIV,City Web,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,CNI / NNI,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CIV,PKI Racine,Cote d'Ivoire,authentication,,ANSSI,,2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique
+CIV,eConseil,Cote d'Ivoire,other,,ANSUT,,2024-09-16-civ-cote-d-ivoire-la-plateforme-econseil-2-0-vitrine-de-la-numerisation-de
 CMR,Family allowance birth-certificate census,Cameroon,other,,Ministry of Finance,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
 CMR,AILGLES,Cameroon,other,,Government of Cameroon,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
 CMR,SIGEC,Cameroon,other,,BUNEC with UNDP support,,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
@@ -507,6 +508,7 @@ MOZ,Digital signature platform,Mozambique,authentication,,Government,,2026-02-12
 MOZ,e-BAU,Mozambique,other,,Government of Mozambique,,2026-08-03-moz-atividades-economicas-de-baixo-risco-em-mocambique-com-certidao-em-dua
 MOZ,Sistema de Certificação Digital de Moçambique (SCDM),Mozambique,authentication,,Council of Ministers; INTIC,State Root Certification Authority; certification entities; registration entities,2019-07-03-moz-decreto-59-2019-regulamento-sistema-certificacao-digital-scdm
 MOZ,digital signature platform,Mozambique,authentication,,MCTD,,2026-02-12-moz-governo-mobiliza-o-pais-para-definir-estrategia-nacional-de-transforma
+MOZ,Sistema de Certificação Digital de Moçambique,Mozambique Digital Certification System,authentication,PKI,INTIC,,2026-11-27-moz-intic-destaca-importancia-da-infra-estrutura-publica-digital-para-a-moderni
 MRT,Houwiyeti,Mauritania,other,mobile app,ANRPTS,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Khadamati,Mauritania,other,app,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Private financial applications (unnamed),Mauritania,other,,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
@@ -756,6 +758,7 @@ SDN,Civil Registry General Administration system,Sudan,other,,Civil Registry Gen
 SDN,Remote account opening identity verification,Sudan,authentication,bank systems linked to the civil registry system,Central Bank of Sudan (rule); banks,,2024-12-02-sdn-cbos-national-number-remote-account-opening
 SDN,SUDAPASS,Sudan,authentication,National Digital Identity Platform,Sudanese Cybersecurity Authority; keys and certificates with NADC,,2026-05-29-sdn-press-statement-sudanese-cybersecurity-authority-sca
 SDN,Sudapass,Sudan,authentication,digital ID login,Ministry of Digital Transformation and Communications,,2026-11-11-sdn-baldna-portal-home-and-login-national-id-sudapass
+SDN,Sudapass,Sudan,authentication,national digital ID,Ministry of Digital Transformation and Telecommunications,,2026-10-30-sdn-from-paper-files-to-platforms-can-sudan-build-a-digital-government
 SEN,e-Sénégal,Senegal,other,mobile app and single-window portal (sn.senum.guichetunique),Sénégal Numérique SA (SENUM SA),,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
 SEN,GovStack,Senegal,other,"platform for over 800 administrative procedures, presented November 2023",SENUM SA with GIZ,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
 SEN,Maa ngi nii (pdv.ipres.sn),Senegal,other,digital proof-of-life platform,IPRES,,2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao
@@ -820,6 +823,7 @@ SOM,"Hubiye, e-Aqoonsi and Certificate Delivery System (CDS)",Somalia,authentica
 SOM,eAqoonsi,Somalia,authentication,,NIRA,,2026-05-01-som-4-1-application-process-and-identity-verification
 SOM,NIRA electronic ID verification,NIRA,authentication,,NIRA,,2026-04-01-som-4-3-access-to-services
 SOM,Hubiye eKYC platform,Hubiye eKYC platform,authentication,,NIRA,,2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia
+SOM,eAqoonsi,eAqoonsi,authentication,,NIRA,,2025-03-27-som-shortcut-to-a-brighter-future-how-technology-is-transforming-education
 SSD,"Directorate of Civil Registry, Nationality, Passports and Immigration digital registry",South Sudan,other,,"Directorate of Civil Registry, Nationality, Passports and Immigration",,2026-07-28-civil-registry-digital-system-birth-death-marriage
 SSD,Personal identity card (Butaka Shakhsia),South Sudan,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",,"2026-01-16 Juba - Passport, ID card issuance resumes"
 STP,"STP Digital Identity (bilhete de identidade, digital ID)",STP,other,Verifiable Credentials Infrastructure by Ooru,INIC and DGRN,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
@@ -854,6 +858,7 @@ SYC,SeyID,SeyID,authentication,WISeKey WISeID,Government of Seychelles,,2024-04-
 SYC,SeyID,SeyID,authentication,,,,2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1
 SYC,Biz Auth,Biz Auth,authentication,,,,2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1
 SYC,SeyID Sign,Seychelles,authentication,SeyID,Government of Seychelles,,2025-12-18-worldbank-govtech-dataset-dec2025
+SYC,SeyID,Seychelles,authentication,app,DICT,,2024-09-07-syc-dict-what-s-new-new-online-tools-to-help-push-seychelles-towards-digit
 TCD,ANATS-Airtel Tchad subscriber identification partnership,Chad,other,,Airtel Tchad; ANATS,,2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees
 TCD,SIGPTS,Chad,other,,ANATS,,2026-09-02-anats-tchad-site-officiel-nni-sigpts
 TCD,SIGPTS,Chad,other,,ANATS,,2026-09-24-tcd-wearetech-ndjamena-civil-registry-digitization
@@ -940,6 +945,7 @@ TZA,National Public Key Infrastructure,Tanzania,authentication,,"Ministry of Inf
 TZA,Jamii Namba digital identity,Tanzania,,,NIDA,,2024-01-01-tanzania-digital-economy-strategic-framework
 TZA,NIDA Wallet,Tanzania,authentication,,NIDA,,2026-11-19-tza-tanzania-unveils-new-national-id-card-and-nida-wallet
 TZA,NIDA Wallet,Tanzania,other,phone wallet,NIDA,,2026-11-22-zmb-tanzania-s-smart-id-puts-zambia-s-ageing-nrc-under-the-spotlight
+TZA,NGAO,Tanzania,authentication,NGAO Authenticator (OTP app),e-Government Authority (e-GA),,2024-11-07-tza-mfumo-wa-ngao-kuimarisha-zaidi-usalama-wa-mifumo-ya-tehama-serikali
 UGA,SIM registration,Uganda,other,,telecom providers,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,Bank customer verification,Uganda,other,,banks,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,National ID QR-code verification,Uganda,other,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
@@ -1025,6 +1031,7 @@ ZMB,MOSIP e-Signet (EET),e-Signet (EET),authentication,MOSIP,Smart Zambia Instit
 ZMB,eKYC platform,Zambia eKYC,authentication,"MOSIP, e-Signet",,,2024-01-01-zmb-codevelop-zambia-ekyc-openg2p
 ZMB,centralised eKYC platform,ZMB,authentication,Home Affairs API with fingerprint check,Ministry of Home Affairs / Bank of Zambia,,2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement
 ZMB,Integrated National Registration Information System (INRIS),Zambia,,,,,2024-01-01-national-ai-strategy-2024-2026
+ZMB,eKYC platform (drought relief management system),Zambia,authentication,"MOSIP, OpenG2P",SMART Zambia Institute,,2024-07-15-zmb-drought-relief-management-system-being-developed
 ZWE,Voters' roll (Zimbabwe Electoral Commission),Zimbabwe,other,,Zimbabwe Electoral Commission,,2026-07-23-zimbabwe-registrar-general-to-take-over-voters-roll
 ZWE,Civil Registry integration for mobile money KYC,Zimbabwe,other,,Reserve Bank of Zimbabwe,,2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration
 ZWE,Civil Registry integration for mobile money KYC,Zimbabwe,other,,Reserve Bank of Zimbabwe,,2026-03-10-zwe-rbz-mobile-money-civil-registry-integration

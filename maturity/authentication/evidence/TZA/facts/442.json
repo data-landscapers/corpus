@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-07-tza-mfumo-wa-ngao-kuimarisha-zaidi-usalama-wa-mifumo-ya-tehama-serikali",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The e-Government Authority (e-GA) said in November 2024 its NGAO multi-factor authentication system, using a one-time-password authenticator app, is being used on a trial basis by e-GA alone on the e-Office and ERMS systems, with the aim of extending it to other government systems.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "NGAO",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NGAO",
+   "country_label": "Tanzania",
+   "class": "authentication",
+   "platform": "NGAO Authenticator (OTP app)",
+   "owner": "e-Government Authority (e-GA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

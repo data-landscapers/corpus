@@ -1,0 +1,46 @@
+{
+ "slug": "2024-09-07-syc-dict-what-s-new-new-online-tools-to-help-push-seychelles-towards-digit",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Seychelles News Agency reports that the SeyID app, launched in 2022 by the Department of ICT, lets people create a digital identity with an accredited identity app to prove who they are online and is required to access government online services.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "SeyID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "DICT presented Mon Servis, the Biz Auth Portal, CertExpress, online driving-licence renewal and SeyID features, all reached through SeyID, per the Seychelles News Agency.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "SeyID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The SeyID app, launched in 2022, gives a digital identity with an accredited identity app that can be used to prove who you are online, per the Seychelles News Agency.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "SeyID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "authentication",
+   "platform": "app",
+   "owner": "DICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-moz-intic-destaca-importancia-da-infra-estrutura-publica-digital-para-a-moderni",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "INTIC presented the Mozambique Digital Certification System, a trust structure of public and private certification entities, public key infrastructure and audit mechanisms, as an initiative in progress, with strengthening of the PKI named as a next step.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "Sistema de Certificação Digital de Moçambique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Certificação Digital de Moçambique",
+   "country_label": "Mozambique Digital Certification System",
+   "class": "authentication",
+   "platform": "PKI",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

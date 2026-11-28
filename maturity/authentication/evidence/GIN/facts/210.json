@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-gin-p-che-et-conomie-maritime-konk-vise-une-int-gration-au-dispositif-national-de-si",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "RTG reports a state pilot electronic-signature scheme (dispositif pilote de la signature electronique de l'Etat) into which the Ministry of Public Administration Modernisation is considering integrating the Konkoe fisheries platform.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "dispositif pilote de la signature electronique de l'Etat",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
