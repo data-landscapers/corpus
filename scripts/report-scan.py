@@ -20,7 +20,6 @@ put it in front of every pass until the hold cleared, and it reappears on its ow
     python scripts/report-scan.py --json          # the same, machine-readable
     python scripts/report-scan.py --slugs NGA     # the unconsidered slugs for one unit
     python scripts/report-scan.py --mark NGA a b  # record slugs (and all the ledger cites) as considered
-    python scripts/report-scan.py --month-due     # is a closed month owed an issue?
     python scripts/report-scan.py --sections NGA  # status sub-sections owed a whole re-read
     python scripts/report-scan.py --sections-read NGA  # stamp that re-read done today
 
@@ -61,7 +60,6 @@ _spec_r.loader.exec_module(_rri)
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 REPORTS = "outputs/reports"
-MONTH_MARK = os.path.join(REPORTS, "last-monthly.txt")
 ROOT = os.path.dirname(os.path.realpath(HERE))   # through the .workroot junction to Corpus
 UNIT_REVIEW = os.path.join(ROOT, "logs", "unit-review.csv")
 STATUS_INIT = os.path.join(ROOT, "logs", "status-init-progress.csv")
@@ -274,35 +272,6 @@ def sections_owed(unit, by_place=None, rows=None):
     return since, len(touched), owed
 
 
-def last_closed_month(today):
-    y, m = int(today[:4]), int(today[5:7])
-    return f"{y - 1}-12" if m == 1 else f"{y}-{m - 1:02d}"
-
-
-def month_due(today):
-    """The closed month owed an issue, or None. One repo-level marker, not one per unit: the
-    cadence is the cycle's, and 54 copies of it is 54 chances to drift."""
-    want = last_closed_month(today)
-    done = ""
-    if os.path.isfile(MONTH_MARK):
-        done = io.open(MONTH_MARK, encoding="utf-8").read().strip()
-    return want if want > done else None
-
-
-BACKSTOP_DAYS = 14
-
-
-def days_owed(today, month):
-    """Days since the owed month closed. The monthly leg prefers a light night, but a preference
-    that can be missed forever is a schedule nobody keeps: past BACKSTOP_DAYS any run issues it.
-    Fourteen is more than two turns of a five-row rotation, so the backstop only fires when
-    something actually went wrong — a re-cut rotation, or a run of failed nights."""
-    import datetime
-    y, m = int(month[:4]), int(month[5:7])
-    closed = datetime.date(y + (m == 12), (m % 12) + 1, 1) - datetime.timedelta(days=1)
-    return (datetime.date.fromisoformat(today) - closed).days
-
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", action="store_true")
@@ -312,16 +281,11 @@ def main():
     ap.add_argument("--seed", metavar="UNIT",
                     help="mark every source the unit currently holds as considered — what "
                          "initialisation owes, because it has already read the base")
-    ap.add_argument("--month-due", action="store_true")
     ap.add_argument("--sections", metavar="UNIT",
                     help=f"status sub-sections owed a whole re-read (past {REREAD_AFTER} news sources "
                          f"and {REREAD_GAP} days since the unit's last whole read)")
     ap.add_argument("--sections-read", metavar="UNIT",
                     help="stamp today as the unit's last sub-section re-read")
-    ap.add_argument("--gate", action="store_true",
-                    help="rotation gate: exit 0 if a closed month is owed an issue, 1 if not, "
-                         "2 on error. A gated row is passed over when this is non-zero.")
-    ap.add_argument("--close-month", metavar="YYYY-MM")
     ap.add_argument("--today", default=None)
     a = ap.parse_args()
 
@@ -351,33 +315,6 @@ def main():
         for sec in sorted(owed, key=order.index):
             print(f"  {sec}  {owed[sec]}")
         return
-    if a.close_month:
-        io.open(MONTH_MARK, "w", encoding="utf-8", newline="\n").write(a.close_month + "\n")
-        print(f"monthly issue closed for {a.close_month}")
-        return
-
-    today = a.today or __import__("datetime").date.today().isoformat()
-    if a.gate:
-        # Exit codes are the interface: 0 due, 1 not due, 2 error. A broken gate must not read
-        # as "not due" — that would silently retire the night and every run would log a success.
-        try:
-            due = month_due(today)
-        except Exception as exc:                                    # noqa: BLE001
-            print(f"gate error: {exc}", file=sys.stderr)
-            sys.exit(2)
-        print(due or "not due")
-        sys.exit(0 if due else 1)
-    if a.month_due:
-        due = month_due(today)
-        if not due:
-            print("none")
-        else:
-            n = days_owed(today, due)
-            print(f"{due} owed {n}d"
-                  + (f" — OVERDUE past {BACKSTOP_DAYS}d, issue tonight" if n > BACKSTOP_DAYS
-                     else " — wait for the host night"))
-        return
-
     by_place = sources_by_place()
     done = units()
     if a.slugs:
@@ -395,15 +332,9 @@ def main():
         if p not in done and len(s):
             skipped.append({"place": p, "sources": len(s)})
 
-    due_json = month_due(today)
     if a.json:
-        print(json.dumps({"month_due": due_json,
-                          "month_days_owed": days_owed(today, due_json) if due_json else None,
-                          "month_overdue": bool(due_json and days_owed(today, due_json) > BACKSTOP_DAYS),
-                          "work": work, "uninitialised": skipped}, indent=1))
+        print(json.dumps({"work": work, "uninitialised": skipped}, indent=1))
         return
-    due = month_due(today)
-    print(f"monthly issue due: {due or 'no'}")
     print(f"initialised units with unconsidered sources: {len(work)}")
     for w in sorted(work, key=lambda w: -w["unconsidered"]):
         print(f"  {w['unit']}  {w['unconsidered']}")

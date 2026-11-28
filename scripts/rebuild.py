@@ -275,8 +275,6 @@ def scan_work_order():
         print(f"    {w['unit']}  {w['unconsidered']}")
     if len(work) > 12:
         print(f"    … and {len(work) - 12} more units")
-    if d.get("month_overdue"):
-        print(f"  month {d.get('month_due')} overdue by {d.get('month_days_owed')} days")
 
 
 def summary():
