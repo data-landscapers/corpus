@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-28 03:28 · **REVIEW** · unclocked · EGY: status 6 sections revised, 9 trimmed, progress 1 cells, finance 0 rows; 2 deals queued, 0 notes for OSINT - ok
 2026-11-28 03:26 · **REVIEW** · unclocked · ERI: status 4 sections revised, 0 trimmed, progress 2 cells, finance 0 rows; 1 deals queued, 0 notes for OSINT - ok
 2026-11-28 03:26 · **REBUILD** · 10m · digitalsovereignty sovereignty: ladder rewritten, 54 cells reassessed, 0 moved, agreement 20/20; 54 searched, 52 staged; 32M tokens, run beside regionalpolicy - ok
 2026-11-28 03:26 · **REBUILD** · 11m · regionalpolicy cooperation: ladder rewritten, 54 cells reassessed, 1 moved (SSD 5->4), agreement 20/20; 54 searched, 81 staged; 32M tokens, run beside digitalsovereignty - ok
