@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest fact found is [the Kigali declaration](<https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf>), a statement of shared aims on artificial intelligence. Nothing Sudan has done under it is reported. No roaming cut, joint body set up, regional guideline adopted as a national rule or shared service opened has been found. Nor have figures of use or a decision of a joint body been found.
 
-***Also on file***. [COMESA ICT Policy and Regulatory Programme](<https://www.itu.int/ITU-D/treg/Events/Seminars/GSR/GSR03/Informal_meeting/ARICEA%20RESENTATION.pdf>); [China-Africa Digital Technology Cooperation Center](<https://www.chinanews.com.cn/sh/2026/08-29/10686400.shtml>); [ITU World Telecommunication Development Conference (WTDC-25)](<https://tpra.gov.sd/en/adoption-of-sudans-resolution-at-the-world-telecommunication-development-conference-azerbaijan/>).
+***Also on file***. [COMESA ICT Policy and Regulatory Programme](<https://www.itu.int/ITU-D/treg/Events/Seminars/GSR/GSR03/Informal_meeting/ARICEA%20RESENTATION.pdf>); [China-Africa Digital Technology Cooperation Center](<https://web.archive.org/web/20260830012028/https://www.chinanews.com.cn/sh/2026/08-29/10686400.shtml>); [ITU World Telecommunication Development Conference (WTDC-25)](<https://tpra.gov.sd/en/adoption-of-sudans-resolution-at-the-world-telecommunication-development-conference-azerbaijan/>).
 
 ***Not found***. No agreement signed, meeting hosted or chaired, or seat won in the last three years has been found.

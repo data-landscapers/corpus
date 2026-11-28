@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-bfa-l-aes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-l",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Burkina Faso, Mali and Niger signed the AES framework convention on cooperation in digital and postal matters (infrastructure sharing, connectivity, cybersecurity, e-government, AI) in Ouagadougou on 27 November 2026, per a ministry release carried by Wakat Sera.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "Convention-cadre de cooperation entre les Etats confederes dans les domaines du numerique et des postes",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AES Comite technique de cooperation numerique et postale",
+   "country_label": "Mali",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Alliance of Sahel States",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
