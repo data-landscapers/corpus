@@ -12,7 +12,7 @@
       "stage_sources": "ZWE-003;ZWE-004",
       "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the proposed Data Sovereignty Statutory Instrument is not yet in force.",
       "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): POTRAZ's bar on hosting core banking systems abroad binds financial systems, not state data (ZWE-002). The minister's proposed Data Sovereignty Statutory Instrument for critical government data is a draft (ZWE-003), so stage 2; the national cloud's hosting of government platforms (ZWE-006, ZWE-001) no longer lifts the cell without a rule.",
-      "as_at": "2026-10-31"
+      "as_at": "2026-11-28"
     }
   ]
 }

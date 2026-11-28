@@ -1,6 +1,6 @@
 # Digital sovereignty: control of state data
 
-*As at 2026-10-31.*
+*As at 2026-11-28.*
 
 ## The norm
 
@@ -12,9 +12,9 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 |---|---|
 | 1 Absent | A source from the past three years says no policy or law governs where state data is held or who may process it. |
 | 2 Stated goal | Yes to 1 |
-| 3 Rule in force | Yes to 2 |
-| 4 Hosted nationally | Yes to 3 |
-| 5 Contract terms | Yes to 4 |
+| 3 Rule in force | Yes to 2: the rule names government or state data. A rule binding only personal data in general, banks, payment firms or credit bureaux is not one. A rule in force also answers 1 |
+| 4 Hosted nationally | Stage 3 met, and yes to 3. Hosting with no rule in force places nothing |
+| 5 Contract terms | Stage 4 met, and yes to 4. Contract terms below stage 4 place nothing |
 
 ## Countries by stage
 

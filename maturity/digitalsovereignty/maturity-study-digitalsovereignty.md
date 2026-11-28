@@ -41,9 +41,9 @@ Asked in order. Each is answered with a date and a link.
 |---|---|
 | 1 Absent | A source from the past three years says no policy or law governs where state data is held or who may process it. |
 | 2 Stated goal | Yes to 1 |
-| 3 Rule in force | Yes to 2 |
-| 4 Hosted nationally | Yes to 3 |
-| 5 Contract terms | Yes to 4 |
+| 3 Rule in force | Yes to 2: the rule names government or state data. A rule binding only personal data in general, banks, payment firms or credit bureaux is not one. A rule in force also answers 1 |
+| 4 Hosted nationally | Stage 3 met, and yes to 3. Hosting with no rule in force places nothing |
+| 5 Contract terms | Stage 4 met, and yes to 4. Contract terms below stage 4 place nothing |
 
 **Every lower stage is shown by its own evidence** *(Bill, 2026-10-31, messages-for-bill 51)*: a later yes does not answer the earlier ones (`study.json` → `"later_yes": false`). Hosting or contract terms without a goal or rule on state data place nothing. `study.json` holds this as three aspects: `rule` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `hosted` (`national`) for 3 and `terms` (`carried`) for 4.
 
@@ -71,6 +71,7 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 - [x] **D3. Written, rendered and linted**; on the soft-launch map. Reported to Bill.
 - [x] **D4. Second drafter**, 2026-10-31, after the rebuild (housekeeping 46): 20 of 44 staged cells drawn, restaged blind from `evidence.csv` and `study.json` alone by a drafter who had read no page (the first restage, by the drafter who had just rewritten the pages, was not blind and is replaced). 17 of 20 agree; `agreement.csv`. The three splits stand at the first stage: SEN 2 against 3, SEN-001's 2021 instruction is outside the window and cites no instrument; SLE 2 against 4, SLE-002 shows the data centre but no state system hosted in it; TUN 2 against 3, TUN-001 binds credit bureaux' data, not state data.
 - [x] **D5. Every lower stage shown**, 2026-10-31 (messages-for-bill 51): eleven cells resting on a later yes restaged and logged `--kind ladder`. AGO, COM, GHA, GIN, MRT, MUS, MWI 4→2; CPV, SWZ, UGA 4→unplaced; ERI 5→unplaced. Now 8 at 4, 8 at 3, 23 at 2, 1 at 1; unplaced 8, no evidence 6.
+- [x] **D6. Ladder rewritten**, 2026-11-28 (R185): agreement had fallen to 10 of 20. Eight splits turned on rung 3: what counts as a rule on state data, and whether hosting or contract terms without one place a country; EGY and SEN split on facts that arrived after the draw. Rungs 3 to 5 now carry the two rulings of 2026-10-31; every cell restaged `--kind ladder`, none moved.
 
 **Decided in the run**: Removed at the top-stage check: BWA-003, the data centre's owner is not stated; EGY-002, a plan for an AI model to run in Egypt, not state data hosted; MAR-003, an AI marketplace, not state data or a core system hosted; MLI-001, what the data centre will host, not what it hosts; MOZ-002, a university's data centre, not a core government system.
 

@@ -12,7 +12,7 @@
       "stage_sources": "TCD-005;TCD-002;TCD-003",
       "gaps": "No source found since October 2023 says a rule on state data is in force: the data governance strategy, with its rules on local hosting and classification, was reported validated in November 2026, not adopted.",
       "note": "The data governance strategy setting rules on local hosting and classification of state data was validated by November 2026 (TCD-005), and the national data centre awaits certification (TCD-002), so stage 2. A validated strategy is not a policy in force, so not 3.",
-      "as_at": "2026-11-07"
+      "as_at": "2026-11-28"
     }
   ]
 }

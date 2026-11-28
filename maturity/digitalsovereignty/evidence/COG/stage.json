@@ -12,7 +12,7 @@
       "stage_sources": "COG-010;COG-007",
       "gaps": "Sources disagree on whether the national data centre operates: the ministry page (COG-006) says it hosts public institutions' data, and the newest source, of September 2026 (COG-010), says it is due by the end of 2026. No rule in force is on file.",
       "note": "The national data centre is meant to keep state data in Congo (COG-007, COG-010), so stage 2. The newest source says it will be delivered by the end of 2026, so hosting is not established and the cell is lowered from 4.",
-      "as_at": "2026-10-31"
+      "as_at": "2026-11-28"
     }
   ]
 }

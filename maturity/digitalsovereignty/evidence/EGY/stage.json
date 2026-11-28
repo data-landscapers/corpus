@@ -12,7 +12,7 @@
       "stage_sources": "EGY-001;EGY-010",
       "gaps": "No source found since October 2023 says a government contract with a foreign provider carries terms on data jurisdiction, portability, exit or source code.",
       "note": "Stage 4c 2026-11-10: the Government Data and Cloud Computing Center inaugurated in April 2024 analyses government data and serves government agencies (EGY-010), and the Cloud First Policy in force from August 2024 requires secret data to be hosted in Egypt (EGY-001), so stage 4. No contract carrying data terms is held, so not 5.",
-      "as_at": "2026-11-10"
+      "as_at": "2026-11-28"
     }
   ]
 }
