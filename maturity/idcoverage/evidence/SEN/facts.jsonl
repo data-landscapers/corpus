@@ -1,0 +1,42 @@
+{"n": 1, "slug": "2026-07-15-aps-59-pourcent-enfants-acte-etat-civil-convention-anec-anpectp", "facts": [], "systems": [], "note": "58.98% is a share of children in early-childhood structures holding a civil-status document, not population ID coverage."}
+{"n": 2, "slug": "2026-09-29-sen-senegaldirect-cartes-identite-prorogation-exceptionnelle", "facts": [], "systems": [], "note": "Nothing stated on this question."}
+{"n": 3, "slug": "2026-09-29-sen-senego-projet-loi-carte-identite-retourne-commission", "facts": [], "systems": [], "note": "Nothing stated on this question."}
+{"n": 4, "slug": "2026-09-24-sen-beninwebtv-daf-cyberattack-data-intact", "facts": [], "systems": [], "note": "No count or share of people holding the ID is given."}
+{"n": 5, "slug": "2026-09-16-aps-senegal-cdp-daf-deux-options-interoperabilite-etat-civil", "facts": [], "systems": [], "note": "No enrolment figures are given."}
+{"n": 9, "slug": "2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 10, "slug": "2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin", "facts": [], "systems": [], "note": "No count or share of people holding the NIN is given."}
+{"n": 11, "slug": "2026-04-07-aps-daf-reprise-production-cni", "facts": [], "systems": [], "note": "The document states nothing on this for the country."}
+{"n": 12, "slug": "2026-02-12-darkreading-senegal-breach-security-maturity", "facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "IRIS says more than 7 million Senegalese obtained new biometric IDs in the couple of years after late 2016, about 37% of the 18.9 million population (computed from the population figure given).", "as_of": "2018", "date_precision": "year", "system": "national biometric ID", "class": "idsystem"}], "systems": [], "note": ""}
+{"n": 15, "slug": "2026-02-05-aps-daf-suspension-cni-communique", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 221, "slug": "2026-01-01-sen-dgid-fiche-obtenir-un-ninea", "facts": [], "systems": [], "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."}
+{"n": 222, "slug": "2025-07-05-sen-rts-anec-daf-interoperabilite-rnec", "facts": [], "systems": [], "note": "The document states nothing this study asks for Senegal."}
+{"n": 223, "slug": "2025-12-04-sen-arcop-appel-caravane-nationale-pole-sud", "facts": [], "systems": [], "note": "Nothing on national ID enrolment."}
+{"n": 224, "slug": "2025-03-18-sen-primature-reunion-interministerielle-etat-civil", "facts": [], "systems": [], "note": "The document states nothing this study asks for Senegal: it describes civil registration shortcomings and a programme name only, with no digital system, link or figure that answers the questions."}
+{"n": 230, "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 231, "slug": "2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat", "facts": [], "systems": [], "note": "Only a 2034 target of a digital identity for 90% of citizens; no count of people enrolled."}
+{"n": 233, "slug": "2026-10-20-sen-senegal-sets-up-gouvnum-a-committee-to-bring-order-to-the-states-digit", "facts": [], "systems": [], "note": "Governance committee installed; only 2034 targets (90% of procedures online, 90% digital identity) stated, no delivered service or law."}
+{"n": 236, "slug": "2026-10-20-sen-note-publique-identite-numerique-e-gouvernement", "facts": [], "systems": [], "note": "The document gives no count or share of people holding a national ID."}
+{"n": 237, "slug": "2025-02-24-sen-new-deal-technologique-a-national-ambition-to-make-senegal-a-leader-in", "facts": [], "systems": [], "note": "No enrolment count or share."}
+{"n": 241, "slug": "2026-05-01-sen-rapport-d-achevement-de-la-phase-pilote-de-la-plateforme-appel-achats", "facts": [], "systems": [], "note": "Document states nothing on national ID enrolment."}
+{"n": 242, "slug": "2025-04-01-sen-e-ninea", "facts": [], "systems": [], "note": "Document is about the business number."}
+{"n": 245, "slug": "2026-09-11-sen-le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-l-etat", "facts": [], "systems": [], "note": "Nothing on national ID enrolment."}
+{"n": 253, "slug": "2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu", "facts": [], "systems": [], "note": "No enrolment figure."}
+{"n": 257, "slug": "2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli", "facts": [], "systems": [], "note": "Document states nothing this study asks; digital ID and AI uses are only plans or strands."}
+{"n": 261, "slug": "2026-08-15-sen-seyni-ndiaye-fall-coordonnateur-du-systeme-integre-de-management-de-l", "facts": [], "systems": [], "note": "The document states nothing this study asks for Senegal."}
+{"n": 264, "slug": "2026-11-04-sen-sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-pa", "facts": [], "systems": [], "note": "No national ID enrolment figure."}
+{"n": 265, "slug": "2024-11-11-crs-6-2024040234-2024-undp-formulation-of-a-programme-to-support-the-dig", "facts": [], "systems": [], "note": "Document only describes a UNDP formulation grant for a future programme; it states no delivered system or figure."}
+{"n": 268, "slug": "2024-11-11-iati-xm-dac-6-4-013045-01-0-undp-formulation-of-a-programme-to-support-the-digital-secto", "facts": [], "systems": [], "note": "Donor-funded UNDP formulation of a future programme for the three countries; a plan, with no delivered system, figure or government action stated."}
+{"n": 269, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adults-only Findex survey share is other."}
+{"n": 272, "slug": "2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems", "facts": [], "systems": [], "note": "Document states nothing this study asks for SEN."}
+{"n": 273, "slug": "2025-02-01-sen-compte-a-rebours-pour-la-revision-des-listes-electorales", "facts": [], "systems": [], "note": "The document states nothing this study asks about Senegal."}
+{"n": 274, "slug": "2024-01-01-proparco-sen-sonatel-2024-sonatel-sustainability-linked-loan", "facts": [], "systems": [], "note": "A telecom infrastructure loan; states nothing this study asks."}
+{"n": 275, "slug": "2026-11-09-xwa-ecowas-heads-of-immigration-sign-freetown-declaration-to-mandate-enbic-acceptance-by-january-1-2027", "facts": [], "systems": [], "note": "No enrolment count or share is stated."}
+{"n": 276, "slug": "2026-08-18-sen-numerique-responsable-l-interoperabilite-presentee-comme-un-levier-de", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 277, "slug": "2024-07-01-sen-dgid-order-article-355-bis-digital-vat", "facts": [], "systems": [], "note": "Document states nothing on ID coverage."}
+{"n": 280, "slug": "2026-11-10-sen-cartes-nationales-d-identite-a-l-etranger-quand-le-senegal-renouera-t-il", "facts": [], "systems": [], "note": "No enrolment count or share is given."}
+{"n": 281, "slug": "2026-06-09-sen-securisation-fonciere-le-procasef-plaide-pour-une-reforme-d-envergure", "facts": [], "systems": [], "note": "Nothing on national ID."}
+{"n": 292, "slug": "2025-11-08-sen-decret-relatif-aux-caracteristiques-a-la-duree-de-validite-et-aux-moda", "facts": [], "systems": [], "note": "Decree on the refugee/stateless ID card and travel document only; states nothing this study asks about SEN."}
+{"n": 293, "slug": "2025-01-01-sen-senegal-rights-mapping-and-analysis-platform", "facts": [], "systems": [], "note": "The page gives no count or share of the population holding a national ID."}
+{"n": 331, "slug": "2026-11-21-sen-assemblee-nationale-lannonce-inattendue-pour-nos-cartes-didentite-biometriques", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 333, "slug": "2026-10-29-sen-le-senegal-et-la-fondation-gates-en-partenariat-pour-accelerer-le-depl", "facts": [], "systems": [], "note": "No enrolment count or share is stated."}
+{"n": 335, "slug": "2026-11-25-sen-budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-mil", "facts": [], "systems": [], "note": "No ID enrolment figure is given."}

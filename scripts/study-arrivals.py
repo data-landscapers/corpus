@@ -355,7 +355,7 @@ def fan(today: dt.date) -> int:
                     part["facts"] = checked(sid, iso, st["slug"], part.get("facts") or [], dropped)
                     part["systems"] = classed(sid, part.get("systems") or [])
                     f = os.path.join(study_lib.study_dir(sid), "evidence", iso, "facts", f"{n}.json")
-                    if not os.path.exists(f):
+                    if not study_lib.part_taken(f):
                         os.makedirs(os.path.dirname(f), exist_ok=True)
                         with open(f, "w", encoding="utf-8", newline="\n") as fh:
                             json.dump({"slug": st["slug"], "facts": part.get("facts") or [],

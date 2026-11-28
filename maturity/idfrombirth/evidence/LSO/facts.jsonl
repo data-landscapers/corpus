@@ -1,0 +1,50 @@
+{"n": 1, "slug": "2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Lesotho's NICR says a unique personal identification number is issued upon birth registration.", "as_of": "2026-07-18", "date_precision": "day", "system": "NICR integrated system", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 2, "slug": "2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme", "facts": [], "systems": [], "note": "Birth registration is launched; no ID number at birth is stated."}
+{"n": 4, "slug": "2026-08-24-vital-strategies-d4h-stronger-together-namibia-lesotho-crvs", "facts": [], "systems": [], "note": "No number at birth stated for Lesotho."}
+{"n": 5, "slug": "2026-08-22-lestimes-refugees-trapped-lesotho-id-freeze", "facts": [], "systems": [], "note": "Document covers only refugee identity cards, a sectoral ID; no national ID facts."}
+{"n": 6, "slug": "2026-08-05-unicef-lesotho-sms-birth-registration", "facts": [], "systems": [], "note": "Document covers SMS birth registration stations only; says nothing on this question."}
+{"n": 7, "slug": "2026-06-29-lesotho-home-affairs-digital-id-modernization", "facts": [], "systems": [], "note": "No number given at birth is stated."}
+{"n": 8, "slug": "2026-04-22-lesotho-south-africa-border-crossing-id-cards", "facts": [], "systems": [], "note": "The document states nothing on this."}
+{"n": 9, "slug": "2026-03-25-lesotho-digital-service-id-pilot-govls", "facts": [], "systems": [{"system": "Digital/service identification system", "country_label": "Lesotho", "class": "idsystem", "platform": "", "owner": "MICSTI", "tiers": ""}], "note": "Not stated in this document."}
+{"n": 10, "slug": "2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate", "facts": [], "systems": [], "note": "Not stated in this document."}
+{"n": 11, "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan", "facts": [], "systems": [{"system": "MOSIP-based national digital identity ecosystem", "country_label": "LSO", "class": "idsystem", "platform": "MOSIP", "owner": "MICSTI", "tiers": ""}], "note": "No ID number at birth is stated."}
+{"n": 12, "slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE", "facts": [], "systems": [], "note": "The document states nothing about a number at birth."}
+{"n": 13, "slug": "2026-01-03-sekete-champions-civil-registration-access-qachas-nek", "facts": [], "systems": [], "note": "No ID number at birth is stated."}
+{"n": 14, "slug": "2025-08-25-codevelop-sadc-cross-border-digital-identity-framework", "facts": [], "systems": [], "note": "No number at birth is mentioned for Lesotho."}
+{"n": 15, "slug": "2024-05-14 Lesotho joins 50-in-5 DPI campaign (14th member); CRVS-DPI integration", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 21, "slug": "2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 83, "slug": "2025-10-30-lso-lestimes-nikuv-sues-govt-m39m", "facts": [], "systems": [], "note": "Document states nothing on this question for Lesotho."}
+{"n": 84, "slug": "2025-09-16-lso-thereporter-education-sector-lags-id-integration", "facts": [], "systems": [], "note": "Document states nothing this study asks for Lesotho."}
+{"n": 85, "slug": "2024-09-21-lso-lestimes-pm-allays-fears-passports-ids", "facts": [], "systems": [], "note": "Document covers only the end of a passport and ID card supply contract with Nikuv and new card deliveries; it states nothing the study asks."}
+{"n": 86, "slug": "2026-10-16-lso-rsl-individual-taxpayer-registration-form", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 87, "slug": "2026-10-15-lso-2027-2028-budget-strategy-paper-companion", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 88, "slug": "2025-04-01-lso-bos-publications", "facts": [], "systems": [], "note": "BOS publications listing states nothing on this question."}
+{"n": 89, "slug": "2024-07-24-lso-lena-iec-update-electors-register", "facts": [], "systems": [], "note": "Article says the IEC is updating its electoral database and asks voters to re-register; it states nothing this study asks."}
+{"n": 90, "slug": "2024-01-01-lso-undp-voter-registration-roundtable", "facts": [], "systems": [], "note": "Document states no number given at birth."}
+{"n": 93, "slug": "2026-05-14-lso-lestimes-moorosi-digitisation-interview", "facts": [], "systems": [], "note": "The document states nothing this study asks about Lesotho."}
+{"n": 94, "slug": "2025-06-01-lso-rsl-guide-on-tax-registration", "facts": [], "systems": [], "note": "Nothing stated on numbers at birth."}
+{"n": 95, "slug": "2024-10-23-lso-lestimes-iec-emis-tender-battle", "facts": [], "systems": [], "note": "Document states nothing this study asks (its EMIS is the electoral management system)."}
+{"n": 96, "slug": "2024-10-16-lso-publiceye-iec-re-registration-national-id", "facts": [], "systems": [], "note": "The document states nothing on this study's question for Lesotho."}
+{"n": 97, "slug": "2024-06-20-lso-eeas-nissa-digital-payments", "facts": [], "systems": [], "note": "The document states nothing this study asks about Lesotho."}
+{"n": 104, "slug": "2025-08-26-lso-lesotho-charts-digital-future-with-public-infrastructure-plan", "facts": [], "systems": [], "note": "Document describes a workshop validating a DPI framework concept note; plans and possible pilots only, nothing delivered or measured for this study."}
+{"n": 107, "slug": "2026-07-28-lso-how-a-birth-certificate-opened-the-door-to-support-for-marethabile-ram", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 108, "slug": "2025-04-02-lso-high-level-delegation-to-visit-qhoasing-community-council-to-witness-t", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 109, "slug": "2025-03-31-lso-lesotho-appreciates-uneca-s-support", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 116, "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 117, "slug": "2025-07-31-lso-data-governance-a-national-asset-ramashamole", "facts": [], "systems": [], "note": "The document states nothing that answers this study for Lesotho."}
+{"n": 118, "slug": "2026-10-29-xaf-opening-remarks-lerato-mataboge-6th-au-stc-cict", "facts": [], "systems": [], "note": "The document states nothing this study asks about this country."}
+{"n": 120, "slug": "2026-10-30-xaf-au-ministers-digital-strategies-to-delivery", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 122, "slug": "2024-10-31-lso-bid-to-make-ids-valid-for-life", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 125, "slug": "2025-06-11-lso-national-digital-transformation-is-launched", "facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}
+{"n": 127, "slug": "2026-09-25-lso-iec-orders-three-tier-audit-of-voters-roll", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 128, "slug": "2026-07-05-lso-au-hails-iec-over-election-reforms", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 129, "slug": "2026-05-29-lso-the-iec-has-launched-its-civic-and-voter-education-strategy-and-voter", "facts": [], "systems": [], "note": "Document states nothing this study asks; ID as sole voter-registration document is only prepared for, not in place."}
+{"n": 130, "slug": "2024-11-27-lso-iec-working-to-maintain-clean-voters-roll", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 132, "slug": "2025-09-17-lso-lesotho-marks-identity-day-with-progress-on-registration", "facts": [], "systems": [], "note": "Document states nothing this study asks for Lesotho."}
+{"n": 133, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 136, "slug": "2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 139, "slug": "2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 140, "slug": "2025-08-01-lso-strategic-report-on-the-prevalent-identity-theft-fraud", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 141, "slug": "2025-01-01-lso-identity-in-finance-a-case-study-of-the-kingdom-of-lesotho", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 154, "slug": "2024-08-09-lso-linking-civil-registration-to-vital-statistics-and-legal-identity-syst", "facts": [], "systems": [], "note": "A unique number is stated, not that it is given at birth registration."}
+{"n": 162, "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate", "facts": [], "systems": [], "note": "Not stated."}

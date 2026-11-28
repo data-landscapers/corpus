@@ -1,0 +1,57 @@
+{"n": 1, "slug": "2025-12-10-lematin-projet-loi-16-25-etat-civil-adopte-conseillers", "facts": [], "systems": [], "note": "Says nothing of an ID number at birth."}
+{"n": 2, "slug": "2025-10-27-hespress-interieur-walis-numerisation-etat-civil", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "Hespress says Law 36-21 provides for a national digital platform with a civil and social identifier assigned to every birth, Moroccan or foreign resident.", "as_of": "2025-10-27", "date_precision": "day", "system": "identifiant civil et social", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 5, "slug": "2026-09-15-crvs-laws-morocco-coordination-technology", "facts": [], "systems": [], "note": "No ID number at birth stated."}
+{"n": 6, "slug": "2026-09-15-programme-de-modernisation-de-letat-civil", "facts": [], "systems": [], "note": "No unique ID number at birth is stated."}
+{"n": 7, "slug": "2026-06-02-biometricupdate-morocco-national-id-renewal-online", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 8, "slug": "2026-05-28 Why decentralized digital identity looks different in every country", "facts": [], "systems": [{"system": "MOSIP-based national ID", "country_label": "Morocco", "class": "idsystem", "platform": "MOSIP", "owner": "", "tiers": ""}], "note": "Document states nothing on this question for the country."}
+{"n": 9, "slug": "2026-05-26-nigeria-kenya-morocco-afcfta-adapt", "facts": [], "systems": [], "note": "Document names Morocco only as an ADAPT pilot country with no statement on its own ID system."}
+{"n": 10, "slug": "2026-05-23-wearetech-morocco-digitizes-national-id-renewal", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 11, "slug": "2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance", "facts": [], "systems": [{"system": "National ID card management system", "country_label": "Morocco", "class": "idsystem", "platform": "", "owner": "DGSN", "tiers": ""}], "note": "Nothing stated."}
+{"n": 16, "slug": "2025-09-24 Morocco fast-tracks 'Mon e-ID' digital identity after cyberattacks (iDAKTO)", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 17, "slug": "2025-05-05 Morocco boosts digital ID for government services (DGSN–Ministry partnership)", "facts": [], "systems": [], "note": "The document states nothing on this question for the country."}
+{"n": 18, "slug": "2024-12-24 Morocco's DGSN issued 4.6 million electronic national IDs in 2024 (annual report)", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 25, "slug": "2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 27, "slug": "2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp", "facts": [], "systems": [], "note": "Document states nothing on this question."}
+{"n": 132, "slug": "2026-10-16-mar-crvslaws-vital-statistics-agency", "facts": [], "systems": [], "note": "Legal-database profile of decrees; states no delivered system, publication or exchange for this study."}
+{"n": 133, "slug": "2024-01-01-mar-crvslaws-birth-registration-id-services", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "CRVS Laws states that under Law 36.21 Article 30 a civil and social digital identifier is assigned at birth registration, but only to citizens.", "as_of": "2024", "date_precision": "year", "system": "civil and social digital identifier", "class": "birthnumber"}], "systems": [{"system": "civil and social digital identifier", "country_label": "Morocco", "class": "birthnumber", "platform": "", "owner": "", "tiers": ""}], "note": ""}
+{"n": 135, "slug": "2026-07-19-mar-lematin-minhaty-bourse-massar-rsu", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 136, "slug": "2026-03-24-mar-ined-accord-cadre-hcp-etat-civil", "facts": [], "systems": [], "note": "Document is a research cooperation accord between Ined and HCP; it states no stage-setting fact for this study."}
+{"n": 137, "slug": "2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques", "facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}
+{"n": 148, "slug": "2026-01-01-iati-who-mar-2026-27-digital-health-information-systems", "facts": [], "systems": [], "note": "Document is a WHO budget line for Morocco digital health support; it states nothing this study asks."}
+{"n": 149, "slug": "2026-06-16-mar-lebrief-bill-national-ai-agency-deepfakes", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 150, "slug": "2026-03-13-mar-adala-arrete-503-26-site-listes-electorales", "facts": [], "systems": [], "note": "The decree states nothing this study asks."}
+{"n": 151, "slug": "2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting", "facts": [], "systems": [], "note": "No number given at birth is stated."}
+{"n": 155, "slug": "2026-09-10-mar-euromedai-ai-2026-elections-legal-framework-task-force", "facts": [], "systems": [], "note": "No ID issuance from birth is described."}
+{"n": 156, "slug": "2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures", "facts": [], "systems": [], "note": "The document states nothing on an ID number at birth."}
+{"n": 159, "slug": "2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 165, "slug": "2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 166, "slug": "2024-10-18-mar-laftit-written-answer-civil-status-digitisation", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 173, "slug": "2026-09-25-hespress-publicite-meta-applique-tva-maroc-octobre", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 174, "slug": "2025-04-13-mar-add-silence-on-digitalise", "facts": [], "systems": [], "note": "The document states nothing this study asks for Morocco."}
+{"n": 175, "slug": "2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 181, "slug": "2024-04-23-mar-massar-registration-digital-identity-learner-register", "facts": [], "systems": [{"system": "Massar", "country_label": "Morocco", "class": "other", "platform": "", "owner": "Ministry of National Education", "tiers": ""}], "note": "Document states nothing this study asks."}
+{"n": 185, "slug": "2026-09-22-mar-morocco-voters-can-check-polling-stations-by-text-website-or-mobile-ap", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 186, "slug": "2026-01-13-mar-elections-maroc-laftit-16-5-millions-d-inscrits-1-4-million-radies-des", "facts": [], "systems": [], "note": "Document does not state anything this study asks."}
+{"n": 187, "slug": "2025-02-06-mar-aljarida24-11-million-e-service-operations-monthly", "facts": [], "systems": [], "note": "The document states nothing this study asks for Morocco."}
+{"n": 188, "slug": "2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 189, "slug": "2026-11-04-xaf-why-africas-digital-progress-must-be-grounded-in-human-rights-accountability", "facts": [], "systems": [], "note": "Names the country only as an NHRI participant; states nothing the study asks."}
+{"n": 194, "slug": "2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 200, "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration", "facts": [], "systems": [], "note": "No number at birth is described."}
+{"n": 201, "slug": "2025-05-02-mar-accord-cadre-de-partenariat-pour-le-developpement-de-l-e-gouvernement", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 202, "slug": "2024-02-09-mar-digitalisation-mon-e-id-de-la-dgsn-enregistre-plus-de-5-millions-d-ope", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 204, "slug": "2026-01-01-mar-country-playbook-maroc-souverainete-et-inclusion-numerique", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 205, "slug": "2024-10-07-mar-dgsn-bank-al-maghrib-identity-verification-protocol", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 207, "slug": "2026-11-09-mar-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates", "facts": [], "systems": [], "note": "The document says nothing on an ID number given at birth."}
+{"n": 219, "slug": "2026-02-24-mar-lematin-bac-2026-validation-donnees-massar", "facts": [], "systems": [], "note": "The document states nothing on a number at birth."}
+{"n": 220, "slug": "2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 221, "slug": "2024-07-15-mar-morocco-s-justice-ministry-to-integrate-artificial-intelligence-in-cou", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 227, "slug": "2026-06-04-mar-morocco-expands-digital-reform-drive-with-police-service-modernization", "facts": [], "systems": [], "note": "Article covers a police reception-services pilot framework and the E-Police online procedures platform; nothing this study asks."}
+{"n": 228, "slug": "2026-02-18-mar-aui-opens-digital-innovation-lab-as-new-hub-for-africa-focused-tech-wo", "facts": [], "systems": [], "note": "University lab opening; MOSIP experimentation is academic, not a state system; nothing this study asks."}
+{"n": 229, "slug": "2024-09-05-mar-morocco-s-dgsn-strengthens-it-system-with-9-2-million-equipment-purcha", "facts": [], "systems": [], "note": "Article states only equipment purchases and a police station system pilot; nothing this study asks."}
+{"n": 235, "slug": "2026-11-11-public-services-guellaa-announces-planned-law-on-data-exchange-and-dig", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 240, "slug": "2025-04-21-mar-vaste-projet-de-numerisation-des-registres-de-letat-civil", "facts": [], "systems": [], "note": "Document says nothing on an ID number given at birth."}
+{"n": 242, "slug": "2025-01-10-mar-bientot-une-solution-numerique-pour-les-avis-de-naissance", "facts": [], "systems": [], "note": "Nothing stated that answers this study."}
+{"n": 250, "slug": "2026-11-16-hespress-ar-ai-ministry-sovereign-platform", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 273, "slug": "2026-11-18-mar-watiqa-civil-status-portal-outage", "facts": [], "systems": [], "note": "Document states nothing on an ID number given at birth."}
+{"n": 274, "slug": "2026-11-17-mar-ai-rural-internet-access-and-public-services-ahmed-rahhou-unveils-moroccos-next", "facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}
+{"n": 280, "slug": "2026-11-24-mar-pr-sentation-rabat-de-e-rokhsati-une-plateforme-de-d-mat-rialisation-d", "facts": [], "systems": [], "note": "No number at birth is mentioned."}

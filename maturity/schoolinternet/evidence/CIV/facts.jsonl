@@ -1,0 +1,45 @@
+{"n": 161, "slug": "ref:uis-4a1-secondary-internet@2026-02-09", "facts": [{"sub_indicator": "schools", "aspect": "internet", "value": "official:35.2461", "fact": "35.2 per cent of secondary schools in Cote d'Ivoire had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.", "as_of": "2024", "date_precision": "year", "system": "UNESCO's SDG 4.a.1 series", "class": "schoolinternet"}], "systems": [{"system": "UNESCO's SDG 4.a.1 series", "country_label": "Cote d'Ivoire", "class": "schoolinternet", "platform": "", "owner": "UNESCO Institute for Statistics", "tiers": ""}], "note": "carried from reference/measures.csv; no document opened"}
+{"n": 162, "slug": "2026-09-22-civ-sikafinance-datacenter-yamoussoukro-parae", "facts": [], "systems": [], "note": "The document states nothing this study asks for Cote d'Ivoire."}
+{"n": 167, "slug": "2025-11-05-civ-cipesa-digital-inclusion-disabilities", "facts": [], "systems": [], "note": "Document states nothing this study asks for Cote d'Ivoire."}
+{"n": 171, "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 173, "slug": "2025-11-01-civ-innovation-dans-l-agriculture-les-applications-e-voucher-et-cropscope", "facts": [], "systems": [], "note": "An agriculture-apps article; it states nothing on school internet or a compulsory curriculum."}
+{"n": 174, "slug": "2025-03-01-xaf-riarc-principes-regulation-ia-communication-audiovisuelle", "facts": [], "systems": [], "note": "Document is a continental regulators' network text (RIARC principles) and states nothing about Cote d'Ivoire by name."}
+{"n": 181, "slug": "2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 182, "slug": "2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 183, "slug": "2024-01-01-civ-ccm-marches-publics-gestion-2023", "facts": [], "systems": [], "note": "The document states nothing this study asks for CIV."}
+{"n": 187, "slug": "2026-07-31-civ-cote-d-ivoire-192-agents-de-l-etat-du-hambol-desormais-outilles-en-inf", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 188, "slug": "2026-03-24-civ-cote-d-ivoire-projet-lms-d-ameliorer-l-acces-a-des-contenus-numeriques", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 189, "slug": "2026-02-09-civ-cote-d-ivoire-le-projet-de-digitalisation-de-la-fonction-publique-et-d", "facts": [], "systems": [], "note": "No statement bearing on this question."}
+{"n": 190, "slug": "2025-07-24-civ-cote-d-ivoire-aip-203-fonctionnaires-et-agents-de-l-etat-de-l-agneby-t", "facts": [], "systems": [], "note": "Nothing stated on this."}
+{"n": 191, "slug": "2024-08-12-civ-tic-190-agents-de-l-etat-formes-aux-outils-numeriques", "facts": [], "systems": [], "note": "No statement bearing on this question."}
+{"n": 192, "slug": "2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 195, "slug": "2026-10-27-civ-cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliar", "facts": [], "systems": [], "note": "The document states nothing this study asks about CIV."}
+{"n": 199, "slug": "2025-09-26-civ-modernisation-de-l-administration-le-ministre-kalil-konate-lance-offic", "facts": [], "systems": [], "note": "Nothing on schools or the curriculum."}
+{"n": 204, "slug": "2026-10-29-acet-unlocking-africas-digital-potential", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 205, "slug": "2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 207, "slug": "2026-11-01-bruno-kone-digitalisation-agriculture", "facts": [], "systems": [], "note": "Agricultural digital school at a polytechnic; no secondary school internet figure or compulsory curriculum stated."}
+{"n": 211, "slug": "2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 212, "slug": "2026-09-02-civ-mobile-que-devient-le-superphone-ce-smartphone-made-in-cote-d-ivoire", "facts": [], "systems": [], "note": "No school internet figure or compulsory subject stated."}
+{"n": 213, "slug": "2025-11-27-civ-himss-eurasia-2025-franck-simon-blehiri-expose-le-succes-du-modele-ivo", "facts": [], "systems": [], "note": "Schools are not mentioned."}
+{"n": 214, "slug": "2025-01-01-civ-renforcement-du-systeme-d-information-de-sante", "facts": [], "systems": [], "note": "Document states nothing on schools."}
+{"n": 215, "slug": "2024-08-02-civ-consolidation-du-rapport-final-de-l-atelier-sur-l-harmonisation-des-lo", "facts": [], "systems": [], "note": "The document says nothing about schools or internet."}
+{"n": 222, "slug": "2025-09-26-civ-cote-d-ivoire-l-interoperabilite-un-catalyseur-de-la-transformation-di", "facts": [], "systems": [], "note": "Schools not mentioned."}
+{"n": 223, "slug": "2024-07-16-civ-le-dg-de-l-oneci-echange-avec-la-presse-nationale", "facts": [], "systems": [], "note": "The document states nothing this study asks for CIV."}
+{"n": 224, "slug": "2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d", "facts": [], "systems": [], "note": "The document states nothing this study asks for CIV."}
+{"n": 226, "slug": "2026-11-08-civ-orange-cyber-connect-lafrique-face-au-defi-de-la-souverainet", "facts": [], "systems": [], "note": "States nothing on school connectivity."}
+{"n": 227, "slug": "2025-02-27-civ-gggi-koica-launch-genie-initiative-digital-skills", "facts": [], "systems": [], "note": "No school internet or curriculum stated."}
+{"n": 234, "slug": "2026-11-11-civ-guichet-unique-numerique-du-tourisme-et-des-loisirs", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 235, "slug": "2026-07-28-civ-digitalisation-des-services-publics-en-cote-d-ivoire-les-applications", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 236, "slug": "2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut", "facts": [], "systems": [], "note": "Nothing on school internet or the curriculum."}
+{"n": 237, "slug": "2026-07-02-civ-forum-club-sante-2026-la-disd-fixe-le-cap-de-l-intelligence-artificiel", "facts": [], "systems": [], "note": "Nothing on schools or the curriculum."}
+{"n": 238, "slug": "2025-06-26-civ-digitalisation-des-actes-de-justice-la-plateforme-e-justice-ci-desorma", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 242, "slug": "2025-01-01-civ-a-feat-achieved-through-the-use-of-sdmx", "facts": [], "systems": [], "note": "Document states nothing on school internet or curriculum."}
+{"n": 246, "slug": "2026-11-11-civ-undp-centre-national-ia-etude-volet-2", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 266, "slug": "2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef", "facts": [], "systems": [], "note": "No school internet share or compulsory curriculum is stated."}
+{"n": 267, "slug": "2026-09-30-civ-intelligent-health-systems", "facts": [], "systems": [], "note": "Nothing on secondary schools stated."}
+{"n": 268, "slug": "2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i", "facts": [], "systems": [], "note": "Nothing on this study stated for Cote d'Ivoire."}
+{"n": 269, "slug": "2024-11-01-civ-vers-une-adoption-optimale-de-la-solution-dpi-une-nouvelle-dynamique-c", "facts": [], "systems": [], "note": "Health document; no school internet figure or curriculum rule."}
+{"n": 290, "slug": "2026-03-13-civ-digitalisation-et-regulation-de-la-technologie-de-l-intelligence-artif", "facts": [], "systems": [], "note": "Nothing stated on school internet or the secondary curriculum."}
+{"n": 291, "slug": "2026-07-01-civ-fiche-d-opportunite-d-investissement-op-5-03-034-transition-numerique", "facts": [], "systems": [], "note": "Nothing on school internet or curriculum."}
+{"n": 293, "slug": "2025-11-25-civ-modernisation-numerique-le-ministere-restitue-son-schema-directeur-du", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 294, "slug": "2025-02-14-civ-auger-cadet-seoulou-en-quatre-jours-nous-avons-recu-environ-800-demand", "facts": [], "systems": [], "note": "The interview is about the eJustice.ci nationality-certificate platform and states nothing this study asks for Cote d'Ivoire."}

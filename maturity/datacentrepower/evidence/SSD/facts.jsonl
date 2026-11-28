@@ -1,0 +1,4 @@
+{"n": 1, "slug": "2026-08-18-juba-karuma-hydropower-late-2026", "facts": [], "systems": [], "note": "Names no data centre; grid imports and a substation at Nesitu are national supply, not tied to a data centre."}
+{"n": 2, "slug": "2026-02-12-nesitu-solar-power-launch-four-months", "facts": [], "systems": [], "note": "Names no data centre; the Nesitu solar plant is general grid supply, not built or reserved for data centres."}
+{"n": 3, "slug": "2021-12-01-south-sudan-electricity-sector-diagnostic", "facts": [], "systems": [], "note": "Names no data centre; national supply and demand figures only, with no source tying a shortage to a data centre."}
+{"n": 5, "slug": "2026-10-08-world-development-indicators-selection-2026-11-10", "facts": [], "systems": [], "note": "A national renewable-share figure; no aspect of this study holds it.", "claims": {"wdi-1b6b6f4266": "nothing: national renewable share, not assessed"}}

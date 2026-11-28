@@ -1,0 +1,77 @@
+{"n": 1, "slug": "2026-07-25-malawi-cash-reliance-banknote-costs-digital-payment-uptake", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 2, "slug": "2026-03-30-mobile-money-k38tn-2025-nps-report-times", "facts": [], "systems": [], "note": "Only wallet subscription counts, no survey share of adults."}
+{"n": 3, "slug": "2025-04-16 Mobile money deals hit K19.5tn in 2024", "facts": [], "systems": [], "note": "Document states nothing on this study for the country."}
+{"n": 4, "slug": "2026-09-15-mwi-ednews-givedirectly-canva-150m-mobile-money-transfers", "facts": [], "systems": [], "note": "No survey share of adults with an account."}
+{"n": 5, "slug": "2026-09-04-itwebafrica-malawi-police-digital-traffic-fines", "facts": [], "systems": [{"system": "Malawi Police electronic traffic fine payment", "country_label": "MWI", "class": "revenue", "platform": "", "owner": "", "tiers": ""}, {"system": "TNM Mpamba", "country_label": "MWI", "class": "retail", "platform": "", "owner": "", "tiers": ""}, {"system": "Airtel Money", "country_label": "MWI", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": "The document states nothing on this study for Malawi."}
+{"n": 6, "slug": "2026-08-12-rdc-la-fintech-k-nyane-pesaflow-prospecte-le-march-de-la-govtech", "facts": [], "systems": [], "note": "Only a passing mention of Pesaflow's past work in Malawi; nothing on this study."}
+{"n": 7, "slug": "2026-06-24-airtel-money-admarc-farmer-payments-itweb", "facts": [], "systems": [], "note": "No account-ownership survey share stated."}
+{"n": 8, "slug": "2026-05-01-mwi-tnm-mpamba-sct-disbursement-mangochi", "facts": [], "systems": [], "note": "Nothing stated on this study."}
+{"n": 9, "slug": "2026-04-24-paychangu-unified-payment-infrastructure-wearetech", "facts": [], "systems": [], "note": "The document states nothing on this for the country."}
+{"n": 10, "slug": "2026-04-16-rbm-national-payments-strategy-2026-2030-itweb", "facts": [], "systems": [], "note": "The document gives no fact for this study."}
+{"n": 12, "slug": "2025-10-13 Comesa payment system connects Malawi, Zambia", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 13, "slug": "2025-07-16-cftc-tnm-mpamba-eticketing-interoperability-malawi24", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 14, "slug": "2025-06-17-paychangu-centenary-instant-bank-transfer-malswitch-malawi24", "facts": [], "systems": [], "note": "No survey share of adults stated."}
+{"n": 15, "slug": "2025-03-01-comesa-eu-partnership-shaping-a-digital-future", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 30, "slug": "2026-09-04-mwi-macra-digital-scams-alert", "facts": [], "systems": [{"system": "Social cash transfer programmes", "country_label": "MWI", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The document is a fraud warning from the communications regulator and states nothing on this study."}
+{"n": 42, "slug": "2025-03-21-ssrlp-inspire-o-aide-memoire", "facts": [], "systems": [], "note": "No survey share of adults with an account stated."}
+{"n": 173, "slug": "2025-10-16-mus-impactalpha-kuunda-7-5m-pre-series-a", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 176, "slug": "2026-10-17-mwi-malawi24-paychangu-psp-licence-rbm", "facts": [], "systems": [], "note": "Document gives no survey figure on account holding."}
+{"n": 177, "slug": "2026-10-14-mwi-macra-rfp-content-delivery-platform", "facts": [], "systems": [], "note": "RFP for a regulator content-streaming platform; states nothing this study asks."}
+{"n": 178, "slug": "2025-07-21-mwi-nation-banks-respond-digital-services-findex", "facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "The World Bank's Global Findex 2025 report indicates that 50 percent of Malawian adults had a financial account in 2024, as reported by the Bankers Association of Malawi's chief executive.", "as_of": "2024", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}], "systems": [], "note": ""}
+{"n": 179, "slug": "2025-05-20-mwi-satcp-national-single-window-launch", "facts": [], "systems": [], "note": "The document states nothing this study asks for Malawi."}
+{"n": 180, "slug": "2024-11-20-mwi-times-rbm-tightens-grip-financial-sector", "facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}
+{"n": 181, "slug": "2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi", "facts": [], "systems": [], "note": "Document states nothing on this question for Malawi."}
+{"n": 183, "slug": "2024-01-01-mwi-finmark-finscope-consumer-malawi-2023", "facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "The FinScope Consumer Survey Malawi 2023 findings report (FinMark Trust, 3,000 adults) says about two in every three adults (69%) currently use mobile money, up from 3% in 2014, and that 13% of adults are banked.", "as_of": "2023", "date_precision": "year", "system": "FinScope Consumer Survey Malawi 2023", "class": "survey"}], "systems": [{"system": "TNM Mpamba", "country_label": "Malawi", "class": "other", "platform": "mobile money", "owner": "", "tiers": ""}, {"system": "Airtel Money", "country_label": "Malawi", "class": "other", "platform": "mobile money", "owner": "", "tiers": ""}], "note": ""}
+{"n": 189, "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity", "facts": [], "systems": [], "note": "The 74% figure (FinScope 2023) is for formal financial services, not an account at a bank or mobile money provider."}
+{"n": 190, "slug": "2024-07-20-mwi-making-national-id-work-beyond-voter-registration", "facts": [], "systems": [], "note": "The document states nothing this study asks for Malawi."}
+{"n": 196, "slug": "2026-04-15-mwi-reserve-bank-of-malawi-sets-digital-payments-vision-but-execution-will", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 197, "slug": "2024-10-25-mwi-malawi-joins-regional-digital-payment-system", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 198, "slug": "2023-12-28-mwi-rbm-joins-pan-african-payment-system", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 199, "slug": "2026-04-15-mwi-rbm-launches-national-payments-system-strategy-to-drive-inclusive-grow", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 200, "slug": "2024-08-27-mwi-pawapay-gets-payment-service-provider-licence", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 201, "slug": "2023-11-07-mwi-rbm-moves-to-curb-unlicensed-payment-service-providers", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 207, "slug": "2025-08-19-mwi-financial-consumer-complaints-increase", "facts": [], "systems": [], "note": "The document states nothing this study asks for this country."}
+{"n": 208, "slug": "2025-04-28-mwi-fintech-push-spurs-rbm-to-rethink-monetary-tools", "facts": [], "systems": [], "note": "The document states nothing this study asks for this country."}
+{"n": 209, "slug": "2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery", "facts": [], "systems": [], "note": "Document states nothing on this question for Malawi."}
+{"n": 210, "slug": "2024-07-19-mwi-reserve-bank-of-malawi-demands-seamless-digital-payment-systems", "facts": [], "systems": [], "note": "The document states nothing this study asks for this country."}
+{"n": 211, "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 212, "slug": "2025-07-22-mwi-stakeholder-comments-matrix-on-consumer-protection-bill-and-complaint", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 215, "slug": "2026-03-27-mwi-regional-digital-payments-to-boost-trade-ease-forex-pressure-rbm", "facts": [], "systems": [], "note": "Nothing stated on this."}
+{"n": 216, "slug": "2025-08-12-cog-airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-re", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 217, "slug": "2025-08-07-zmb-airtel-money-pawapay-enable-remittances-for-seven-african-countries", "facts": [], "systems": [], "note": "Only a provider user count across 14 countries, no adult survey."}
+{"n": 218, "slug": "2024-04-15-mwi-mtn-momo-increases-remittance-services-to-10-new-countries", "facts": [], "systems": [], "note": "No survey share of adults with an account is given."}
+{"n": 219, "slug": "2023-11-09-mwi-reserve-bank-of-malawi-grants-flutterwave-license-to-process-internati", "facts": [], "systems": [], "note": "No survey share of adults with accounts."}
+{"n": 224, "slug": "2026-10-27-mwi-malawi-pushes-tough-new-laws-to-track-expose-and-jail-online-scammers-nyasa-time", "facts": [], "systems": [], "note": "Document states nothing this study asks about Malawi."}
+{"n": 227, "slug": "2026-06-30-mwi-tnm-ocl-data-centre-related-party-transaction", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 229, "slug": "2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes", "facts": [], "systems": [], "note": "States nothing the study asks."}
+{"n": 230, "slug": "2025-07-12-mwi-detectives-cashing-in-on-search-warrants", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 236, "slug": "2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion", "facts": [], "systems": [], "note": "No survey share of adults with an account."}
+{"n": 242, "slug": "2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money", "facts": [], "systems": [], "note": "No account survey figure stated."}
+{"n": 243, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 244, "slug": "2026-11-06-mwi-airtel-malawi-invests-mwk81-billion-in-network-expansion", "facts": [], "systems": [], "note": "Gives no survey share of adults with an account."}
+{"n": 245, "slug": "2026-06-08-mwi-malawi-digital-economy", "facts": [], "systems": [], "note": "Gives 45 percent of individuals using digital financial services, not an account survey share."}
+{"n": 247, "slug": "2025-02-01-mwi-digital-malawi-acceleration-project-dmap-p505095-aide-memoire-id-techn", "facts": [], "systems": [], "note": "Document states nothing this study asks for Malawi."}
+{"n": 248, "slug": "2026-01-19-mwi-malawi-moves-to-curb-mobile-fraud", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 253, "slug": "2024-05-28-gnb-revolut-mobile-wallets-airtel-orange-money-mtn", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 254, "slug": "2026-08-01-mwi-expression-of-interest-eoi-development-of-property-management-informat", "facts": [], "systems": [], "note": "No payments uptake figure is stated."}
+{"n": 255, "slug": "2026-07-01-mwi-digital-system-to-boost-revenue-in-kasungu", "facts": [], "systems": [], "note": "The document gives no survey figure on account holders."}
+{"n": 256, "slug": "2026-05-22-mwi-malawi-unveils-digital-spsis-to-transform-agricultural-trade", "facts": [], "systems": [], "note": "Nothing stated on this question."}
+{"n": 257, "slug": "2025-08-01-mwi-provision-of-consultancy-services-for-the-development-of-a-court-case", "facts": [], "systems": [], "note": "The document gives no survey figure."}
+{"n": 263, "slug": "2026-11-12-comesa-central-bank-governors-bureau-clearing-house-drpp", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 266, "slug": "2025-04-16-mwi-digital-payment-volumes-rise-gaps-still-remain-data-shows", "facts": [], "systems": [], "note": "Gives subscriber and transaction counts, no survey share of adults with accounts."}
+{"n": 280, "slug": "2025-09-26-mwi-electronic-payment-improves-efficiency-of-cash-transfers", "facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}
+{"n": 281, "slug": "2025-08-12-mwi-nlgfc-applauds-e-payment-in-dowa", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 282, "slug": "2025-11-08-mwi-mse-touts-project-for-nurturing-smes", "facts": [], "systems": [], "note": "Document gives no account-holding survey figure."}
+{"n": 294, "slug": "2026-11-15-mwi-mana-namalomba-ictam-agm-tech-exports", "facts": [], "systems": [], "note": "No survey figure stated."}
+{"n": 317, "slug": "2026-11-17-xaf-stablecoins-promised-to-fix-cross-border-payments-fragmentat", "facts": [], "systems": [], "note": "No survey of adults with accounts stated."}
+{"n": 318, "slug": "2026-11-18-businessday-africa-cross-border-payment-rail-5bn-reality-check", "facts": [], "systems": [], "note": "Nothing stated for this country on this study."}
+{"n": 321, "slug": "2026-11-20-airtel-money-upgrades-mobile-money-platform-in-malawi-and-tanzania", "facts": [], "systems": [], "note": "Document states nothing that answers this study."}
+{"n": 322, "slug": "2026-11-19-nam-namibian-banks-handle-25-of-sadc-payments", "facts": [], "systems": [], "note": "No survey share."}
+{"n": 328, "slug": "2026-11-23-mwi-africas-digital-independence-the-new-infrastructure-race-has-begun", "facts": [], "systems": [], "note": "No account-ownership survey figure."}
+{"n": 329, "slug": "2026-11-23-mwi-mukhito-backs-digital-overhaul-of-malawi-police", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 331, "slug": "2026-08-01-mwi-invitation-to-express-interest-supply-deployment-and-operation-of-an-i", "facts": [], "systems": [], "note": "No survey share of adults with an account is given."}
+{"n": 332, "slug": "2026-10-27-mwi-truth-cybersecurity-laws-review-namalomba-mhango", "facts": [], "systems": [], "note": "The document gives no survey share of adults with accounts."}
+{"n": 334, "slug": "2026-11-25-mwi-government-tells-mobile-money-firms-fix-fees-networks-and-trust", "facts": [], "systems": [], "note": "No survey share of adults with an account is given."}
+{"n": 335, "slug": "2026-11-25-mwi-rbm-targets-fraud-high-charges-in-digital-payment-reforms", "facts": [], "systems": [], "note": "No survey share of adults with an account is given."}
+{"n": 337, "slug": "2026-11-27-mwi-reserve-bank-of-malawi-targets-safer-digital-payments-under-2026-2030", "facts": [], "systems": [], "note": "88% financial inclusion is not a survey share of adults with an account."}
+{"n": 338, "slug": "2026-11-26-mwi-malawi-tops-region-in-money-transfer-costs", "facts": [], "systems": [], "note": "An 88% financial inclusion rate is given with no survey or account measure named."}

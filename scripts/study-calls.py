@@ -129,9 +129,7 @@ def todo_and_answered(study: str) -> tuple[dict[str, list[dict]], set[tuple[str,
     lists, answered = {}, set()
     for iso in sorted(study_lib.countries()):
         lists[iso] = study_lib.read_csv(os.path.join(base, iso, "readlist.csv"))
-        folder = os.path.join(base, iso, "facts")
-        if os.path.isdir(folder):
-            answered |= {(iso, f[:-5]) for f in os.listdir(folder) if f.endswith(".json")}
+        answered |= {(iso, n) for n in study_lib.answered(os.path.join(base, iso))}
     return lists, answered
 
 
@@ -224,7 +222,7 @@ def fan_batch(studies: list[str], dry: bool) -> int:
             view = {"slug": st["slug"], "countries": isos}
             for iso, doc in fan({"countries": part.get("countries") or {}}, view).items():
                 out = os.path.join(study_lib.study_dir(sid), "evidence", iso, "facts", f"{isos[iso]}.json")
-                if os.path.exists(out) or dry:
+                if study_lib.part_taken(out) or dry:
                     continue
                 os.makedirs(os.path.dirname(out), exist_ok=True)
                 with open(out, "w", encoding="utf-8", newline="\n") as fh:
@@ -298,7 +296,7 @@ def main(argv=None) -> int:
                 continue
             for iso, doc in fan(answer, c).items():
                 out = os.path.join(base, iso, "facts", f"{c['countries'][iso]}.json")
-                if os.path.exists(out) or a.dry:
+                if study_lib.part_taken(out) or a.dry:
                     continue
                 os.makedirs(os.path.dirname(out), exist_ok=True)
                 with open(out, "w", encoding="utf-8", newline="\n") as fh:
@@ -311,9 +309,7 @@ def main(argv=None) -> int:
     lists, answered = {}, set()
     for iso in sorted(study_lib.countries()):
         lists[iso] = study_lib.read_csv(os.path.join(base, iso, "readlist.csv"))
-        folder = os.path.join(base, iso, "facts")
-        if os.path.isdir(folder):
-            answered |= {(iso, f[:-5]) for f in os.listdir(folder) if f.endswith(".json")}
+        answered |= {(iso, n) for n in study_lib.answered(os.path.join(base, iso))}
     study = study_lib.load(a.study)
     calls = plan(lists, answered, passes_of(study), since_of(study))
     regional = [st for c in calls if c["kind"] == "regional" for st in c["stories"]]

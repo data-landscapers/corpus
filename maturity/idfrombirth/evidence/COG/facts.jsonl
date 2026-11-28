@@ -1,0 +1,37 @@
+{"n": 1, "slug": "2026-09-23-cog-adiac-sifec-etat-civil-operationnalisation", "facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "No identity number at birth is stated."}
+{"n": 2, "slug": "2026-09-06-lesechos-congo-etat-civil-circulaire-fraude-documentaire", "facts": [], "systems": [], "note": "No identity number at birth stated."}
+{"n": 3, "slug": "2026-08-10-congo-sifec-civil-status-digitisation-senate", "facts": [], "systems": [], "note": "Sifec centralises civil status records; no link to the ID system or number at birth is stated."}
+{"n": 4, "slug": "2026-08-08-congo-civil-status-fraud-network-investigation", "facts": [], "systems": [], "note": "The Système intégré de gestion de l'état civil digitises civil-status records; no link to an ID system or number at birth is stated."}
+{"n": 5, "slug": "2026-02-20-cog-sifec-cloture-recommandations-mfbpp", "facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "The document states no ID number given at birth."}
+{"n": 6, "slug": "2026-02-18-cog-sifec-validation-etat-civil-mfbpp", "facts": [], "systems": [{"system": "SIFEC", "country_label": "Congo", "class": "other", "platform": "", "owner": "ACSI", "tiers": ""}], "note": "SIFEC is said to guarantee each child a right to identity, but no ID number at birth is stated."}
+{"n": 7, "slug": "2026-08-09-starducongo-100000-passeports-vierges-330000-cartes-identite", "facts": [], "systems": [], "note": "Reports blank cards and passports obtained from a German partner; a card count is not people enrolled and no operating role is stated."}
+{"n": 8, "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 10, "slug": "2025-10-23 Congo relaunches NIU biometric unique-ID card production", "facts": [], "systems": [], "note": "The NIU is issued from age 6, not at birth registration."}
+{"n": 11, "slug": "2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb", "facts": [], "systems": [{"system": "NIU (numero d'identification unique)", "country_label": "Congo", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}, {"system": "CNI (carte nationale d'identite)", "country_label": "Congo", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "No ID number at birth stated."}
+{"n": 12, "slug": "2025-07-21-congo-national-drive-secure-digital-identity-techafricanews", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 13, "slug": "2025-07-18-congo-identite-numerique-securisee-atelier-ldb", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 15, "slug": "2025-07-17-cog-identite-numerique-pilier-citoyennete-adiac", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 17, "slug": "2024-11-21-decret-2024-2692-carte-nationale-identite-informatisee", "facts": [], "systems": [{"system": "Carte nationale d'identite informatisee et securisee", "country_label": "COG", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": "Nothing stated on this question."}
+{"n": 131, "slug": "2024-08-20-cog-jo-arrete-18503-registre-social-unique", "facts": [], "systems": [], "note": "Nothing stated about an ID number at birth; the household code is a social identification code."}
+{"n": 136, "slug": "2026-10-17-cog-adiac-arpce-livre-blanc-adressage-postal", "facts": [], "systems": [], "note": "A unique identification number is only advocated by a speaker; no number at birth is provided for or in service."}
+{"n": 137, "slug": "2026-10-17-cog-adiac-data-protection-commission", "facts": [], "systems": [], "note": "The document states nothing this study asks for Congo."}
+{"n": 138, "slug": "2026-10-17-cog-adiac-digitalisation-administration-comite-pilotage", "facts": [], "systems": [], "note": "No number at birth mentioned."}
+{"n": 139, "slug": "2024-09-20-cog-sacer-sifec-digitalisation-etat-civil", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 145, "slug": "2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche", "facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}
+{"n": 146, "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 153, "slug": "2025-04-21-cog-la-digitalisation-des-actes-d-etat-civil-validee-par-les-professionnel", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 156, "slug": "2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 164, "slug": "2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu", "facts": [], "systems": [], "note": "NIU is issued from age 6, not at birth."}
+{"n": 166, "slug": "2024-12-20-cog-numerique-les-partenaires-appeles-a-accelerer-le-projet-e-gouv", "facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}
+{"n": 170, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 172, "slug": "2025-06-02-cog-le-projet-du-numero-d-identification-unique-niu-est-il-en-peril", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 174, "slug": "2026-02-22-cog-le-congo-deploie-une-reforme-digitale-pour-assainir-le-fichier-solde-d", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 177, "slug": "2026-10-19-cog-congo-la-numerisation-de-l-administration-face-au-defi-de-l-interopera", "facts": [], "systems": [], "note": "Nothing on ID numbers from birth."}
+{"n": 183, "slug": "2026-08-11-cog-congo-brazzaville-systemes-d-information-de-l-etat-les-differentes-pla", "facts": [], "systems": [], "note": "No number issued at birth is stated."}
+{"n": 184, "slug": "2025-11-01-cog-congo-reforme-fonciere-et-patrouilles-domaniales", "facts": [], "systems": [], "note": "The document states nothing this study asks for Congo."}
+{"n": 191, "slug": "2026-04-21-cmr-afrique-centrale-l-afrique-centrale-en-conclave-a-yaounde-pour-rationa", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 192, "slug": "2025-01-01-nam-southern-africa-operational-update-october-december-2024", "facts": [], "systems": [], "note": "Document states nothing for this study."}
+{"n": 193, "slug": "2024-07-14-cog-numerique-lancement-des-travaux-de-connectivite-dans-les-administratio", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 196, "slug": "2026-10-01-cog-calendrier-de-publication-des-statistiques-officielles-2026", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 215, "slug": "2026-11-18-cog-assemblee-nationale-l-acsi-presente-l-etat-d-avancement-des-differents-projets", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 222, "slug": "2024-09-16-cog-congo-vers-la-mise-en-place-dun-portail-national-de-services-publics", "facts": [], "systems": [], "note": "Document says nothing on an ID number at birth."}

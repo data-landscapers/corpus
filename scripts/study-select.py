@@ -340,7 +340,7 @@ def carried_read(study: dict) -> dict[str, frozenset]:
         base = os.path.join(study_lib.study_dir(other), "evidence")
         for iso in sorted(os.listdir(base)) if os.path.isdir(base) else ():
             slugs = {r["slug"] for r in study_lib.read_csv(os.path.join(base, iso, "readlist.csv"))
-                     if r.get("n") and os.path.exists(os.path.join(base, iso, "facts", f"{r['n']}.json"))}
+                     if r.get("n") and study_lib.has_facts(os.path.join(base, iso), r["n"])}
             out[iso] = frozenset(out.get(iso, frozenset()) | slugs)
     return out
 

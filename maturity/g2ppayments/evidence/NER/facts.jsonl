@@ -1,0 +1,56 @@
+{"n": 1, "slug": "2026-10-02-ner-actuniger-soniloga-airtel-money", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions."}
+{"n": 2, "slug": "2026-09-15-ner-lesahel-bceao-digitalisation-services-financiers-numeriques", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 3, "slug": "2026-08-28-techafricanews-airtel-africa-foundation-women-financial-inclusion", "facts": [], "systems": [], "note": "No government payment stated for Niger."}
+{"n": 4, "slug": "2026-08-25-actuniger-airtel-money-transfert-international", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 5, "slug": "2026-06-29-banque-atlantique-nita-bank-to-wallet-interoperability-lesahel", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 6, "slug": "2026-04-02-bceao-connexion-pispi-communique", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 7, "slug": "2025-09-30-bceao-lancement-pispi", "facts": [], "systems": [], "note": "Event notice only says the PI-SPI launch ceremony is planned for 30 September 2025; Niger is not named in the text."}
+{"n": 8, "slug": "2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey", "facts": [], "systems": [], "note": "No payment to people stated."}
+{"n": 9, "slug": "2025-01-01-bceao-payment-systems-management", "facts": [], "systems": [], "note": "No payment to people is stated."}
+{"n": 14, "slug": "2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free", "facts": [], "systems": [], "note": "The document names the country only as a UEMOA member and states nothing for this study."}
+{"n": 15, "slug": "2026-09-18-papss-security-data-governance-dailycircular", "facts": [], "systems": [], "note": "Nothing on government payments for Niger."}
+{"n": 16, "slug": "2026-09-11-afreximbank-papss-network-expansion-adoption", "facts": [], "systems": [], "note": "Niger is named only as the 2019 announcement venue."}
+{"n": 17, "slug": "2026-09-08-thesun-papss-nigeria-fintechs-payment-integration", "facts": [], "systems": [], "note": "The document states nothing on this study for this country."}
+{"n": 18, "slug": "2026-09-05-papss-stablecoin-exploration-remittances", "facts": [], "systems": [], "note": "Nothing on government payments."}
+{"n": 19, "slug": "2026-08-27-horonyafinance-umoa-monnaie-electronique-2025", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 20, "slug": "2026-06-01-papss-payments-network-coverage-june-2026", "facts": [], "systems": [{"system": "PAPSS", "country_label": "Niger", "class": "crossborder", "platform": "Pan-African Payment and Settlement System", "owner": "PAPSS", "tiers": "Extended Network, inbound only"}], "note": "The document does not mention this country, or states nothing on this topic for it."}
+{"n": 142, "slug": "2024-09-17-ner-lesahel-interview-coordonnateur-wuri-niger", "facts": [], "systems": [], "note": "The interview states nothing that answers this study's questions for Niger."}
+{"n": 145, "slug": "2025-12-17-ner-lesahel-atelier-risques-sfn", "facts": [], "systems": [], "note": "Document says nothing on government payments to people."}
+{"n": 146, "slug": "2025-12-01-ner-ansi-sfn-confiance-protection-usagers", "facts": [], "systems": [], "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."}
+{"n": 147, "slug": "2026-10-17-ner-rsu-presentation", "facts": [], "systems": [], "note": "The page states no government payment to people."}
+{"n": 148, "slug": "2025-07-28-ner-banquemondiale-ppsas-niger", "facts": [], "systems": [], "note": "Nothing stated that this study asks."}
+{"n": 149, "slug": "2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 158, "slug": "2026-06-29-ner-liste-des-etablissements-de-paiement-et-de-monnaie-electronique-niger", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 159, "slug": "2026-10-20-xwa-bceao-indicateurs-inclusion-financiere-uemoa-2025", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 160, "slug": "2026-02-28-xwa-bceao-etablissements-monnaie-electronique", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 161, "slug": "2024-11-12-ner-niger-transferts-d-argent-la-bceao-exige-le-respect-strict-des-disposi", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 165, "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 166, "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 167, "slug": "2026-09-09-ner-niger-is-transforming-foreign-trade-procedures-with-webb-single-window", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 170, "slug": "2026-10-27-ner-lancement-de-l-atelier-sur-le-commerce-electronique", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 173, "slug": "2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services", "facts": [], "systems": [], "note": "Document says nothing on government payments to people."}
+{"n": 174, "slug": "2025-02-03-ner-tic-le-projet-villages-intelligents-ambitionne-d-assurer-l-inclusion-n", "facts": [], "systems": [], "note": "No government payments to people stated."}
+{"n": 181, "slug": "2026-11-03-xwa-anp-bceao-pi-spi-obligatoire-entree-en-vigueur", "facts": [], "systems": [], "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."}
+{"n": 183, "slug": "2025-08-20-ner-inauguration-officielle-du-point-d-echange-internet-ixp-permettre-a-to", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 184, "slug": "2026-11-02-tgo-ecobank-togo-cips-payments-to-china-faster-cheaper", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 190, "slug": "2026-08-21-ner-le-niger-accelere-son-projet-d-usine-d-assemblage-d-ordinateurs-et-de", "facts": [], "systems": [], "note": "Nothing on government payments."}
+{"n": 191, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 193, "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578", "facts": [], "systems": [], "note": "No government payments stated."}
+{"n": 200, "slug": "2026-01-06-ner-journee-portes-ouvertes-a-l-hotel-de-ville-de-niamey-faire-decouvrir-l", "facts": [], "systems": [], "note": "The document states nothing this study asks for Niger."}
+{"n": 201, "slug": "2025-11-27-ner-le-niger-aborde-une-nouvelle-ere-de-connectivite-avec-la-dorsale-trans", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 202, "slug": "2025-07-11-ner-le-projet-villages-intelligents-pvi-et-lassociation-des-municipalites", "facts": [], "systems": [], "note": "No government payments to people stated."}
+{"n": 206, "slug": "2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg", "facts": [], "systems": [], "note": "No government payments content."}
+{"n": 207, "slug": "2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu", "facts": [], "systems": [], "note": "No government payments content."}
+{"n": 208, "slug": "2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p", "facts": [], "systems": [], "note": "No government payments content."}
+{"n": 209, "slug": "2026-01-12-ner-loi-de-finances-2026-au-niger-de-nouvelles-mesures-fiscales-qui-font-d", "facts": [], "systems": [], "note": "Document states nothing on government payments."}
+{"n": 210, "slug": "2026-06-16-ben-forum-ouest-africain-sur-les-transformations-numeriques-programme", "facts": [], "systems": [], "note": "Forum programme; nothing stated."}
+{"n": 214, "slug": "2026-11-06-dpi-map-2026-11-12", "facts": [], "systems": [{"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "Niger", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The DPI Map lists transaction types a payment system supports, not a government programme paying people digitally.", "claims": {"dpimap-280109e99f": "nothing: a system's supported transaction types, no government payment programme named"}}
+{"n": 216, "slug": "2026-03-31-ner-point-de-presse-a-la-direction-generale-des-douanes-les-operations-de", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 220, "slug": "2024-11-22-ner-integration-numerique-l-arcep-niger-celebre-son-25e-anniversaire-avec", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 224, "slug": "2026-03-13-ner-niger-moves-to-adopt-national-digital-development-policy-for-20262035", "facts": [], "systems": [], "note": "The document states no fact this study asks."}
+{"n": 232, "slug": "2026-11-13-ner-actuniger-soniloga-amana-guan-paiement-numerique", "facts": [], "systems": [], "note": "Payments are from users to government, not to people."}
+{"n": 235, "slug": "2025-10-17-ner-sante-le-niger-connecte-ses-structures-de-sante-au-haut-debit", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 253, "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system", "facts": [], "systems": [], "note": "Nothing on government payments."}
+{"n": 259, "slug": "2025-04-17-ner-assurance-agricole-indicielle-au-niger-un-outil-strategique-et-innovan", "facts": [], "systems": [], "note": "Nothing on government payments to people."}
+{"n": 260, "slug": "2023-12-15-ner-utiliser-les-satellites-et-la-protection-sociale-pour-prevenir-l-insec", "facts": [], "systems": [], "note": "Transfers named, but nothing says they were paid digitally."}
+{"n": 261, "slug": "2026-11-24-ner-transformation-numerique-ia-et-souverainete-des-donnees", "facts": [], "systems": [], "note": "No government payment to people is described."}

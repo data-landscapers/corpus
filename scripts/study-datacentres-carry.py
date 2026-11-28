@@ -163,7 +163,7 @@ def main(argv=None) -> int:
                 n_of[slug] = str(nxt)
             out = os.path.join(base, iso, "facts", f"{n_of[slug]}.json")
             count["documents"] += 1
-            if a.dry or os.path.exists(out):
+            if a.dry or study_lib.part_taken(out):
                 continue
             os.makedirs(os.path.dirname(out), exist_ok=True)
             with open(out, "w", encoding="utf-8", newline="\n") as fh:

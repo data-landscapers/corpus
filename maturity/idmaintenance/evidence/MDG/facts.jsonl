@@ -1,0 +1,31 @@
+{"n": 1, "slug": "2026-03-02-ugd-idms-audit-tdr", "facts": [], "systems": [{"system": "IDMS", "country_label": "MDG", "class": "idsystem", "platform": "", "owner": "Presidency / UGD (PRODIGY)", "tiers": ""}], "note": "Who operates or maintains the IDMS is not stated."}
+{"n": 2, "slug": "2026-09-17-mdg-2424-izaho-tokana-2-phase-deux", "facts": [], "systems": [], "note": "No operator or ownership statement."}
+{"n": 3, "slug": "2026-09-16-mdg-lexpressmg-etat-civil-20-pourcent-sans-identite-legale", "facts": [], "systems": [], "note": "Nothing stated that answers this question."}
+{"n": 4, "slug": "2026-09-04-biometricupdate-madagascar-digital-id-trust", "facts": [], "systems": [], "note": "The document does not say who operates or maintains the system."}
+{"n": 5, "slug": "2026-07-06-last-mile-civil-registration-biometricupdate", "facts": [], "systems": [], "note": "Laxton equipment is named but no operating or maintenance role is stated."}
+{"n": 6, "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank", "facts": [], "systems": [], "note": "Financing by the World Bank is stated; operation and ownership are not."}
+{"n": 7, "slug": "2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate", "facts": [], "systems": [], "note": "The document states nothing on this question for the country."}
+{"n": 9, "slug": "2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate", "facts": [], "systems": [], "note": "The document states nothing on this."}
+{"n": 132, "slug": "2026-05-01-mdg-undp-biometric-enrolment-nui", "facts": [], "systems": [], "note": "No operator or ownership stated beyond a World Bank-funded technical infrastructure."}
+{"n": 133, "slug": "2025-04-14-mdg-moov-atelier-consultation-signature-electronique", "facts": [], "systems": [], "note": "Document states only that laws were voted and are partly applied for want of implementing texts, or that a consultation opened; no value in this study's aspects is settled."}
+{"n": 136, "slug": "2026-07-01-mdg-wb-identite-legale-millions-malagasy", "facts": [], "systems": [], "note": "Operation and ownership of the system not stated."}
+{"n": 138, "slug": "2026-10-17-mdg-dgi-nifonline-immatriculation", "facts": [], "systems": [], "note": "No ID system operation or ownership stated."}
+{"n": 139, "slug": "2024-02-27-mdg-2424mg-justice-site-doleances", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 142, "slug": "2026-10-17-mdg-refonte-de-la-liste-electorale-plus-de-sept-millions-d-electeurs-inscrits", "facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}
+{"n": 145, "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 146, "slug": "2025-02-21-mdg-oif-afapdp-mission-cmil-operationalisation", "facts": [], "systems": [], "note": "The OIF account of a data protection mission states nothing this study asks."}
+{"n": 148, "slug": "2026-07-23-mdg-decim-biometric-enrolment-capitalisation-workshop", "facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "The DECIM project page says the next phase, steered by the CNOS and coordinated by the CCO/ENBIO under the Ministry of the Interior, is to prepare the gradual transfer of responsibilities and ownership by national institutions, with DECIM now financing it.", "as_of": "2026-07", "date_precision": "month", "system": "Izaho Tokana", "class": "idsystem"}], "systems": [], "note": ""}
+{"n": 149, "slug": "2025-01-20-mdg-newsmada-cneci-2025-activities-launch", "facts": [], "systems": [], "note": "The document says nothing on who operates, maintains or owns the ID system."}
+{"n": 156, "slug": "2026-04-21-mdg-adoption-du-projet-de-loi-relatif-a-l-enrolement-biometrique-de-masse", "facts": [], "systems": [], "note": "No statement on operation or ownership."}
+{"n": 157, "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development", "facts": [], "systems": [], "note": "Staff training mentioned, but no supplier-run or national operation stated."}
+{"n": 159, "slug": "2026-08-05-mdg-madagascar-elections-la-digitalisation-de-la-liste-electorale-reste-en", "facts": [], "systems": [], "note": "Nothing stated on this study."}
+{"n": 163, "slug": "2026-11-04-mdg-identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le", "facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}
+{"n": 164, "slug": "2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 165, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 167, "slug": "2026-08-01-mdg-elections-la-digitalisation-de-la-liste-electorale-reste-en-suspens", "facts": [], "systems": [], "note": "Nothing on who runs the ID system."}
+{"n": 168, "slug": "2026-05-21-tgo-direction-for-open-source-dpi-sustainability-local-ownership-establish", "facts": [], "systems": [], "note": "Operation and ownership of the system not stated."}
+{"n": 171, "slug": "2026-01-28-mdg-madagascar-colonel-michael-randrianirina-mettre-fin-aux-doublons-dans", "facts": [], "systems": [], "note": "The document states nothing this study asks for Madagascar."}
+{"n": 173, "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi", "facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}
+{"n": 205, "slug": "2026-11-20-mwi-shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 207, "slug": "2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour", "facts": [], "systems": [], "note": "Nothing on who operates the ID system."}
+{"n": 208, "slug": "2026-09-11-mdg-tech-connect-loi-cybercriminalite-vote-reporte", "facts": [], "systems": [], "note": "The document states nothing this study asks about Madagascar."}

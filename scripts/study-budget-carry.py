@@ -192,7 +192,7 @@ def main(argv=None) -> int:
                                  "why": "carried", "terms": "", "hits": 0, "words": d.get("words", 0)})
                 n_of[slug] = str(nxt)
             out = os.path.join(base, iso, "facts", f"{n_of[slug]}.json")
-            if os.path.exists(out):
+            if study_lib.part_taken(out):
                 continue
             for f in by_slug[slug]:
                 count[f["value"]] += 1

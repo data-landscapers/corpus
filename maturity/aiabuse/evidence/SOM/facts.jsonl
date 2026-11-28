@@ -1,0 +1,34 @@
+{"n": 1, "slug": "2025-10-09-unesco-somalia-ai-readiness-assessment-expert-call", "facts": [], "systems": [], "note": "Readiness assessment recruitment only; no rule, use or build stated."}
+{"n": 2, "slug": "2026-10-14-som-opinion-ai-public-administration", "facts": [], "systems": [], "note": "Opinion piece proposing AI measures; states no rule, body, system in use, pilot or AI capacity in Somalia."}
+{"n": 3, "slug": "2026-08-24-hezroninsights-ahaci-report", "facts": [], "systems": [], "note": "A study of citations in AI answers on humanitarian crises; it states no rule, government use, sectoral tool or local AI build."}
+{"n": 4, "slug": "2026-08-17-somalia-ai-readiness-assessment-hormuud-university", "facts": [], "systems": [], "note": "Only a readiness assessment and a university degree are stated."}
+{"n": 5, "slug": "2026-07-17-som-ecofin-university-ai-center-launch", "facts": [], "systems": [], "note": "Document states nothing answering this study's questions for the country."}
+{"n": 6, "slug": "2026-07-15-somali-national-university-snaic-launch", "facts": [], "systems": [], "note": "University centre launch; nothing on AI harms."}
+{"n": 7, "slug": "2026-08-12-bmz-eac-ai4eac-innovation-challenge", "facts": [], "systems": [], "note": "Regional skills challenge; states nothing for this country by name on the question."}
+{"n": 8, "slug": "2025-04-04 Africa Declaration on Artificial Intelligence", "facts": [], "systems": [], "note": "Declaration states continental principles only; no country-specific AI rule, system or build."}
+{"n": 9, "slug": "2026-09-09-som-shabelle-koafec-digital-infrastructure-investment-appeal", "facts": [], "systems": [], "note": "Minister's speech on infrastructure; no AI harm rule or authority stated."}
+{"n": 10, "slug": "2026-08-19-sonna-somalia-chinese-tech-import-megawatt-analysis", "facts": [], "systems": [], "note": "Names a Data Protection Act and an AI governance office, with no AI harm rule or designated authority stated."}
+{"n": 11, "slug": "2026-07-20-somali-national-university-ai-centre", "facts": [], "systems": [], "note": "Launch of a university AI research centre; no AI model, dataset or computing stated, and no rule, government use or sectoral tool."}
+{"n": 12, "slug": "2026-08-26-eac-ai-alliance-education-workshop", "facts": [], "systems": [], "note": "Regional workshop; nothing stated about Somalia's AI rules or authority."}
+{"n": 13, "slug": "2026-07-24-au-germany-strategic-dialogue", "facts": [], "systems": [], "note": "Regional AU-Germany dialogue press release; names responsible AI governance only as an area for cooperation, no Somalia rule or authority on AI harms."}
+{"n": 67, "slug": "2025-04-15-som-worldpop-geospatial-training-census-readiness", "facts": [], "systems": [], "note": "Document states nothing on rules or authority for AI harms."}
+{"n": 70, "slug": "2026-10-15-som-sonsa-ai-digital-rights-somalia", "facts": [], "systems": [], "note": "Parent check: a study saying Somalia needs AI-specific safeguards and lacks normative clarity does not say no rule or mechanism addresses AI harms (cf. ailaw corrections.csv, CPV)."}
+{"n": 72, "slug": "2026-01-09-som-simad-ai-institute-somali-nlp-project", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 74, "slug": "2026-05-27-som-goobolabs-whisper-som-small-release", "facts": [], "systems": [], "note": "A company's speech model release; no government rule, use or strategy stated."}
+{"n": 79, "slug": "2025-01-01-som-local-consultant-for-the-development-of-artificial-intelligence-strate", "facts": [], "systems": [], "note": "The terms of reference name no rule or authority on AI harms."}
+{"n": 81, "slug": "2024-12-23-som-using-ai-to-support-people-and-services-during-natural-disasters", "facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}
+{"n": 85, "slug": "2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov", "facts": [], "systems": [], "note": "The document says nothing about AI."}
+{"n": 92, "slug": "2026-10-27-som-somalia-opens-fourth-national-cybersecurity-forum-in-mogadishu", "facts": [], "systems": [], "note": "The document says nothing on AI harms rules or authority."}
+{"n": 95, "slug": "2026-10-30-eac-states-pursue-unified-ai-strategy", "facts": [], "systems": [], "note": "Regional EAC AI strategy under council consideration; names no country-level fact for this study."}
+{"n": 98, "slug": "2026-11-05-somalia-to-establish-ai-academy", "facts": [], "systems": [], "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."}
+{"n": 100, "slug": "2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026", "facts": [], "systems": [], "note": "Convening report; states nothing this study asks for this country."}
+{"n": 102, "slug": "2025-12-18-worldbank-govtech-dataset-dec2025", "facts": [], "systems": [], "note": "GTMI record states only an answer on ethics guidelines, which the study does not assess; no fact.", "claims": {"gtmi-ba97a85394": "nothing: a database's no"}}
+{"n": 103, "slug": "2026-07-16-som-somali-national-university-launches-country-s-first-national-artificia", "facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}
+{"n": 104, "slug": "2026-11-06-som-simad-university-breaks-ground-on-building-to-host-somalia-s-national", "facts": [], "systems": [], "note": "Nothing on AI rules or authority."}
+{"n": 105, "slug": "2026-04-12-dji-djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma", "facts": [], "systems": [], "note": "A research project on fake-news detection is not a rule or authority."}
+{"n": 106, "slug": "2026-04-07-som-jamhuriya-university-launches-somalia-s-first-somali-language-ai-lab-t", "facts": [], "systems": [], "note": "Nothing stated on a rule or authority against AI harms."}
+{"n": 122, "slug": "2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers", "facts": [], "systems": [], "note": "COP31 pledge is voluntary and about AI energy use, not a rule on AI harms."}
+{"n": 126, "slug": "2026-11-20-paradigm-initiative-child-online-protection-policies-africa", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 136, "slug": "2026-10-23-som-somalia-s-government-needs-ai-rules-before-buying", "facts": [], "systems": [], "note": "States no rule governs AI uses in Somalia; the Data Protection Act's automated-decision limit is not tied to AI by the document."}
+{"n": 137, "slug": "2026-05-28-som-somalia-drives-ai-governance-agenda-with-national-readiness-assessment", "facts": [], "systems": [], "note": "States nothing on rules or an authority against AI harms."}
+{"n": 138, "slug": "2026-01-01-som-national-policy-and-partnerships", "facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}

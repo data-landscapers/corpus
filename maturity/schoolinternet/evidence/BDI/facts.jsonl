@@ -1,0 +1,19 @@
+{"n": 79, "slug": "ref:uis-4a1-secondary-internet@2026-02-09", "facts": [{"sub_indicator": "schools", "aspect": "internet", "value": "official:0.4329", "fact": "0.43 per cent of secondary schools in Burundi had internet for teaching in 2019, by UNESCO's SDG 4.a.1 series.", "as_of": "2019", "date_precision": "year", "system": "UNESCO's SDG 4.a.1 series", "class": "schoolinternet"}], "systems": [{"system": "UNESCO's SDG 4.a.1 series", "country_label": "Burundi", "class": "schoolinternet", "platform": "", "owner": "UNESCO Institute for Statistics", "tiers": ""}], "note": "carried from reference/measures.csv; no document opened"}
+{"n": 80, "slug": "2026-10-16-bdi-setic-services-institutions-publiques", "facts": [], "systems": [], "note": "Nothing on schools or the curriculum."}
+{"n": 81, "slug": "2024-01-11-bdi-abp-miels-sigefi-gaps", "facts": [], "systems": [], "note": "Nothing on school internet or curriculum."}
+{"n": 82, "slug": "2025-09-30-bdi-abp-competences-numeriques-jeunes-filles-agcci", "facts": [], "systems": [], "note": "The document gives no school internet figure and no compulsory curriculum."}
+{"n": 83, "slug": "2024-07-15-bdi-adb-procedure-creation-easybusiness", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 84, "slug": "2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2", "facts": [], "systems": [], "note": "Document does not mention schools."}
+{"n": 94, "slug": "2024-12-15-bdi-vers-la-digitalisation-du-service-d-etat-civil", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 98, "slug": "2026-09-27-bdi-la-transformation-numerique-ne-se-resume-pas-aux-infrastructures-post", "facts": [], "systems": [], "note": "No statement bearing on this question."}
+{"n": 101, "slug": "2026-01-19-bdi-sous-le-patronage-de-s-e-le-ministre-des-finances-du-budget-et-de-l-ec", "facts": [], "systems": [], "note": "e-KORI is a tax and revenue system launch; nothing on school internet."}
+{"n": 113, "slug": "2025-06-18-bdi-lumitel-annonce-un-plan-a-20-millions-pour-couvrir-75-de-la-population", "facts": [], "systems": [], "note": "The document concerns 4G coverage, with nothing on secondary schools."}
+{"n": 114, "slug": "2024-12-05-bdi-l-unesco-recherche-un-e-consultant-e-international-e-sige-burundi", "facts": [], "systems": [], "note": "No figure on school internet or compulsory digital curriculum; internet is planned for ministry and provincial offices only."}
+{"n": 115, "slug": "2023-11-24-bdi-mauvaise-piece-a-la-mfp", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 131, "slug": "2024-12-27-bdi-pourquoi-media-box-est-le-seul-revendeur-agree-de-starlink", "facts": [], "systems": [], "note": "Document does not mention schools."}
+{"n": 132, "slug": "2024-09-26-bdi-starlink-une-bouffee-d-oxygene-pour-l-internet-burundais", "facts": [], "systems": [], "note": "Nothing stated on school internet or curriculum."}
+{"n": 133, "slug": "2023-11-28-bdi-lancement-officiel-des-activites-de-celebration-de-la-8eme-edition-de", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 143, "slug": "2025-01-23-bdi-au-burundi-la-digitalisation-pour-interconnecter-les-services-du-minis", "facts": [], "systems": [], "note": "Document says nothing on schools."}
+{"n": 153, "slug": "2026-11-17-mwi-ses-expands-rural-school-connectivity", "facts": [], "systems": [], "note": "A school connectivity programme is other; no figure or curriculum stated."}
+{"n": 154, "slug": "2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques", "facts": [], "systems": [], "note": "Document states nothing on schools."}
+{"n": 156, "slug": "2026-11-20-xaf-newtelegraph-sirali-afcfta-digital-trade-platforms-small-traders", "facts": [], "systems": [], "note": "No school internet figure or curriculum stated."}

@@ -1,0 +1,63 @@
+{"n": 1, "slug": "2026-01-19-sudan-network-international-saudi-sudanese-bank", "facts": [], "systems": [], "note": "Processing deal for a bank; no cross-border rail stated in service."}
+{"n": 2, "slug": "2026-10-13-sdn-sudanhorizon-bede-bban-service-launch", "facts": [], "systems": [], "note": "Domestic service only."}
+{"n": 3, "slug": "2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds", "facts": [], "systems": [{"system": "Bankak", "country_label": "Sudan", "class": "other", "platform": "mobile banking app", "owner": "Bank of Khartoum", "tiers": ""}], "note": "Only says Sudanese abroad use transfers to support families, with no named corridor, channel or figure."}
+{"n": 4, "slug": "2026-10-06-sdn-alwijha24-albalad-bank-mtn-ussd-baladna-bibasata", "facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}
+{"n": 5, "slug": "2026-10-04-sdn-sudanhorizon-mof-zain-eisali-sms", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 8, "slug": "2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 9, "slug": "2026-09-10-sdn-dabanga-bankak-outages-digital-payments", "facts": [], "systems": [], "note": "No cross-border channel stated."}
+{"n": 12, "slug": "2026-07-31-aljazeera-electronic-payment-sudan-liquidity-shortage", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 14, "slug": "2026-04-20-cbos-nips-national-instant-payment-system-tender", "facts": [], "systems": [], "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."}
+{"n": 32, "slug": "2026-09-27-sdn-sudanhorizon-mof-mtn-sudan-eesaly-sms", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 33, "slug": "2026-09-21-sdn-dabanga-cbos-strategy-digital-transformation", "facts": [], "systems": [], "note": "Document states nothing on this study for the country."}
+{"n": 36, "slug": "2026-09-03-sudan-bankak-outage-pound-7000", "facts": [], "systems": [], "note": "Document states nothing that answers this study."}
+{"n": 37, "slug": "2026-08-24-sudan-zakher-wallet-recurring-debit-api", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 39, "slug": "2026-08-10-sudan-finance-ministry-reform-package-revenue", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions for this country."}
+{"n": 42, "slug": "2026-07-26-ssmo-eisali-baldna-integration", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 43, "slug": "2026-07-04-cbos-revokes-al-asjad-payment-switch-licence", "facts": [], "systems": [], "note": "Nothing cross-border."}
+{"n": 44, "slug": "2026-07-04-sudan-cbos-al-asjad-license-revoked", "facts": [], "systems": [], "note": "Nothing cross-border."}
+{"n": 48, "slug": "2026-03-31-cbos-ussd-financial-services-regulations", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 52, "slug": "2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030", "facts": [], "systems": [], "note": "The document states nothing on this study for the country."}
+{"n": 150, "slug": "2026-08-30-sdn-businessinsider-saudi-remittance-payment-framework", "facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "Sudan's Finance Ministry says it is finalising an electronic payment framework connecting to mobile banking apps in Saudi Arabia, built with the Ministry of Digital Transformation and Telecommunications, to route diaspora remittances through regulated channels (State Minister Mohamed Nour Abdel Daim, Jeddah).", "as_of": "2026-08-29", "date_precision": "day", "system": "electronic payment framework linked to Saudi mobile banking apps", "class": "crossborder"}], "systems": [{"system": "electronic payment framework linked to Saudi mobile banking apps", "country_label": "Sudan", "class": "crossborder", "platform": "", "owner": "Ministry of Finance, with Ministry of Digital Transformation and Telecommunications", "tiers": ""}], "note": ""}
+{"n": 157, "slug": "2026-10-17-sdn-alawdanews-culture-ministry-website-launch-opinion", "facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}
+{"n": 160, "slug": "2026-10-21-sdpay-sudan-digital-payments", "facts": [], "systems": [], "note": "The document does not state anything this study asks about this country."}
+{"n": 165, "slug": "2026-09-28-sdn-cbos-revokes-sudanpay-digital-licence", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 166, "slug": "2026-07-07-sdn-sudanhorizon-cbos-payment-switch-licensing-interview", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 167, "slug": "2026-01-01-sdn-cbos-licensed-financial-technology-companies", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 168, "slug": "2026-10-23-ken-africas-digital-government-platforms-must-show-taxpayers-where-the-money-goes", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 170, "slug": "2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to", "facts": [], "systems": [], "note": "Only negotiations to link telebirr with Sudan's payment system, pending approval, are stated; that is not a pilot or licence."}
+{"n": 171, "slug": "2026-04-11-sdn-mof-pfm-reform-roadmap-isali-integration", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 174, "slug": "2026-10-25-sdn-ebs-general-manager-interview-hawas-payments", "facts": [], "systems": [], "note": "Only SWIFT regional office and an unplanned regional aim; no corridor or regional system in service."}
+{"n": 175, "slug": "2026-10-27-sdn-cbs-signs-strategic-partnership-agreement-with-sudani-to-advance-digit", "facts": [], "systems": [], "note": "Document states a CBS/EBS-Sudani top-up and bill-payment partnership; it names no rung of this study."}
+{"n": 181, "slug": "2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments", "facts": [], "systems": [], "note": "Remittances are discussed as a need, with no corridor or regional system stated."}
+{"n": 182, "slug": "2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 183, "slug": "2026-06-16-sdn-alnser-social-safety-commission-sudani-sah-ussd-cash-transfers", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 185, "slug": "2026-11-06-sdn-supporting-sudan-s-banking-sector-what-should-we-expect-from", "facts": [], "systems": [], "note": "No cross-border digital payment channel is stated; remittances are discussed only as a policy aim."}
+{"n": 186, "slug": "2026-11-05-sdn-cbs-governor-sudan-s-banking-sector-capable-of-confronting-t", "facts": [], "systems": [], "note": "Correspondent banks are mentioned but no digital cross-border corridor is stated."}
+{"n": 187, "slug": "2026-11-05-sdn-suna-banking-sector-digital-transformation-by-end-2026", "facts": [], "systems": [], "note": "No cross-border digital payment channel is mentioned."}
+{"n": 189, "slug": "2026-04-14-sdn-sudani-fintech-officially-launches-sah-platform", "facts": [], "systems": [], "note": "No cross-border payments stated."}
+{"n": 190, "slug": "2026-09-09-sdn-horizon-advances-through-pre-commercialisation-workshop-in-addis-ababa", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 191, "slug": "2024-11-01-sdn-national-institutional-integration", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 192, "slug": "2026-11-09-proparco-cashi-sudan", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 193, "slug": "2026-11-09-sdn-cbs-restoring-banking-systems", "facts": [], "systems": [], "note": "Only foreign transactions and import/export transfers generally; no digital corridor or regional system."}
+{"n": 194, "slug": "2026-10-14-sdn-digital-transformation-authority-first-federal-state-council-meetings", "facts": [], "systems": [], "note": "Nothing in the document on this subject."}
+{"n": 199, "slug": "2024-06-06-sdn-sudanese-fintech-startup-elevate-escapes-unrest-lands-5m-for-global-pl", "facts": [], "systems": [{"system": "Elevate", "country_label": "Sudan (Sudanese-founded fintech, operations moved abroad)", "class": "other", "platform": "", "owner": "Elevate", "tiers": ""}], "note": "Private USD account and FX service for freelancers, now run from Egypt, Pakistan and Asia; no regulated Sudan corridor stated."}
+{"n": 200, "slug": "2026-09-22-sdn-rabak-locality-launches-mobile-electronic-collection", "facts": [], "systems": [], "note": "Document does not address cross-border payments."}
+{"n": 201, "slug": "2026-01-25-sdn-business-continuity-and-disaster-recovery-protocol-for-sudanese-banks", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 202, "slug": "2025-11-11-sdn-alnilin-kassala-isali-e-collection-launch", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 203, "slug": "2025-02-16-sdn-projects-sudantax", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 208, "slug": "2024-12-06-sdn-cbos-circular-2-2024-bank-app-interlinking", "facts": [], "systems": [], "note": "Document states nothing a study asks for this country."}
+{"n": 209, "slug": "2026-07-08-sdn-ebs-ceo-to-sudanhorizon-new-national-payment-switch-launching-soon-mar", "facts": [], "systems": [], "note": "SWIFT service bureau accreditation is not a cross-border digital payment corridor."}
+{"n": 212, "slug": "2026-11-12-sdn-bankak-app-hack-traders-losses", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 213, "slug": "2026-11-10-sdn-banking-reform-customer-data-protection", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 215, "slug": "2026-11-06-dpi-map-2026-11-12", "facts": [], "systems": [], "note": "Only a national label for an unnamed domestic IPS; no aspect stated.", "claims": {"dpimap-6e19a8221b": "nothing: national deployment label, not an aspect"}}
+{"n": 216, "slug": "2025-04-10-sdn-customs-electronic-payment-unified-government-channel", "facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}
+{"n": 218, "slug": "2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation", "facts": [], "systems": [], "note": "The document states nothing this study asks for Sudan."}
+{"n": 219, "slug": "2025-03-15-sdn-telecommunications-ministry-launches-service-allowing-citizens-to-acce", "facts": [], "systems": [], "note": "Domestic USSD banking only; nothing cross-border."}
+{"n": 220, "slug": "2024-04-01-sdn-the-digital-exclusion-of-refugees-and-idps-in-sudan", "facts": [], "systems": [], "note": "The document states nothing this study asks about Sudan."}
+{"n": 231, "slug": "2026-07-29-sdn-almajd-230-e-health-services-digital-health-strategy", "facts": [], "systems": [], "note": "Nothing on this study stated for Sudan."}
+{"n": 232, "slug": "2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 247, "slug": "2026-11-19-sdn-sudanhorizon-cbos-nips-contract", "facts": [], "systems": [], "note": "Contract to establish NIPS signed 2026-11-19; not stated in service, so no study question is answered."}
+{"n": 249, "slug": "2026-11-23-sdn-sudan-central-bank-plans-national-instant-payment-platform-to-curb-cash-", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 250, "slug": "2026-07-20-sdn-sudan-privacy-gap-digital-transformation-data-protection", "facts": [], "systems": [], "note": "The document states nothing on cross-border payment corridors."}
+{"n": 252, "slug": "2026-11-27-sdn-the-future-of-digitalisation-in-sudan-amid-recent-developments", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions for this country."}
+{"n": 253, "slug": "2026-11-26-sdn-central-bank-of-sudan-signs-mou-with-central-bank-of-egypt", "facts": [], "systems": [], "note": "MoU only aims to provide trade-payment settlement channels; no corridor piloted, licensed or in service."}

@@ -57,7 +57,6 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
-import json
 import os
 import random
 import sys
@@ -494,22 +493,21 @@ def main(argv=None) -> int:
         rpath = os.path.join(study_lib.study_dir(a.study), "refused.csv")
         refusals = study_lib.read_csv(rpath)
         for iso in sorted(os.listdir(base)):
-            facts_dir = os.path.join(base, iso, "facts")
-            if not os.path.isdir(facts_dir):
+            edir = os.path.join(base, iso)
+            if not os.path.isdir(os.path.join(edir, "facts")) and not os.path.exists(
+                    os.path.join(edir, study_lib.FACTS_JSONL)):
                 continue
-            files, problems = {}, []
-            for name in sorted(os.listdir(facts_dir)):
-                if not name.endswith(".json"):
-                    continue
-                try:
-                    with open(os.path.join(facts_dir, name), encoding="utf-8") as fh:
-                        files[name[:-5].lstrip("0") or "0"] = json.load(fh)
-                except (OSError, ValueError) as e:
-                    # A FAIL, not a note: a file the merge cannot read is facts that never reach
-                    # `evidence.csv`, and as a note it hid among the unread-document lines
-                    # (housekeeping 60: 41 files in cp1252, unmerged for weeks).
-                    print(f"study-profile: FAIL - {iso} facts/{name}: not readable UTF-8 JSON ({e})")
-                    bad += 1
+            problems = []
+            try:
+                # Folded and waiting alike: a document already merged is skipped by `merge`.
+                files = study_lib.facts_parts(edir)
+            except ValueError as e:
+                # A FAIL, not a note: a file the merge cannot read is facts that never reach
+                # `evidence.csv`, and as a note it hid among the unread-document lines
+                # (housekeeping 60: 41 files in cp1252, unmerged for weeks).
+                print(f"study-profile: FAIL - {iso} {e}")
+                bad += 1
+                continue
             existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
             before = {r["source_slug"]: r.get("read", "") for r in ledger if r["iso3"] == iso}
             new, systems, more, taken, mine = merge(study, iso, study_lib.read_csv(
@@ -535,6 +533,8 @@ def main(argv=None) -> int:
             ledger = [r for r in ledger if (r["iso3"], r["source_slug"]) not in {(iso, s) for s in taken}]
             ledger += [{"iso3": iso, "source_slug": s, "read": read, "merged_on": today}
                        for s, read in taken.items()]
+            # Taken or refused, a part file has been read: fold it into `facts.jsonl` (R173).
+            study_lib.fold_facts(edir)
             if new or add:
                 touched.add(iso)
                 print(f"  {iso}  {len(new):3d} new facts, {len(add):3d} new systems")

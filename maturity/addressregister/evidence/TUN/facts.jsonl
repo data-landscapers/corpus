@@ -1,0 +1,22 @@
+{"n": 1, "slug": "2026-09-26-tun-rne-rejoint-ebra", "facts": [], "systems": [], "note": "No fact stated for this study."}
+{"n": 2, "slug": "2026-07-23-tunisie-registre-national-des-societes-communautaires-alahlia", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 3, "slug": "2026-04-30-tunisie-rne-full-digital-mobile-id", "facts": [], "systems": [], "note": "The document says nothing about addressing."}
+{"n": 4, "slug": "2025-07-16-unfpa-atelier-registre-national-population", "facts": [], "systems": [], "note": "Document states nothing on this register."}
+{"n": 5, "slug": "2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique", "facts": [], "systems": [], "note": "The article lists digital transformation projects (business register, Taamir building-permit portal, health identifier register) but states nothing on street naming, numbering, address registers or digital addressing."}
+{"n": 35, "slug": "2024-07-01-tun-ogptunisie-registre-national-donnees-publiques", "facts": [], "systems": [], "note": "Document states nothing on addressing."}
+{"n": 36, "slug": "2026-05-01-tun-id4africa-iuc-country-playbook", "facts": [], "systems": [], "note": "The document lists an address directory feature and a residence address field in the citizen register, but no addressing system giving places addresses."}
+{"n": 37, "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases", "facts": [], "systems": [], "note": "The document states nothing on this for Tunisia."}
+{"n": 38, "slug": "2025-05-23-tun-webdo-signature-contrat-electroniques-registre-foncier", "facts": [], "systems": [], "note": "Nothing on addressing."}
+{"n": 39, "slug": "2022-12-01-tun-thd-registre-national-des-adresses", "facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "The communication-technologies minister said the national address register is being set up with La Poste tunisienne, letting citizens update addresses and administrations consult them (THD).", "as_of": "2022-11-30", "date_precision": "day", "system": "registre national des adresses", "class": "address"}], "systems": [{"system": "registre national des adresses", "country_label": "Tunisia", "class": "address", "platform": "", "owner": "Ministry of Communication Technologies with La Poste tunisienne", "tiers": ""}], "note": ""}
+{"n": 41, "slug": "2023-11-13-tun-economistemaghrebin-isie-mise-a-jour", "facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}
+{"n": 46, "slug": "2026-07-16-tun-depot-immatriculation-mise-a-jour-le-registre-national-des-entreprises", "facts": [], "systems": [], "note": "The document states nothing about addressing."}
+{"n": 47, "slug": "2026-04-26-tun-registre-national-des-entreprises-les-demarches-administratives-entier", "facts": [], "systems": [], "note": "Document states nothing on addressing."}
+{"n": 48, "slug": "2026-01-13-tun-arrete-beneficiaire-effectif-procedure-acces", "facts": [], "systems": [], "note": "Document states nothing this study asks about TUN."}
+{"n": 49, "slug": "2025-04-18-tun-le-rne-accelere-la-digitalisation-des-entreprises-tunisiennes", "facts": [], "systems": [], "note": "Document states nothing on addressing."}
+{"n": 51, "slug": "2026-04-19-tun-l-hopital-mongi-slim-lance-la-plateforme-numerique-de-declaration-des", "facts": [], "systems": [], "note": "Document states nothing on this register."}
+{"n": 53, "slug": "2026-10-29-tun-adel-chouari-dici-2027-fini-les-copies-conformes-dans-les-administrati", "facts": [], "systems": [], "note": "The document says nothing on addressing."}
+{"n": 54, "slug": "2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepreneuriat", "facts": [], "systems": [], "note": "The document says nothing about addressing."}
+{"n": 57, "slug": "2026-01-06-tun-tunisie-le-centre-national-de-l-informatique-celebre-50-ans-au-cur-de", "facts": [], "systems": [], "note": "No addressing system is mentioned."}
+{"n": 62, "slug": "2026-11-06-tun-sofiene-hemissi-annonce-la-numerisation-de-plusieurs-services-administ", "facts": [], "systems": [], "note": "The document states nothing this study asks for Tunisia."}
+{"n": 79, "slug": "2026-11-07-tun-pour-accompagner-les-entrepreneurs-dans-leurs-demarches-le-rne-lance-d", "facts": [], "systems": [], "note": "Nothing on addressing."}
+{"n": 80, "slug": "2026-08-15-tun-conseil-ministeriel", "facts": [], "systems": [], "note": "No addressing system is mentioned."}

@@ -1,0 +1,28 @@
+{"n": 108, "slug": "ref:uis-4a1-secondary-internet@2026-02-09", "facts": [{"sub_indicator": "schools", "aspect": "internet", "value": "official:18.1341", "fact": "18.1 per cent of secondary schools in Mali had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.", "as_of": "2023", "date_precision": "year", "system": "UNESCO's SDG 4.a.1 series", "class": "schoolinternet"}], "systems": [{"system": "UNESCO's SDG 4.a.1 series", "country_label": "Mali", "class": "schoolinternet", "platform": "", "owner": "UNESCO Institute for Statistics", "tiers": ""}], "note": "carried from reference/measures.csv; no document opened"}
+{"n": 109, "slug": "2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi", "facts": [], "systems": [], "note": "No school internet or curriculum content."}
+{"n": 110, "slug": "2024-02-20-mli-bamada-mali-recupere-fichiers-ravec", "facts": [], "systems": [], "note": "The document states nothing this study asks for MLI."}
+{"n": 116, "slug": "2026-10-16-mli-rfi-bagayoko-dix-ans-sante-numerique", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 117, "slug": "2024-07-24-mli-douanes-interconnexion-systemes-aes", "facts": [], "systems": [], "note": "Not stated by the document for this study."}
+{"n": 127, "slug": "2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d", "facts": [], "systems": [], "note": "Nothing on school internet or curriculum."}
+{"n": 131, "slug": "2025-06-12-mli-e-gov-mali-le-logiciel-de-gestion-de-l-etat-civil-et-le-projet-de-syst", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 136, "slug": "2026-04-20-mli-atelier-de-renforcement-des-capacites-des-cadres-du-ssn-sur-cspro-et-o", "facts": [], "systems": [], "note": "Nothing on school internet or curriculum."}
+{"n": 137, "slug": "2026-01-01-mli-avis-a-manifestation-d-interet-n02-2026-dfc-smtd-sa-recrutement-d-un-c", "facts": [], "systems": [], "note": "Document states nothing on school internet."}
+{"n": 138, "slug": "2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 141, "slug": "2026-04-11-mli-bilan-du-pole-national-de-lutte-contre-la-cybercriminalite-en-2025-834", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 142, "slug": "2025-05-27-mli-souverainete-numerique-et-cybersecurite-au-mali-strategie-nationale", "facts": [], "systems": [], "note": "The document states nothing this study asks about Mali."}
+{"n": 143, "slug": "2026-10-29-mli-mali-l-intelligence-artificielle-nouveau-rempart-contre-les-cybermenac", "facts": [], "systems": [], "note": "The document states nothing on this question for Mali."}
+{"n": 149, "slug": "2025-06-05-mli-acquisition-et-dotation-en-materiels-informatique-ainsi-que-le-recrute", "facts": [], "systems": [], "note": "No figure for schools with internet and no curriculum statement."}
+{"n": 151, "slug": "2025-01-02-mli-loi-electorale-les-articles-52-57-et-70-modifies", "facts": [], "systems": [], "note": "Nothing on school connectivity."}
+{"n": 152, "slug": "2026-11-04-le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 155, "slug": "2026-09-18-mli-plf-2027-annexe-dppd-pap-companion", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 157, "slug": "2024-08-02-mli-mali-l-amrtp-edifie-les-consommateurs-sur-l-importance-de-l-identifica", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 158, "slug": "2024-02-16-mli-identification-un-nouveau-systeme-biometrique-lance-pour-la-souveraine", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 162, "slug": "2026-02-11-mli-semaine-nationale-de-la-justice-la-delivrance-digitale-du-casier-judic", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 163, "slug": "2025-06-17-mli-deploiement-dune-infrastructure-de-cloud-public", "facts": [], "systems": [], "note": "Document states nothing on schools."}
+{"n": 164, "slug": "2025-02-01-mli-troisieme-edition-de-la-semaine-de-la-justice-le-logiciel-de-gestion-d", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 171, "slug": "2026-11-11-digitalisation-des-attestations-dimportation-de-vehicules-la-phase-pil", "facts": [], "systems": [], "note": "Vehicle import attestations; nothing on schools."}
+{"n": 191, "slug": "2025-09-16-mli-digitalisation-de-la-sante-l-antim-presente-openclinic-devant-le-comit", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 201, "slug": "2026-03-17-mli-koutiala-lancement-du-recensement-des-equipements-marchands-pour-ameli", "facts": [], "systems": [], "note": "A market-stall census for local taxes; nothing on schools or the curriculum."}
+{"n": 210, "slug": "2025-02-19-mli-diaspora-malienne-finis-les-tracasseries-administratives-grace-a-une-n", "facts": [], "systems": [], "note": "Consular platform gives access to civil-status documents; no digital register or link stated."}
+{"n": 211, "slug": "2024-10-31-mli-focus-sur-la-division-des-systemes-d-information-dsi-de-l-anict", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 212, "slug": "2024-02-14-mli-mali-kura-biometrie-une-plateforme-digitale-fiable", "facts": [], "systems": [], "note": "Document covers RAVEC data migration to Mali kura biometrie; no civil-registry office entry, birth number link or school internet stated."}

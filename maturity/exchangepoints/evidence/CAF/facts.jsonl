@@ -1,0 +1,10 @@
+{"n": 1, "slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026", "facts": [], "systems": [{"system": "CENIX (Central African Internet Exchange)", "country_label": "CENIX", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only states CENIX was created in January 2026 as the national IXP; no networks exchanging traffic or members stated, so not recorded as in service."}
+{"n": 2, "slug": "2026-06-29-starlink-africa-availability-costs-performance", "facts": [], "systems": [], "note": "Exchange points named (NAPAfrica, JINX, KIXP, LINX, IXPN, AMS-IX) are for South Africa, Kenya, Nigeria only; nothing for CAF."}
+{"n": 10, "slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link", "facts": [], "systems": [], "note": "Document mentions international fibre links only; no exchange point stated."}
+{"n": 11, "slug": "2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026", "facts": [], "systems": [], "note": "No exchange point mentioned."}
+{"n": 12, "slug": "2026-07-28-car-batangafo-month-without-orange-network", "facts": [], "systems": [], "note": "Document states nothing on an internet exchange point."}
+{"n": 23, "slug": "2026-10-15-dari-infos-cloture-fgi-afrique-centrale-ndjamena", "facts": [], "systems": [], "note": "Exchange points named only as a priority for regional fibre interconnection; none stated in service."}
+{"n": 28, "slug": "2026-07-01-caf-menpt-pgnsp-composante-2", "facts": [], "systems": [], "note": "The document gives budget lines and activity titles for CAF, but states no delivered system, rule or figure that answers this study's questions."}
+{"n": 30, "slug": "2026-10-26-caf-vers-une-diversification-de-la-connectivite-en-centrafrique", "facts": [], "systems": [], "note": "No exchange point is mentioned."}
+{"n": 31, "slug": "2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con", "facts": [], "systems": [], "note": "Table gives no data for the Central African Republic."}
+{"n": 36, "slug": "2026-03-17-starlink-commercial-launch-affordability-agenceecofin", "facts": [], "systems": [], "note": "No exchange point is mentioned."}

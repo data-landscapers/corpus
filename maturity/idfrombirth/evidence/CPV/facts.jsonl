@@ -1,0 +1,23 @@
+{"n": 1, "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth.", "as_of": "2026-05", "date_precision": "month", "system": "Unique Identification Number", "class": "birthnumber"}, {"sub_indicator": "frombirth", "aspect": "national", "value": "national", "fact": "Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth, with birth registration at 99% after the reforms.", "as_of": "2026-05", "date_precision": "month", "system": "Unique Identification Number", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 2, "slug": "2026-03-31-palop-digital-identity-collaboration-biometricupdate", "facts": [], "systems": [], "note": "Nothing country-specific stated."}
+{"n": 3, "slug": "2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 4, "slug": "2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao", "facts": [], "systems": [], "note": "Page covers authentication only; says nothing on numbers at birth."}
+{"n": 5, "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica", "facts": [], "systems": [], "note": "Nothing on a number given at birth."}
+{"n": 6, "slug": "2024-01-01-cabo-verde-mobile-digital-key", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 7, "slug": "2024-01-01-cartao-nacional-de-identificacao", "facts": [], "systems": [], "note": "The card is optional at birth registration and the page does not say a number is given at birth."}
+{"n": 8, "slug": "2024-01-01-cni-fees-and-exemptions", "facts": [], "systems": [], "note": "Document states nothing on this question."}
+{"n": 11, "slug": "2026-10-15-can-africas-new-crvs-decade-close-the-death-registration-gap", "facts": [], "systems": [], "note": "The document states nothing on this for the country."}
+{"n": 12, "slug": "2026-07-01-oms-cabo-verde-modernizacao-sistema-registo-de-obitos", "facts": [], "systems": [], "note": "Document concerns death registration; no number at birth is stated."}
+{"n": 13, "slug": "2025-12-16-cabo-verde-justica-portal-servicos-digitais-905-atos", "facts": [], "systems": [], "note": "Says nothing of an ID number given at birth."}
+{"n": 112, "slug": "2026-05-01-cpv-id4africa-digital-identity-public-infra", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 113, "slug": "2026-01-12-cpv-imij-sniac-sistema-pivot", "facts": [], "systems": [], "note": "Nothing on a number given at birth."}
+{"n": 116, "slug": "2024-09-03-cpv-imij-sniac-projeto-operacional", "facts": [], "systems": [], "note": "Nothing stated about a number at birth."}
+{"n": 131, "slug": "2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 141, "slug": "2026-07-22-cpv-ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 143, "slug": "2025-08-18-cpv-who-and-ministry-of-health-partnership-drives-modernization-of-the-dea", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 146, "slug": "2024-06-22-cpv-nosi-e-os-seus-25-anos", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 149, "slug": "2024-06-16-cpv-ecowas-conducts-advocacy-on-the-deployment-of-the-ecowas-national-biom", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 150, "slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 151, "slug": "2025-09-26-cpv-incv-inicia-producao-de-documentos-eletronicos-de-identificacao", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 163, "slug": "2026-03-01-cpv-the-importance-of-interoperability-for-stronger-social-protection", "facts": [], "systems": [], "note": "Document states nothing on this study for Cabo Verde."}
+{"n": 167, "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi", "facts": [], "systems": [], "note": "Nothing stated."}

@@ -1,0 +1,39 @@
+{"n": 1, "slug": "2026-07-07-lesotho-country-statement-un-global-dialogue-ai-governance", "facts": [], "systems": [], "note": "The document states nothing on this for the country."}
+{"n": 2, "slug": "2025-08-31-lesotho-deepfake-warning-royal-pm", "facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "The Government of Lesotho's press statement, reproduced by DRAA, says Lesotho currently lacks a dedicated cyber law to address AI-generated deepfake videos of the King and the Prime Minister.", "as_of": "2025-08-15", "date_precision": "day", "system": "", "class": "aiharm"}], "systems": [], "note": ""}
+{"n": 3, "slug": "2026-09-09-lso-africanewsroom-lesotho-korea-ai-dialogue", "facts": [], "systems": [], "note": "Bilateral meeting readout; no AI harm rule or authority stated."}
+{"n": 4, "slug": "2026-07-31-lso-govls-kobong-launch-m100bn-investment", "facts": [], "systems": [], "note": "Nothing stated"}
+{"n": 5, "slug": "2026-07-20-lesotho-joins-waico", "facts": [], "systems": [], "note": "Document states nothing answering this study's questions for the country."}
+{"n": 6, "slug": "2026-07-16-lesotho-national-data-value-creation-blueprint-workshop", "facts": [], "systems": [], "note": "A data blueprint workshop; no rule or authority on AI harms is stated."}
+{"n": 7, "slug": "2026-07-01-cipit-ai-and-intellectual-property-in-africa", "facts": [], "systems": [], "note": "Report assesses national AI strategies on intellectual property; states no rule, authority, government use, sectoral tool or local AI build for this country."}
+{"n": 8, "slug": "2026-06-12-three-digital-policies-signed-lestimes", "facts": [], "systems": [], "note": "Signing of an AI Policy with guidelines only; no binding rule, tool or capacity stated."}
+{"n": 9, "slug": "2026-02-18-lesotho-sesotho-word-bank-ai-training", "facts": [], "systems": [], "note": "Nothing stated that answers the questions."}
+{"n": 10, "slug": "2025-12-12-lesotho-specific-disease-detection-model-atlantis", "facts": [], "systems": [], "note": "Not addressed."}
+{"n": 13, "slug": "2025-04-04 Africa Declaration on Artificial Intelligence", "facts": [], "systems": [], "note": "Declaration states continental principles only; no country-specific AI rule, system or build."}
+{"n": 15, "slug": "2026-08-26-thereporter-lesotho-national-ai-strategy-data-centre-blueprint", "facts": [], "systems": [], "note": "Draft AI policy and a workshop are stated, but no rule or authority addressing an AI harm."}
+{"n": 88, "slug": "2026-10-15-lso-2027-2028-budget-strategy-paper-companion", "facts": [], "systems": [], "note": "Mentions data-governance and cybersecurity safeguards only; no AI harm rule or authority stated."}
+{"n": 91, "slug": "2024-07-22-lso-rsl-tender-generative-ai-crm", "facts": [], "systems": [], "note": "Not stated in the document."}
+{"n": 92, "slug": "2026-05-14-lso-lestimes-moorosi-digitisation-interview", "facts": [], "systems": [], "note": "The document states nothing this study asks about Lesotho."}
+{"n": 93, "slug": "2024-09-16-lso-newsday-rsl-automatic-compliance-project", "facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}
+{"n": 96, "slug": "2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid", "facts": [], "systems": [], "note": "The document states nothing this study asks for Lesotho."}
+{"n": 98, "slug": "2026-08-24-lso-lesotho-moves-from-ai-policy-to-national-strategy-and-digital-infrastr", "facts": [], "systems": [], "note": "The document states no rule or authority on AI harms."}
+{"n": 99, "slug": "2026-02-03-lso-lena-world-governments-summit-ai-policy-approved", "facts": [], "systems": [], "note": "The policy is described as setting a governance framework; no rule or authority on AI harms is stated."}
+{"n": 100, "slug": "2025-05-22-lso-highlight-26-2025-why-strengthening-information-governance-is-crucial", "facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "Analyst Sekatle Sekatle writes that Lesotho's proposed Artificial Intelligence Bill aims to include mechanisms to detect and mitigate the spread of disinformation and misinformation through responsible AI systems, and urges the government to table it.", "as_of": "2025-05-22", "date_precision": "day", "system": "Artificial Intelligence Bill", "class": "aiharm"}], "systems": [], "note": ""}
+{"n": 101, "slug": "2024-03-04-lso-ai-healthcare-revolution-in-lesotho-combating-tb", "facts": [], "systems": [], "note": "States nothing on rules or an authority for AI harms."}
+{"n": 107, "slug": "2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning", "facts": [], "systems": [], "note": "Research dataset paper; nothing on AI harms rules."}
+{"n": 108, "slug": "2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho", "facts": [], "systems": [], "note": "An AI Policy is named but nothing on a rule or authority against AI harms."}
+{"n": 109, "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 110, "slug": "2026-10-25-lso-southern-africa-s-women-are-online-but-the-law-protecting-them-has-yet-to-follow", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 113, "slug": "2026-10-27-xaf-au-opens-6th-session-stc-cict", "facts": [], "systems": [], "note": "The document states nothing this study asks about this country."}
+{"n": 115, "slug": "2026-03-27-lso-exploring-the-data-protection-and-data-governance-challenges-and-oppor", "facts": [], "systems": [], "note": "Document does not mention AI harms rules or authority; AI appears only as a risk to personal data."}
+{"n": 116, "slug": "2026-10-29-xaf-opening-remarks-lerato-mataboge-6th-au-stc-cict", "facts": [], "systems": [], "note": "The document states nothing this study asks about this country."}
+{"n": 117, "slug": "2026-10-30-xaf-au-ministers-digital-strategies-to-delivery", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 122, "slug": "2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement", "facts": [], "systems": [], "note": "Nothing on AI."}
+{"n": 123, "slug": "2026-11-09-lesotho-itu-plenipotentiary-priorities", "facts": [], "systems": [], "note": "Only names AI readiness as an ITU conference priority; no rule or authority."}
+{"n": 124, "slug": "2024-03-25-lso-who-afro-tb-case-finding-ai-screening", "facts": [], "systems": [], "note": "Nothing on AI harms."}
+{"n": 126, "slug": "2025-12-18-worldbank-govtech-dataset-dec2025", "facts": [], "systems": [], "note": "Database record only; its no is never a fact.", "claims": {"gtmi-3db85ae2d7": "nothing: a database's no"}}
+{"n": 128, "slug": "2026-11-12-lesotho-itu-pp26-affordable-connectivity-landlocked", "facts": [], "systems": [], "note": "The AI Policy is named without any rule on AI harms."}
+{"n": 148, "slug": "2026-11-20-paradigm-initiative-child-online-protection-policies-africa", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 159, "slug": "2026-10-20-lso-through-new-ai-powered-chatbots-developed-by-lesotho-government-farmer", "facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}
+{"n": 160, "slug": "2025-11-12-lso-isoc-lesotho-ai-cybersecurity-workshop", "facts": [], "systems": [], "note": "A workshop says the legal framework is ill-equipped for AI bias, but no rule, draft or authority on AI harms is stated."}
+{"n": 161, "slug": "2026-11-01-lso-lesotho-pp-26-policy-statement", "facts": [], "systems": [], "note": "States nothing on rules or an authority against AI harms."}
+{"n": 162, "slug": "2026-08-18-lso-dpm-commends-advancing-digital", "facts": [], "systems": [], "note": "Mentions risks and an ethical AI policy framework but no rule or authority on AI harms."}

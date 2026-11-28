@@ -1,0 +1,52 @@
+{"n": 1, "slug": "2026-08-26-uk-south-sudan-fintech-cooperation-itweb", "facts": [], "systems": [], "note": "No fact: the central bank and Ministry of Finance are engaging telecoms and mobile money operators to integrate the National Payment System, with nothing stated as licensed, piloted or in service."}
+{"n": 2, "slug": "2026-10-12-ssd-ramdiet-digital-payments-everyday-use", "facts": [], "systems": [], "note": "No cross-border channel stated."}
+{"n": 3, "slug": "2026-10-08-ssd-radioyei-mtn-government-discuss-reopening-of-momo-services", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 4, "slug": "2026-08-27-south-sudan-digital-payments-follow-the-money-oped", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 5, "slug": "2026-08-24-mtn-momo-south-sudan-digital-finance-skills", "facts": [], "systems": [], "note": "Document is about a training programme and states nothing on this study."}
+{"n": 11, "slug": "2026-01-19 South Sudan introduces digital payment system for passports after supply crisis", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 12, "slug": "2025-10-10-boss-launches-first-electronic-interbank-payment-system", "facts": [], "systems": [], "note": "EAC and AfDB welcomed the system but no participation in a regional system is stated."}
+{"n": 13, "slug": "2025-10-01-eyeradio-boss-ssips-ats-plus-explainer", "facts": [], "systems": [], "note": "Document announces an interbank RTGS/ACH launch for 10 October 2025; no fact answers this study."}
+{"n": 14, "slug": "2025-08-29-boss-safeguard-payment-system-mtn-momo-onecitizendaily", "facts": [], "systems": [], "note": "No cross-border channel stated."}
+{"n": 15, "slug": "2025-08-15-mobile-money-providers-nationwide-expansion-onecitizendaily", "facts": [], "systems": [], "note": "No cross-border channel stated."}
+{"n": 16, "slug": "2025-07-22-mobile-money-legal-tender-mixed-reactions-onecitizendaily", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 17, "slug": "2025-07-19-central-bank-mobile-money-legal-tender-onecitizendaily", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 18, "slug": "2025-02-05-africanenda-boss-nips-announcement", "facts": [], "systems": [], "note": "No cross-border channel stated."}
+{"n": 34, "slug": "2026-05-20-rtgs-system-uptake-cajnews", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions."}
+{"n": 36, "slug": "2026-03-30-sarafa-is-now-live-on-the-app-store", "facts": [], "systems": [], "note": "Stablecoin app with no named corridor or licence."}
+{"n": 127, "slug": "2026-10-16-eac-e-commerce-digital-trade-afcfta-protocol", "facts": [], "systems": [], "note": "The document states nothing for this study about the country."}
+{"n": 128, "slug": "2026-09-01-ssd-radioyei-boss-emoney-rules", "facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}
+{"n": 129, "slug": "2025-05-29-ssd-itweb-mtn-momo-onafriq-remittances", "facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia.", "as_of": "2025-05-29", "date_precision": "day", "system": "MTN MoMo / Onafriq inbound remittances", "class": "crossborder"}], "systems": [{"system": "MTN MoMo / Onafriq remittance corridors", "country_label": "South Sudan", "class": "crossborder", "platform": "mobile money", "owner": "MTN South Sudan; Onafriq", "tiers": ""}], "note": ""}
+{"n": 130, "slug": "2025-09-29-ssd-jakony-digital-money-operators-rules", "facts": [], "systems": [], "note": "Document states nothing this study asks for South Sudan."}
+{"n": 131, "slug": "2025-08-03-ssd-radioyei-end-cash-salary-payments", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 132, "slug": "2024-09-19-ssd-nation-cashless-pay-civil-servants", "facts": [], "systems": [], "note": "The document states nothing this study asks for South Sudan."}
+{"n": 137, "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 140, "slug": "2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 143, "slug": "2026-01-26-ssd-bank-of-south-sudan-to-introduce-national-switch-card-to-ease-transact", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 144, "slug": "2025-11-04-ssd-boss-sets-january-2026-deadline-for-banks-to-join-national-payment-sys", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 145, "slug": "2026-10-23-ken-africas-digital-government-platforms-must-show-taxpayers-where-the-money-goes", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 146, "slug": "2025-10-23-ssd-south-sudan-mps-advance-cybercrime-bill-to-final-vote", "facts": [], "systems": [], "note": "Document states nothing on this question for South Sudan."}
+{"n": 148, "slug": "2025-05-23-ssd-civil-servants-ordered-to-open-salary-accounts-amid-cash-crisis", "facts": [], "systems": [], "note": "The document states nothing this study asks for South Sudan."}
+{"n": 149, "slug": "2024-11-11-ssd-government-to-digitize-payroll-system-in-2025", "facts": [], "systems": [], "note": "Nothing stated that answers this study's questions."}
+{"n": 152, "slug": "2024-10-17-ssd-south-sudan-inaugurates-computer-incident-response-team", "facts": [], "systems": [], "note": "Document does not address this study's questions."}
+{"n": 154, "slug": "2026-10-31-ssd-juba-city-council-launches-digital-payment-system-to-improve-transpare", "facts": [], "systems": [], "note": "Nothing stated on this."}
+{"n": 155, "slug": "2026-11-04-uga-uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-de", "facts": [], "systems": [], "note": "Not yet fully integrated into EAPS, per the minister; no in-service fact."}
+{"n": 156, "slug": "2025-07-08-ssd-central-bank-to-pay-salaries-via-mobile-money-as-cash-crisis-deepens", "facts": [], "systems": [], "note": "Document does not mention cross-border payments."}
+{"n": 157, "slug": "2026-11-05-ssd-central-bank-and-national-communication-authority-sign-mou-on-digital-security", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 158, "slug": "2025-06-03-ssd-govt-pushes-for-bank-accounts-to-streamline-salaries", "facts": [], "systems": [], "note": "No cross-border payments stated."}
+{"n": 161, "slug": "2026-11-06-ssd-juba-high-court-summons-mtn-over-deleted-data-bundles-poor-n", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 162, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 164, "slug": "2026-11-06-ssd-sudanspost-central-bank-warns-of-cybersecurity-risks-to-digital-financial-services", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 174, "slug": "2024-04-22-xss-a-decade-of-change-the-surge-of-financial-inclusion-in-sub-saharan-afr", "facts": [], "systems": [], "note": "Blog states nothing for this country that answers this study."}
+{"n": 176, "slug": "2026-11-06-dpi-map-2026-11-12", "facts": [], "systems": [{"system": "National Instant Payment System - NIPS", "country_label": "South Sudan", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only a national label; no aspect stated.", "claims": {"dpimap-b50766b291": "nothing: national deployment label, not an aspect"}}
+{"n": 177, "slug": "2025-08-07-ssd-boss-finalises-payment-system-to-connect-banks-telecoms-and-fintech", "facts": [], "systems": [], "note": "Document states no cross-border corridor or regional link."}
+{"n": 178, "slug": "2025-06-12-ssd-central-bank-telecom-operators-unite-to-fast-track-digital-payment-sys", "facts": [], "systems": [], "note": "Domestic mobile money and bank integration only; nothing cross-border."}
+{"n": 179, "slug": "2025-02-19-ssd-south-sudan-s-instant-payments-push", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 180, "slug": "2025-10-22-ssd-revenue-collection-hits-ssp-130-billion", "facts": [], "systems": [], "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."}
+{"n": 181, "slug": "2025-03-28-cog-smart-africa-pushes-for-a-unified-e-commerce-policy-across-the-contine", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 188, "slug": "2025-10-07-ssd-starlink-now-available-nationwide-through-mtn-south-sudan", "facts": [], "systems": [], "note": "The document states nothing this study asks for South Sudan."}
+{"n": 190, "slug": "2024-10-31-ssd-starlink-au-soudan-du-sud-une-petite-avancee-dans-l-un-des-pays-les-mo", "facts": [], "systems": [], "note": "Document states nothing this study asks for South Sudan."}
+{"n": 203, "slug": "2026-11-18-estdev-eac-estdev-cooperation-agreement-cross-border-e-services", "facts": [], "systems": [], "note": "South Sudan is named only as an EAC member; no corridor or payment system stated."}
+{"n": 205, "slug": "2026-11-19-ssd-economy-finance-ministry-central-bank-advance-digital-banking", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 209, "slug": "2026-11-23-xea-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-pro", "facts": [], "systems": [], "note": "Document concerns data flows, not payments."}
+{"n": 211, "slug": "2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq", "facts": [], "systems": [], "note": "No cross-border corridor or regional link is stated."}
+{"n": 212, "slug": "2026-11-24-ssd-opinion-south-sudan-leaps-away-from-the-cheque-book", "facts": [], "systems": [], "note": "No cross-border corridor or regional link is stated."}

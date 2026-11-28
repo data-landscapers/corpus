@@ -1,0 +1,93 @@
+{"n": 1, "slug": "2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor", "facts": [], "systems": [], "note": "No survey share stated; 22 million is registered IPN customers."}
+{"n": 2, "slug": "2026-09-14-youm7-egypt-ntra-mobile-wallets-h1-2026", "facts": [], "systems": [], "note": "Wallet penetration of 45% is an NTRA wallet count, not a survey share of adults."}
+{"n": 3, "slug": "2026-09-09-ntra-egypt-mobile-wallets-usage-indicators-h1-2026", "facts": [], "systems": [], "note": "The release states nothing on this study for Egypt."}
+{"n": 4, "slug": "2026-07-24-elwatan-instapay-mobile-wallets-54-million-financial-inclusion", "facts": [], "systems": [], "note": "Financial inclusion rate of over 77% is given by an expert with no survey named and counts accounts, cards and wallets."}
+{"n": 5, "slug": "2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram", "facts": [], "systems": [{"system": "Meeza", "country_label": "Egypt", "class": "other", "platform": "national card scheme", "owner": "CBE", "tiers": ""}, {"system": "InstaPay", "country_label": "Egypt", "class": "retail", "platform": "instant payments network", "owner": "CBE", "tiers": ""}, {"system": "Meeza Digital", "country_label": "Egypt", "class": "retail", "platform": "mobile wallets", "owner": "", "tiers": ""}], "note": "Document states nothing answering this study."}
+{"n": 6, "slug": "2026-10-04-regional-almanassa-papss-african-payment-system-explainer", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 7, "slug": "2026-09-23-enterpriseam-instapay-papss-egypt-integration", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 8, "slug": "2026-09-20-papss-meeza-card-integration-waya", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 9, "slug": "2026-09-19-aacb-papss-board-egyptian-participation-businessmeneg", "facts": [], "systems": [], "note": "No survey share."}
+{"n": 10, "slug": "2026-09-19-papss-14th-governing-council-nairobi-dailynewsegypt", "facts": [], "systems": [], "note": "No survey share."}
+{"n": 11, "slug": "2026-09-19-papss-14th-governing-council-nairobi-sisgov", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 16, "slug": "2026-09-09-ahram-papss-instapay-egypt-cross-border-link", "facts": [], "systems": [], "note": "The document states nothing on this study for this country."}
+{"n": 19, "slug": "2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations", "facts": [], "systems": [], "note": "No survey share of adults stated."}
+{"n": 26, "slug": "2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential", "facts": [], "systems": [], "note": "Egypt is only the dateline of the event and Somalia appears only in an unrelated link; no statement about the country on this topic."}
+{"n": 29, "slug": "2026-02-17-cbe-second-financial-inclusion-strategy-2026-2030", "facts": [], "systems": [], "note": "The 77.6% is a central bank count of active accounts against population aged 15+, not a survey share; the demand-side survey is still under way."}
+{"n": 31, "slug": "2025-09-01-cbe-governance-internal-control-fit-and-proper-payment-institutions", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 43, "slug": "2026-09-15-egy-enterprise-digital-egp-versus-instapay", "facts": [], "systems": [], "note": "The document states nothing on this."}
+{"n": 63, "slug": "2025-08-18-cbe-first-digital-bank-onebank-itweb", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 242, "slug": "2024-06-23-egy-ahram-epayment-collection-fy23-24", "facts": [], "systems": [], "note": "No survey figure for adults with accounts."}
+{"n": 243, "slug": "2026-10-13-xaf-transform-health-continental-health-data-governance-framework-consultation", "facts": [], "systems": [], "note": "Document is a continental health data governance framework consultation; states nothing the study asks for this country."}
+{"n": 245, "slug": "2025-02-26-egy-egypttoday-cbe-financial-inclusion-74-8-percent", "facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "The Central Bank of Egypt says 74.8 percent of Egyptians aged 15 and above were actively using financial accounts at the close of 2024, up from 70.7 percent in 2023.", "as_of": "2024", "date_precision": "year", "system": "CBE financial inclusion rate", "class": "survey"}], "systems": [], "note": ""}
+{"n": 246, "slug": "2026-04-05-egy-egyptinnovate-deg-277000-trainees", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 247, "slug": "2026-02-08-egy-mped-startup-charter-policies-procedures", "facts": [], "systems": [], "note": "The document states nothing this study asks about Egypt."}
+{"n": 248, "slug": "2025-09-01-egy-comcec-mcit-decent-life-rural-accessibility", "facts": [], "systems": [], "note": "Document states nothing on this study's questions for Egypt."}
+{"n": 254, "slug": "2026-10-20-orange-egypt-partners-with-botim-to-enable-uae-to-egypt-remittances", "facts": [], "systems": [], "note": "Gives provider user counts, not a survey share of adults with an account."}
+{"n": 255, "slug": "2026-10-21-egy-minister-ict-egypt-tops-africa-fixed-internet-speed-digital-sovereignty", "facts": [], "systems": [], "note": "No account-ownership survey figure."}
+{"n": 256, "slug": "2026-10-20-egy-communications-minister-five-pillars-digital-sovereignty-data-protection", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 261, "slug": "2026-10-22-egy-egypts-souhoola-secures-fra-approval-for-fintech-based-consu", "facts": [], "systems": [], "note": "No survey figure given."}
+{"n": 262, "slug": "2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026", "facts": [], "systems": [], "note": "No account-ownership survey figure stated."}
+{"n": 265, "slug": "2025-06-19-egy-central-bank-of-egypt-issues-licensing-and-registration-rules-for-paym", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 266, "slug": "2024-12-03-egy-papss", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 267, "slug": "2024-01-28-egy-cbe-payment-systems-and-services-oversight-framework", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 268, "slug": "2026-10-23-afreximbank-academy-integrates-papss-local-currency-payments", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 269, "slug": "2024-03-11-egy-cbe-payment-systems-oversight-framework-update", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 271, "slug": "2026-10-24-egy-egypt-forum-2026-outlines-sweeping-development-agenda-to-raise-living-standards", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 272, "slug": "2026-10-22-xaf-icbc-standard-bank-rmb-payments-10-measures", "facts": [], "systems": [], "note": "Document states nothing on this study for this country."}
+{"n": 273, "slug": "2025-04-06-egy-almezan-cbe-wallet-remittances-inbound-only", "facts": [], "systems": [], "note": "No account ownership survey is mentioned."}
+{"n": 274, "slug": "2024-12-05-egy-cbe-instant-inbound-remittances-primary", "facts": [], "systems": [], "note": "Only a count of registered InstaPay customers (11.5 million), not a survey share of adults."}
+{"n": 275, "slug": "2024-06-23-egy-cabinet-mof-epayment-collection-fy23-24", "facts": [], "systems": [], "note": "No survey share of adults with accounts."}
+{"n": 276, "slug": "2025-05-18-egy-ahram-customs-system-development-plan-nafeza", "facts": [], "systems": [], "note": "Document states nothing this study asks for Egypt."}
+{"n": 277, "slug": "2026-10-01-egy-760-2025", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 278, "slug": "2025-11-24-egy-efinance-salesforce-collaborate-to-build-egypt-s-agentic-ai-powered-ap", "facts": [], "systems": [], "note": "Document states only an MoU to build a national API gateway; no delivered thing answers this study."}
+{"n": 281, "slug": "2026-10-29-uga-egypt-uganda-discuss-cooperation-in-digital-transformation-ai", "facts": [], "systems": [], "note": "No survey figure stated."}
+{"n": 284, "slug": "2026-10-29-acet-unlocking-africas-digital-potential", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 285, "slug": "2025-03-01-egy-minister-of-planning-economic-development-and-international-cooperatio", "facts": [], "systems": [], "note": "Document says nothing on this study's questions."}
+{"n": 287, "slug": "2026-06-04-egy-aldawlanews-ntra-budget-2026-27-revenue-usf", "facts": [], "systems": [], "note": "No survey figures."}
+{"n": 288, "slug": "2023-12-26-egy-matnnews-senator-motion-unified-ecommerce-legislation", "facts": [], "systems": [], "note": "Only an unsourced e-commerce value figure, not a payments survey."}
+{"n": 289, "slug": "2026-11-03-egy-youm7-egypt-plans-dedicated-ai-law", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 290, "slug": "2026-11-03-xaf-enza-closes-us6-million-seed-round", "facts": [], "systems": [], "note": "Funding release for a payments vendor; states nothing the study asks for this country."}
+{"n": 291, "slug": "2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets", "facts": [], "systems": [], "note": "No survey share."}
+{"n": 292, "slug": "2024-08-01-egy-50-000-new-families-added-to-takaful-karama-cash-support-programme", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 297, "slug": "2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement", "facts": [], "systems": [], "note": "Document states nothing on this topic for Egypt."}
+{"n": 298, "slug": "2024-08-01-crs-12-2024eq5415c7761-2024-paymob-international-b-v", "facts": [], "systems": [], "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."}
+{"n": 300, "slug": "2026-01-01-egy-mcit-ict-strategy-page-publications-en", "facts": [], "systems": [], "note": "The page states nothing this study asks."}
+{"n": 303, "slug": "2026-11-06-egy-social-registry-13m-households-27-databases", "facts": [], "systems": [], "note": "The document states nothing this study asks about Egypt."}
+{"n": 304, "slug": "2026-11-08-egy-telecom-egypt-e-finance-mou-we-innovate-star-graduation", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 305, "slug": "2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 306, "slug": "2026-09-22-egy-fintechgate-haweya-digital-id-five-banks-18-months", "facts": [], "systems": [], "note": "No survey share of digital payments stated."}
+{"n": 307, "slug": "2026-11-07-egy-youm7-madbouly-opens-cairo-ict-2026-minister-2030-targets", "facts": [], "systems": [], "note": "No account-ownership survey share stated."}
+{"n": 308, "slug": "2026-11-10-zaf-vodacom-interim-results-sep-2026", "facts": [], "systems": [], "note": "Customer counts, no survey share of adults."}
+{"n": 309, "slug": "2025-12-25-egy-fintechgate-mcit-drafting-data-classification-exchange-law", "facts": [], "systems": [], "note": "Nothing on account ownership."}
+{"n": 327, "slug": "2025-10-14-egy-egyptian-fintech-unicorn-mnt-halan-raises-71-4m-via-7th-securitised-bo", "facts": [], "systems": [], "note": "Only a company's customer count, not a survey of adults."}
+{"n": 328, "slug": "2026-02-08-egy-egypt-builds-new-funding-stack-as-mature-startups-pivot-from-equity-to", "facts": [], "systems": [], "note": "No account survey figure."}
+{"n": 329, "slug": "2026-01-13-nga-big-deal-2025-in-review-mapping-the-money", "facts": [], "systems": [], "note": "No survey figure on account ownership."}
+{"n": 331, "slug": "2025-07-22-egy-flend-raises-3m-in-blended-equity-and-debt-in-seed-round-to-scale-digi", "facts": [], "systems": [], "note": "No account survey figure."}
+{"n": 333, "slug": "2024-11-06-egy-elwatan-mold-wuf12-local-own-source-revenue", "facts": [], "systems": [], "note": "Document states nothing on account ownership."}
+{"n": 337, "slug": "2026-11-08-egy-egypt-s-financial-inclusion-rate-rises-to-79-in-june-2026", "facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "CBE Deputy Governor Rami Aboul Naga said Egypt's financial inclusion rate was 79% at end-June 2026, with about 56.4 million citizens holding active accounts.", "as_of": "2026-06", "date_precision": "month", "system": "CBE financial inclusion rate", "class": "survey"}, {"sub_indicator": "uptake", "aspect": "target", "value": "target", "fact": "CBE Deputy Governor Rami Aboul Naga said the financial inclusion rate was 79% at end-June 2026, up from 77.6% at end-2025 among people aged 15 and over.", "as_of": "2026-06", "date_precision": "month", "system": "CBE financial inclusion rate", "class": "survey"}], "systems": [], "note": "The 79% is a central bank figure built on active accounts; the document does not name a survey."}
+{"n": 338, "slug": "2025-11-19-egy-cbe-grants-flash-app-a-license-to-provide-e-payment-services", "facts": [], "systems": [], "note": "Gives no survey figure."}
+{"n": 339, "slug": "2025-10-12-egy-a-new-benchmark-for-collaboration-between-banks-and-fintech-companies", "facts": [], "systems": [], "note": "Gives no survey figure."}
+{"n": 340, "slug": "2026-10-05-egy-halan-payments-and-halan-technology-apply-for-cbe-psp-licences", "facts": [], "systems": [], "note": "Not addressed."}
+{"n": 341, "slug": "2025-07-21-egy-world-bank-findex-43-of-egyptian-adults-hold-a-formal-account", "facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "Al Borsa News, relaying the World Bank's Global Findex 2025, says 43% of Egyptian adults hold a formal financial account.", "as_of": "2024", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}], "systems": [{"system": "Global Findex 2025", "country_label": "Egypt", "class": "survey", "platform": "", "owner": "World Bank", "tiers": ""}], "note": "36% made or received digital payments, below the 79% line."}
+{"n": 343, "slug": "2026-11-12-egy-fra-approves-10-companies-fintech-nbfi", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 344, "slug": "2026-11-12-norfund-backed-fund-mnt-halan", "facts": [], "systems": [], "note": "Only a company customer count, no survey share."}
+{"n": 345, "slug": "2026-11-12-mnt-halan-lists-egyptian-business-on-cairo-stock-exchange-in-major-ipo", "facts": [], "systems": [], "note": "Only a company customer count, not a survey share."}
+{"n": 346, "slug": "2026-11-10-egy-pm-opens-cairo-ict-ai-targets-2030", "facts": [], "systems": [], "note": "No survey figure stated."}
+{"n": 350, "slug": "2026-11-10-egy-instapay-22-million-users-cbe-deputy-governor", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 352, "slug": "2024-01-04-egy-e-payment-collection-services-exceed-egp-8-1trn-in-egypt-finance-minis", "facts": [], "systems": [], "note": "No survey of adults with accounts."}
+{"n": 356, "slug": "2025-01-01-egy-financial-digitization", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 363, "slug": "2026-08-31-egy-implementation-status-results-report-takaful-and-karama-cash-transfer", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 365, "slug": "2024-01-06-egy-egypt-ventures-invested-egp-383-mln-over-7-years-to-fuel-startups-grow", "facts": [], "systems": [], "note": "Document states nothing this study asks for Egypt."}
+{"n": 367, "slug": "2026-11-14-orange-egypte-parquet-general-services-numeriques-ia", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 382, "slug": "2026-11-15-egy-sisi-meets-pm-minister-planning", "facts": [], "systems": [], "note": "No survey share of adults with accounts."}
+{"n": 383, "slug": "2026-11-18-first-circle-capital-closes-26-million-african-fintech-fund", "facts": [], "systems": [], "note": "No survey share."}
+{"n": 386, "slug": "2026-11-18-egy-sis-trade-tech-regulatory-sandbox-innovation-hub", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 387, "slug": "2026-11-17-egy-pib-india-egypt-jtc-upi-instapay-dpi", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 394, "slug": "2026-11-23-egy-sis-cbe-card-tokenisation-android", "facts": [], "systems": [], "note": "The document gives transaction counts only, no survey share of adults with an account."}
+{"n": 395, "slug": "2026-11-21-techsoma-first-circle-capital-closes-26-million-fund-targets-nigeria-and-afric", "facts": [], "systems": [], "note": "Pan-African fund story; nothing on this study for the country."}
+{"n": 396, "slug": "2026-11-23-egy-fintechgate-egypt-ai-procurement-guide-vendor-requirements", "facts": [], "systems": [], "note": "The document gives no account-ownership survey figure."}
+{"n": 397, "slug": "2026-11-23-egy-fintechgate-egypt-ai-procurement-personal-data-safeguards", "facts": [], "systems": [], "note": "Nothing on account ownership."}
+{"n": 399, "slug": "2026-11-24-egy-visa-expands-tokenized-contactless-payments-through-bank-apps-in-egypt", "facts": [], "systems": [], "note": "No account survey figure."}
+{"n": 400, "slug": "2026-11-23-egy-aboheshima-senate-ai-economy-study-data-governance", "facts": [], "systems": [], "note": "Financial inclusion of about 76% is cited without naming an adult account survey."}
+{"n": 402, "slug": "2026-11-23-egy-cbe-tokenization-android", "facts": [], "systems": [], "note": "No survey share of adults with accounts; transaction counts only."}
+{"n": 404, "slug": "2026-11-26-sdn-central-bank-of-sudan-signs-mou-with-central-bank-of-egypt", "facts": [], "systems": [], "note": "No survey share stated."}

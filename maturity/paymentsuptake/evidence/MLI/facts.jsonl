@@ -1,0 +1,62 @@
+{"n": 1, "slug": "2026-07-31-mali-collectivites-digitalisation-paiements-etat-civil", "facts": [], "systems": [], "note": "No account-ownership survey stated."}
+{"n": 2, "slug": "2026-07-30-sante-le-mali-accelere-la-digitalisation-de-ses-services-publics", "facts": [], "systems": [], "note": "No survey share of adults."}
+{"n": 3, "slug": "2026-06-25-bceao-pi-spi-prolongation-delai-communique-web", "facts": [], "systems": [], "note": "Document addresses UEMOA generally and does not name Mali in its text."}
+{"n": 4, "slug": "2026-04-02-bceao-liste-participants-pi-spi", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 5, "slug": "2026-03-01 Mobile Money Taxes and Affordability in Sub-Saharan Africa", "facts": [], "systems": [], "note": "The 60% account figure is regional, not country."}
+{"n": 6, "slug": "2025-10-01-global-findex-2025-mali-microdata", "facts": [], "systems": [], "note": "Catalogue record only; no indicator values stated."}
+{"n": 7, "slug": "2025-06-11-maliweb-orange-money-orabank-mastercard-prepaid", "facts": [], "systems": [], "note": "No survey share is stated."}
+{"n": 8, "slug": "2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 9, "slug": "2025-01-01-bceao-payment-systems-management", "facts": [], "systems": [], "note": "No survey share is stated."}
+{"n": 10, "slug": "2024-07-26-mali-jo-2024-17-decret-2024-0429-digitalisation-paiements", "facts": [], "systems": [], "note": "Decree gives no survey share."}
+{"n": 11, "slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics", "facts": [], "systems": [], "note": "Document gives no survey share of adults."}
+{"n": 12, "slug": "2023-11-29-worldbank-dfs-inclusion-growth-mali", "facts": [], "systems": [], "note": "The post gives access to financial services at 44% in 2021 without naming a survey of adult account ownership, and 38% receiving a digital payment, below 79%."}
+{"n": 14, "slug": "2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free", "facts": [], "systems": [], "note": "The document names the country only as a UEMOA member and states nothing for this study."}
+{"n": 15, "slug": "2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026", "facts": [], "systems": [], "note": "The document states nothing on this for Mali."}
+{"n": 16, "slug": "2026-08-27-horonyafinance-umoa-monnaie-electronique-2025", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 29, "slug": "2026-07-28-mali-digitalisation-sante-developpement-social-cmss", "facts": [], "systems": [], "note": "No survey share of adults with an account."}
+{"n": 30, "slug": "2026-04-09-le360-moov-money-mali-carte-prepayee-mastercard-gitex", "facts": [], "systems": [], "note": "The document states nothing on this study for this country."}
+{"n": 31, "slug": "2025-11-26-mali-dgi-recettes-electroniques", "facts": [], "systems": [{"system": "Télépaiement (DGI)", "country_label": "Mali", "class": "other", "platform": "bank transfers", "owner": "Direction générale des impôts", "tiers": ""}], "note": "Tax-administration interview on e-payment of taxes; no survey share of adults with an account or digital payments."}
+{"n": 128, "slug": "2025-10-06-mli-impactalpha-catalyst-fund-oko", "facts": [], "systems": [], "note": "Names no government or state body role for Mali on this question."}
+{"n": 129, "slug": "2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi", "facts": [], "systems": [], "note": "No survey figure stated."}
+{"n": 131, "slug": "2023-12-12-mli-worldbank-jigisemejiri-mobile-money-pilot", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 132, "slug": "2025-05-27-mli-apanews-quatre-plateformes-numeriques", "facts": [], "systems": [], "note": "The document states nothing this study asks for Mali."}
+{"n": 133, "slug": "2024-07-25-mli-securite-gouv-digitalisation-paiements-services", "facts": [], "systems": [], "note": "The document states nothing this study asks for Mali."}
+{"n": 139, "slug": "2026-02-13-mli-signature-electronique-une-etape-cle-vers-letat-numerique", "facts": [], "systems": [], "note": "No survey figure given."}
+{"n": 142, "slug": "2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d", "facts": [], "systems": [], "note": "Only a count of e-money accounts, not a survey of adults."}
+{"n": 144, "slug": "2026-06-29-mli-listes-des-etablissements-de-monnaie-electronique-et-des-etablissement", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 145, "slug": "2026-10-20-xwa-bceao-indicateurs-inclusion-financiere-uemoa-2025", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 146, "slug": "2026-02-28-xwa-bceao-etablissements-monnaie-electronique", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 150, "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes", "facts": [], "systems": [], "note": "Only e-money account counts, no survey share."}
+{"n": 152, "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 153, "slug": "2025-01-01-mli-trade-facilitation-and-paperless-trade-in-mali", "facts": [], "systems": [], "note": "The document states nothing this study asks for the country."}
+{"n": 154, "slug": "2024-01-08-mli-orange-finances-money-mali-et-terrapay-etablissent-un-partenariat-stra", "facts": [], "systems": [], "note": "The 12 million figure is a customer count, not a survey of adults."}
+{"n": 155, "slug": "2026-01-16-mli-mali-communique-du-conseil-des-ministres-du-vendredi-16-janvier-2026-c", "facts": [], "systems": [], "note": "No account-holding survey figure stated."}
+{"n": 156, "slug": "2025-06-13-mli-mali-l-apdp-menace-la-saisine-de-100-entreprises-pour-non-conformite", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 159, "slug": "2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l", "facts": [], "systems": [], "note": "Nothing stated on this."}
+{"n": 160, "slug": "2025-03-17-mli-mali-72-millions-pour-ameliorer-l-acces-aux-services-telecoms-en-2025", "facts": [], "systems": [], "note": "No account or digital payment survey figure stated."}
+{"n": 162, "slug": "2026-11-03-xwa-anp-bceao-pi-spi-obligatoire-entree-en-vigueur", "facts": [], "systems": [], "note": "Document names the country only in a list of eight UEMOA members for cross-border rules from 2027-06-01, a future date; no country-specific fact."}
+{"n": 164, "slug": "2026-11-02-tgo-ecobank-togo-cips-payments-to-china-faster-cheaper", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 165, "slug": "2024-03-15-caf-cash-vs-digital-how-do-digital-government-to-person-payments-ease-the", "facts": [], "systems": [], "note": "Document states nothing the study asks for MLI."}
+{"n": 166, "slug": "2024-12-19-crs-1601-2024012782-08-2024-campaign-worker-databases-to-facilitate-rapid-digi", "facts": [], "systems": [], "note": "A grant record to support payments to polio campaign workers; no payment system is stated in service or underway."}
+{"n": 167, "slug": "2024-12-19-iati-dac-1601-inv-082570-campaign-worker-databases-to-facilitate-rapid-digital-paymen", "facts": [], "systems": [], "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."}
+{"n": 168, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 171, "slug": "2024-12-14-mli-carte-nationale-d-identite-biometrique-securisee-les-commissariats-et", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 176, "slug": "2025-03-19-mli-digitalisation-de-ladministration-deux-nouvelles-plateformes-de-modern", "facts": [], "systems": [], "note": "No survey share of adults with an account."}
+{"n": 177, "slug": "2025-03-18-mli-primature-tresor-pay-sif-guf-presentation", "facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}
+{"n": 179, "slug": "2026-01-13-nga-big-deal-2025-in-review-mapping-the-money", "facts": [], "systems": [], "note": "No survey figure on account ownership."}
+{"n": 181, "slug": "2025-06-02-xwa-services-de-paiement-umoa-les-fintech-ont-jusqu-au-31-aout-pour-se-reg", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 182, "slug": "2025-06-04-civ-instruction-n001-01-2024-bceao-les-fintech-ont-jusqu-au-31-aout-2025-p", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 183, "slug": "2025-05-27-sen-bceao-licenses-nine-fintechs-for-digital-payments-in-waemu", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 184, "slug": "2024-04-22-xss-a-decade-of-change-the-surge-of-financial-inclusion-in-sub-saharan-afr", "facts": [], "systems": [], "note": "Blog states nothing for this country that answers this study."}
+{"n": 185, "slug": "2026-11-02-mli-mali-nouvelles-regles-pour-les-transferts-numeriques", "facts": [], "systems": [], "note": "The 61.9% is a rate of use of financial services, not a share of adults with an account."}
+{"n": 186, "slug": "2025-06-17-mli-mali-s-military-government-outlaws-political-parties-and-suppresses-pu", "facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}
+{"n": 192, "slug": "2026-07-31-mli-bank-to-wallet-un-partenariat-strategique-scelle-entre-la-direction-ge", "facts": [], "systems": [], "note": "Only a provider customer count (11 million, company claim), not a survey of adults."}
+{"n": 196, "slug": "2025-03-27-mli-mali-embraces-solar-power-for-rural-areas-but-the-challenges-are-still", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 197, "slug": "2024-11-22-ner-integration-numerique-l-arcep-niger-celebre-son-25e-anniversaire-avec", "facts": [], "systems": [], "note": "Document states nothing this study asks for this country."}
+{"n": 203, "slug": "2024-04-02-mli-commercialisation-incontrolee-et-illicite-de-kit-starlink-le-gouvernem", "facts": [], "systems": [], "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."}
+{"n": 206, "slug": "2026-11-16-mli-apanews-sama-money-pi-spi-reception", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 217, "slug": "2026-11-16-mli-tresorpay-545-tablets", "facts": [], "systems": [], "note": "No account survey figure stated."}
+{"n": 220, "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system", "facts": [], "systems": [], "note": "No survey figure."}
+{"n": 226, "slug": "2026-11-26-xwa-a-cotonou-le-next-fintech-forum-2026-met-l-industrialisation-de-la-fin", "facts": [], "systems": [], "note": "no fact stated for this country"}
+{"n": 228, "slug": "2026-11-26-mli-paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-la-pei", "facts": [], "systems": [], "note": "No survey share stated."}
+{"n": 229, "slug": "2025-09-17-mli-mali-administration-publique-six-solutions-digitales-pour-un-mali-mode", "facts": [], "systems": [], "note": "No survey share of account holders."}

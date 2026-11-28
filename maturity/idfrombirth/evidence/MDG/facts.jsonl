@@ -1,0 +1,44 @@
+{"n": 1, "slug": "2026-05-13-decision-hcc-loi-2026-001-enregistrement-naissances-derogatoire", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 2, "slug": "2026-01-30-national-biometric-enrolment-begins", "facts": [], "systems": [], "note": "The enrolment targets adults aged 18 and above; no number at birth is stated."}
+{"n": 4, "slug": "2026-09-17-mdg-2424-izaho-tokana-2-phase-deux", "facts": [], "systems": [], "note": "Enrolment targets adults over 18; no number at birth stated."}
+{"n": 5, "slug": "2026-09-17-mdg-midimadagasikara-etat-civil-oif-journee-identite", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 6, "slug": "2026-09-17-mdg-moov-izaho-tokana-deuxieme-phase", "facts": [], "systems": [], "note": "Number is given at enrolment, not at birth."}
+{"n": 7, "slug": "2026-09-16-mdg-lexpressmg-etat-civil-20-pourcent-sans-identite-legale", "facts": [], "systems": [], "note": "Nothing stated that answers this question."}
+{"n": 9, "slug": "2026-09-04-biometricupdate-madagascar-digital-id-trust", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 11, "slug": "2026-07-06-last-mile-civil-registration-biometricupdate", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 12, "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank", "facts": [], "systems": [], "note": "Enrolment is of adults and issues birth certificates; no number at birth is stated."}
+{"n": 13, "slug": "2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate", "facts": [], "systems": [], "note": "The document states nothing on this question for the country."}
+{"n": 16, "slug": "2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate", "facts": [], "systems": [], "note": "The document states nothing on this."}
+{"n": 18, "slug": "2026-03-16-etat-civil-enrolement-biometrique-national-lexpress", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 19, "slug": "2026-03-02-ugd-idms-audit-tdr", "facts": [], "systems": [{"system": "IDMS", "country_label": "MDG", "class": "idsystem", "platform": "", "owner": "Presidency / UGD (PRODIGY)", "tiers": ""}], "note": "A unique population identifier is instituted by law, but no number given at birth is stated."}
+{"n": 143, "slug": "2026-05-01-mdg-undp-biometric-enrolment-nui", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 144, "slug": "2026-02-25-mdg-2424mg-nui-eleves-atsimondrano", "facts": [], "systems": [{"system": "Prodigy NUI", "country_label": "MDG", "class": "other", "platform": "", "owner": "Ministry of National Education", "tiers": ""}], "note": "Pupil unique ID pilot (Prodigy) is a school identifier, not a civil register or ID link; nothing stated for this study."}
+{"n": 145, "slug": "2025-04-14-mdg-moov-atelier-consultation-signature-electronique", "facts": [], "systems": [], "note": "Document states only that laws were voted and are partly applied for want of implementing texts, or that a consultation opened; no value in this study's aspects is settled."}
+{"n": 148, "slug": "2026-07-01-mdg-wb-identite-legale-millions-malagasy", "facts": [], "systems": [], "note": "Says the reform does not reach newborn registration; no number at birth stated."}
+{"n": 150, "slug": "2026-10-17-mdg-dgi-nifonline-immatriculation", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 151, "slug": "2024-02-27-mdg-2424mg-justice-site-doleances", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 154, "slug": "2026-10-17-mdg-refonte-de-la-liste-electorale-plus-de-sept-millions-d-electeurs-inscrits", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 158, "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 159, "slug": "2025-02-21-mdg-oif-afapdp-mission-cmil-operationalisation", "facts": [], "systems": [], "note": "The OIF account of a data protection mission states nothing this study asks."}
+{"n": 161, "slug": "2025-01-20-mdg-newsmada-cneci-2025-activities-launch", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "Newsmada reports the Cneci project aims to deliver birth certificates containing a unique authentic biometric identification number.", "as_of": "2025-01", "date_precision": "month", "system": "Cneci", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 163, "slug": "2026-07-23-mdg-decim-biometric-enrolment-capitalisation-workshop", "facts": [], "systems": [], "note": "Nothing on a number given at birth registration."}
+{"n": 170, "slug": "2026-04-29-mdg-modernisation-de-l-etat-14-institutions-deja-interconnectees-via-le-sy", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 172, "slug": "2024-02-28-mdg-premiere-reunion-du-comite-d-operationnalisation-de-la-cmil", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 174, "slug": "2026-04-21-mdg-adoption-du-projet-de-loi-relatif-a-l-enrolement-biometrique-de-masse", "facts": [], "systems": [], "note": "Bill targets adults 18 and over; no number at birth."}
+{"n": 175, "slug": "2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 177, "slug": "2026-08-05-mdg-madagascar-elections-la-digitalisation-de-la-liste-electorale-reste-en", "facts": [], "systems": [], "note": "Nothing stated on this study."}
+{"n": 181, "slug": "2026-11-04-mdg-identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le", "facts": [], "systems": [], "note": "Enrolment is of people aged 18 and over; nothing on a number at birth."}
+{"n": 182, "slug": "2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 184, "slug": "2024-12-11-mdg-si-le-taux-denregistrement-des-naissances-progresse-regulierement-a-le", "facts": [], "systems": [], "note": "Nothing on an ID number given at birth."}
+{"n": 185, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 187, "slug": "2026-08-01-mdg-elections-la-digitalisation-de-la-liste-electorale-reste-en-suspens", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 188, "slug": "2026-05-21-tgo-direction-for-open-source-dpi-sustainability-local-ownership-establish", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 191, "slug": "2026-01-28-mdg-madagascar-colonel-michael-randrianirina-mettre-fin-aux-doublons-dans", "facts": [], "systems": [], "note": "The document states nothing this study asks for Madagascar."}
+{"n": 196, "slug": "2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "The World Bank PRODIGY report says the pilot solution in Antananarivo and Toamasina registered over 3,000 newborns and issued birth certificate copies with a unique identification number.", "as_of": "2023-10-23", "date_precision": "day", "system": "PRODIGY birth registration pilot", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 204, "slug": "2025-01-17-mdg-etat-civil-des-milliers-d-enfants-sans-copie-a-antananarivo-ville", "facts": [], "systems": [], "note": "Nothing stated that answers this study."}
+{"n": 205, "slug": "2026-08-13-mdg-commune-urbaine-d-antananarivo-challenge", "facts": [], "systems": [], "note": "Document is a call for expressions of interest to acquire a system, a plan and not a delivered system; nothing stated that answers this study."}
+{"n": 212, "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 236, "slug": "2026-11-20-mwi-shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 238, "slug": "2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour", "facts": [], "systems": [], "note": "Nothing on an ID number at birth."}
+{"n": 240, "slug": "2026-09-11-mdg-tech-connect-loi-cybercriminalite-vote-reporte", "facts": [], "systems": [], "note": "The document states nothing this study asks about Madagascar."}
+{"n": 242, "slug": "2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress", "facts": [], "systems": [], "note": "The document states nothing on this study's questions for this country."}

@@ -118,7 +118,7 @@ def main(argv=None) -> int:
                                  "why": "carried"})
                 n_of[slug] = str(nxt)
             out = os.path.join(base, iso, "facts", f"{n_of[slug]}.json")
-            if os.path.exists(out):
+            if study_lib.part_taken(out):
                 continue
             docs, facts = docs + 1, facts + len(by_slug[slug])
             if a.dry:

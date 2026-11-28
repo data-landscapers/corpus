@@ -38,7 +38,6 @@ import collections
 import csv
 import hashlib
 import importlib.util
-import json
 import os
 import re
 import sys
@@ -183,7 +182,6 @@ def plan(sid: str, per_call: int, out_dir: str) -> int:
         edir = os.path.join(study_lib.study_dir(sid), "evidence", iso)
         rl_path = os.path.join(edir, "readlist.csv")
         rl = study_lib.read_csv(rl_path) if os.path.exists(rl_path) else []
-        facts_dir = os.path.join(edir, "facts")
         on_list = {r["slug"]: r for r in rl if r.get("kind") == "raw" and r.get("n")}
         nxt = max([int(r["n"]) for r in rl if (r.get("n") or "").isdigit()] + [0]) + 1
         docs: dict[str, dict] = {}       # slug -> readlist row (new or already external)
@@ -213,7 +211,7 @@ def plan(sid: str, per_call: int, out_dir: str) -> int:
             if prim:
                 slug = os.path.splitext(os.path.basename(prim))[0]
                 r = on_list.get(slug)
-                if r and r.get("pass") != "external" and os.path.exists(os.path.join(facts_dir, f"{r['n']}.json")):
+                if r and r.get("pass") != "external" and study_lib.has_facts(edir, r["n"]):
                     led[c["claim"]] = dict(base, outcome="read-before", slug=slug,
                                            note=f"reading list {r['n']}, already read for this indicator")
                     continue
@@ -242,7 +240,7 @@ def plan(sid: str, per_call: int, out_dir: str) -> int:
                     continue
                 slug = rec["slug"]
                 r = on_list.get(slug)
-                if r and r.get("pass") != "external" and os.path.exists(os.path.join(facts_dir, f"{r['n']}.json")):
+                if r and r.get("pass") != "external" and study_lib.has_facts(edir, r["n"]):
                     led[c["claim"]] = dict(base, outcome="read-before", slug=slug,
                                            note=f"reading list {r['n']}, the record already read for this indicator")
                     continue
@@ -367,12 +365,11 @@ def screen(sid: str) -> int:
         rl = os.path.join(edir, "readlist.csv")
         if not os.path.exists(rl):
             continue
+        parts = study_lib.facts_parts(edir)
         for r in study_lib.read_csv(rl):
-            f = os.path.join(edir, "facts", f"{r.get('n')}.json")
-            if r.get("slug") not in slugs or not os.path.exists(f):
+            doc = parts.get(str(r.get("n") or "").lstrip("0") or "0")
+            if r.get("slug") not in slugs or not r.get("n") or doc is None:
                 continue
-            with open(f, encoding="utf-8") as fh:
-                doc = json.load(fh)
             keep = [x for x in doc.get("facts") or []
                     if x.get("value") not in absent.get(x.get("aspect"), {"none"})]
             if len(keep) == len(doc.get("facts") or []):
@@ -383,8 +380,7 @@ def screen(sid: str) -> int:
                 doc["claims"] = {k: (v if v.lower().startswith("nothing") else
                                      "nothing: a database's no is not the absence the ladder asks for")
                                  for k, v in (doc.get("claims") or {}).items()}
-            with open(f, "w", encoding="utf-8", newline="\n") as fh:
-                json.dump(doc, fh, ensure_ascii=False, indent=2)
+            study_lib.put_facts(edir, r["n"], doc)
     print(f"{sid}: {dropped} absence fact(s) from a database dropped")
     return 0
 
@@ -403,12 +399,10 @@ def close(sid: str) -> int:
         edir = os.path.join(study_lib.study_dir(sid), "evidence", r["iso3"])
         rl = {x["slug"]: x for x in study_lib.read_csv(os.path.join(edir, "readlist.csv")) if x.get("n")}
         doc = rl.get(r["slug"])
-        f = os.path.join(edir, "facts", f"{doc['n']}.json") if doc else ""
-        if not f or not os.path.exists(f):
+        data = study_lib.facts_parts(edir).get(str(doc["n"]).lstrip("0") or "0") if doc else None
+        if data is None:
             missing["no facts file"] += 1
             continue
-        with open(f, encoding="utf-8") as fh:
-            data = json.load(fh)
         ans = (data.get("claims") or {}).get(r["claim"])
         if not ans:
             missing["no answer"] += 1

@@ -1,0 +1,56 @@
+{"n": 1, "slug": "2026-07-17-egypt-crvs-journey-2017-2026", "facts": [], "systems": [], "note": "Anchoring public systems to a unique national ID is stated, but no number given at birth."}
+{"n": 2, "slug": "2024-01-01-egypt-unsd-vital-statistics-questionnaire-2024", "facts": [], "systems": [], "note": "Questionnaire gives registration completeness only; no link to an ID system and no number at birth."}
+{"n": 4, "slug": "2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch", "facts": [], "systems": [], "note": "Document states nothing on this question."}
+{"n": 5, "slug": "2026-08-25-egypt-digital-identity-bank-costs-competition", "facts": [], "systems": [], "note": "A banker's commentary on what digital ID would do; it states no service, system or figure."}
+{"n": 6, "slug": "2026-08-17-egypt-mp-facial-recognition-concerns", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 7, "slug": "2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case", "facts": [], "systems": [{"system": "national ID", "country_label": "Egypt", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Document covers SIM registration checked against the national ID photo, not the ID system itself."}
+{"n": 8, "slug": "2026-08-08-egypt-ntra-my-numbers-facial-verification", "facts": [], "systems": [], "note": "Nothing stated on this question; the article covers a telecoms line lookup by national number."}
+{"n": 10, "slug": "2026-07-05-egypt-property-registration-rate-below-10pct", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 14, "slug": "2024-09-24 Egypt deploys automated civil-registry kiosks (birth certificates and national ID)", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 15, "slug": "2024-01-01-egypt-national-id-system-citc", "facts": [], "systems": [{"system": "National ID System (national number project)", "country_label": "EGY", "class": "idsystem", "platform": "", "owner": "Civil Status Organization", "tiers": ""}], "note": "Document states nothing on this question."}
+{"n": 30, "slug": "2026-08-26-egy-egypt-launches-biometric-verification-system-for-remote-digi", "facts": [], "systems": [], "note": "Nothing stated on an ID number at birth."}
+{"n": 33, "slug": "2026-07-27-ahram-public-prosecution-electronic-criminal-record-enquiry-egypt", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 37, "slug": "2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate", "facts": [], "systems": [], "note": "Only a private eKYC firm's use of national ID data is stated; no register, number or system detail for the study."}
+{"n": 169, "slug": "2025-09-19-egy-elwatannews-nea-voter-database-national-id", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 170, "slug": "2025-02-26-egy-egypttoday-cbe-financial-inclusion-74-8-percent", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 178, "slug": "2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 182, "slug": "2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 183, "slug": "2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026", "facts": [], "systems": [], "note": "Nothing on ID at birth."}
+{"n": 186, "slug": "2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 187, "slug": "2025-09-07-egy-dostor-mohp-births-deaths-system-new-version", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 188, "slug": "2024-05-10-egy-ahram-mohp-100pc-births-deaths-automation", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 189, "slug": "2024-01-21-egy-almasryalyoum-electronic-birth-death-registration-paper-abolished", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 190, "slug": "2024-01-21-egy-cairo24-mohp-births-deaths-fully-automated", "facts": [], "systems": [], "note": "Document states no ID number given at birth registration."}
+{"n": 191, "slug": "2026-09-14-egy-fra-otp-decision-2735-consumer-msme-finance", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 193, "slug": "2026-10-29-uga-egypt-uganda-discuss-cooperation-in-digital-transformation-ai", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 196, "slug": "2026-10-30-thales-cyshield-join-forces-on-egypt-s-biometric-border-and-passport-p", "facts": [], "systems": [], "note": "Document covers border e-gates and e-passport issuance MoU; states nothing on the national ID system, so no fact for this study."}
+{"n": 198, "slug": "2025-05-17-egy-moe-online-registration-kindergarten-primary-2025", "facts": [], "systems": [{"system": "EMIS portal online application (emis.gov.eg)", "country_label": "Egypt", "class": "other", "platform": "emis.gov.eg", "owner": "Ministry of Education and Technical Education", "tiers": ""}], "note": "Document states nothing this study asks."}
+{"n": 199, "slug": "2026-10-20-egy-digital-egypt-13-5m-users-badawi-egypt-forum", "facts": [], "systems": [], "note": "Document states nothing this study asks for Egypt."}
+{"n": 200, "slug": "2026-08-02-egy-your-guide-to-navigating-egypt-s-online-government-services", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 201, "slug": "2025-07-16-egy-nea-polling-station-app-qr-voter-lists", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 202, "slug": "2026-06-30-egy-egypt-moves-citizen-complaints-beyond-hotlines-with-whatsapp-digital-p", "facts": [], "systems": [], "note": "Nothing on ID number at birth."}
+{"n": 203, "slug": "2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets", "facts": [], "systems": [], "note": "Nothing on ID at birth."}
+{"n": 209, "slug": "2026-11-06-egy-social-registry-13m-households-27-databases", "facts": [], "systems": [], "note": "The document states nothing this study asks about Egypt."}
+{"n": 210, "slug": "2026-08-26-egy-mcit-biometric-verification-e-signature-system-launch", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 211, "slug": "2025-02-16-egy-moi-civil-status-caravans-national-id-cards", "facts": [], "systems": [], "note": "Release states nothing on this question for Egypt."}
+{"n": 212, "slug": "2024-12-15-egy-eta-wage-tax-system-mandatory-employer-registration", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 213, "slug": "2026-11-07-egy-fintechgate-fra-ekyc-1-7-million-verifications-october-2026", "facts": [], "systems": [], "note": "No number at birth mentioned."}
+{"n": 214, "slug": "2026-09-22-egy-fintechgate-haweya-digital-id-five-banks-18-months", "facts": [], "systems": [], "note": "Nothing on numbers from birth."}
+{"n": 215, "slug": "2026-11-08-egy-telecom-egypt-e-finance-mou-we-innovate-star-graduation", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 216, "slug": "2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 217, "slug": "2025-07-23-egy-payrollorg-unified-payroll-tax-system", "facts": [], "systems": [], "note": "Nothing on issuing ID from birth."}
+{"n": 218, "slug": "2025-06-15-egy-youm7-uhia-70-percent-services-digitised", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 233, "slug": "2026-11-11-egy-prosecution-opens-ai-data-centre-in-rehab", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 234, "slug": "2026-11-11-egy-remote-power-of-attorney-face-biometric-and-remote-e-signature", "facts": [], "systems": [], "note": "Document does not concern numbers at birth."}
+{"n": 235, "slug": "2026-11-09-egy-22-electronic-notarial-and-real-estate-registry-services", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 237, "slug": "2026-11-12-facephi-and-egypttrust-partner-on-digital-identity-and-fraud-preventio", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 238, "slug": "2026-11-12-egy-fra-approves-10-companies-fintech-nbfi", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 239, "slug": "2026-11-12-egy-hyperscalers-want-clear-rules-data-centers", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 240, "slug": "2026-11-12-eu-egypt-electronic-signatures-trusted-list", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 245, "slug": "2026-11-10-egy-instapay-22-million-users-cbe-deputy-governor", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 253, "slug": "2026-08-22-egy-social-registry-13m-households-law-12-unified-source", "facts": [], "systems": [], "note": "The document states nothing this study asks for Egypt."}
+{"n": 259, "slug": "2024-05-18-egy-dostor-mohp-automation-4000-health-units", "facts": [], "systems": [], "note": "No ID number at birth stated."}
+{"n": 278, "slug": "2026-11-18-egy-sis-eams-online-seafarer-passport-services", "facts": [], "systems": [], "note": "Document says nothing on an ID number at birth."}
+{"n": 279, "slug": "2026-11-18-egy-sis-trade-tech-regulatory-sandbox-innovation-hub", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 284, "slug": "2026-11-21-egy-national-data-centre-strategy-consultancy", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 286, "slug": "2025-06-01-egy-almasryalyoum-mcit-minister-national-real-estate-number", "facts": [], "systems": [], "note": "Nothing on ID numbers given at birth."}

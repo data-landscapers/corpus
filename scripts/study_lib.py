@@ -2,7 +2,7 @@
 r"""study_lib.py — what the maturity-study scripts share: the study's definition, its paths and its files.
 
 `maturity/documentation/maturity-study-method.md` is the procedure. What leaves git, and the one
-`facts.jsonl` a cell this module will read: `documentation/git-weight.md` (R173). A ladder as data
+`facts.jsonl` a cell this module reads: `documentation/git-weight.md` (R173). A ladder as data
 read by one entry point: `maturity/documentation/ladders-as-data.md` (R172). A study states its typology,
 aspects and ladders in prose, in `maturity/{id}/maturity-study-{id}.md`; **what a script has to
 count against is stated once more as data, in `maturity/{id}/study.json`**, and nowhere else:
@@ -319,6 +319,108 @@ def write_csv(path: str, fields: list[str], rows: list[dict]) -> None:
         w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n", extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
+
+
+# --------------------------------------------------------------------------- #
+# A cell's facts: one `facts.jsonl`, and an inbox of part files (R173, housekeeping 91)
+# --------------------------------------------------------------------------- #
+# A drafter, a carry or a fan writes one document's facts as `evidence/{ISO3}/facts/{n}.json`,
+# `n` its number in the reading list, as it always has. `study-profile.py --merge` takes them into
+# `evidence.csv` and then folds them into `evidence/{ISO3}/facts.jsonl`, one line a document,
+# `{"n": ..., "slug": ..., "facts": [...], ...}`, and deletes the part files: 148,373 files became
+# one a cell. A part file not yet folded wins over its folded line, so a re-read is never lost.
+
+FACTS_JSONL = "facts.jsonl"
+
+
+def _num(n) -> str:
+    return str(n).lstrip("0") or "0"
+
+
+def folded_facts(edir: str) -> dict[str, dict]:
+    """`{n: document}` from a cell's `facts.jsonl`; empty when there is none."""
+    out: dict[str, dict] = {}
+    try:
+        with open(os.path.join(edir, FACTS_JSONL), encoding="utf-8") as fh:
+            for line in fh:
+                if line.strip():
+                    doc = json.loads(line)
+                    out[_num(doc.pop("n"))] = doc
+    except OSError:
+        pass
+    return out
+
+
+def facts_parts(edir: str) -> dict[str, dict]:
+    """`{n: document}`: every document's facts the cell holds, folded or still a part file. A part
+    file that is not UTF-8 JSON raises `ValueError`, naming it."""
+    out = folded_facts(edir)
+    folder = os.path.join(edir, "facts")
+    for name in sorted(os.listdir(folder)) if os.path.isdir(folder) else ():
+        if name.endswith(".json"):
+            try:
+                with open(os.path.join(folder, name), encoding="utf-8") as fh:
+                    out[_num(name[:-5])] = json.load(fh)
+            except (OSError, ValueError) as e:
+                raise ValueError(f"facts/{name}: not readable UTF-8 JSON ({e})") from e
+    return out
+
+
+def has_facts(edir: str, n) -> bool:
+    """Whether document `n` of the cell's reading list has been answered, folded or not."""
+    return (os.path.exists(os.path.join(edir, "facts", f"{n}.json"))
+            or _num(n) in folded_facts(edir))
+
+
+def part_taken(path: str) -> bool:
+    """Whether the document a part-file path names is already answered: a writer's test before it
+    writes `evidence/{ISO3}/facts/{n}.json`, folded or not."""
+    return has_facts(os.path.dirname(os.path.dirname(path)), os.path.basename(path)[:-5])
+
+
+def answered(edir: str) -> set[str]:
+    """The document numbers the cell holds facts for, folded or not."""
+    folder = os.path.join(edir, "facts")
+    parts = {_num(f[:-5]) for f in os.listdir(folder) if f.endswith(".json")} if os.path.isdir(folder) else set()
+    return parts | set(folded_facts(edir))
+
+
+def write_folded(edir: str, docs: dict[str, dict]) -> None:
+    """Write `facts.jsonl` from `{n: document}`, in document order, LF, one line a document."""
+    path = os.path.join(edir, FACTS_JSONL)
+    with open(path, "w", encoding="utf-8", newline="\n") as fh:
+        for n in sorted(docs, key=lambda k: (len(k), k)):
+            fh.write(json.dumps({"n": int(n) if n.isdigit() else n, **docs[n]}, ensure_ascii=False) + "\n")
+
+
+def put_facts(edir: str, n, doc: dict) -> None:
+    """Replace document `n`'s facts where they live: its part file if one is waiting, else its line."""
+    part = os.path.join(edir, "facts", f"{n}.json")
+    if os.path.exists(part):
+        with open(part, "w", encoding="utf-8", newline="\n") as fh:
+            json.dump(doc, fh, ensure_ascii=False, indent=1)
+            fh.write("\n")
+        return
+    docs = folded_facts(edir)
+    docs[_num(n)] = doc
+    write_folded(edir, docs)
+
+
+def fold_facts(edir: str) -> int:
+    """Fold the cell's part files into `facts.jsonl` and delete them; the number folded."""
+    folder = os.path.join(edir, "facts")
+    if not os.path.isdir(folder):
+        return 0
+    docs = facts_parts(edir)
+    names = [f for f in os.listdir(folder) if f.endswith(".json")]
+    if not names:
+        return 0
+    write_folded(edir, docs)
+    for f in names:
+        os.remove(os.path.join(folder, f))
+    if not os.listdir(folder):
+        os.rmdir(folder)
+    return len(names)
 
 
 LADDER_NOTE = re.compile(r"counted from the four questions by ", re.I)

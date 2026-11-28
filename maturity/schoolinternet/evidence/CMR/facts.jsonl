@@ -1,0 +1,34 @@
+{"n": 116, "slug": "ref:uis-4a1-secondary-internet@2026-02-09", "facts": [{"sub_indicator": "schools", "aspect": "internet", "value": "official:22.5614", "fact": "22.6 per cent of secondary schools in Cameroon had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.", "as_of": "2022", "date_precision": "year", "system": "UNESCO's SDG 4.a.1 series", "class": "schoolinternet"}, {"sub_indicator": "schools", "aspect": "internet", "value": "official:24.0921", "fact": "24.1 per cent of secondary schools in Cameroon had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.", "as_of": "2023", "date_precision": "year", "system": "UNESCO's SDG 4.a.1 series", "class": "schoolinternet"}], "systems": [{"system": "UNESCO's SDG 4.a.1 series", "country_label": "Cameroon", "class": "schoolinternet", "platform": "", "owner": "UNESCO Institute for Statistics", "tiers": ""}], "note": "carried from reference/measures.csv; no document opened"}
+{"n": 117, "slug": "2026-08-20-cmr-digitalbusiness-fgi-interoperabilite", "facts": [], "systems": [], "note": "No school internet figure or curriculum rule stated."}
+{"n": 118, "slug": "2024-09-24-cmr-dgb-cenadi-protection-donnees", "facts": [], "systems": [], "note": "The document states nothing on this study's questions for Cameroon."}
+{"n": 125, "slug": "2025-04-08-cmr-minsante-registres-ameliores-dhis2", "facts": [], "systems": [], "note": "Document does not mention schools."}
+{"n": 131, "slug": "2026-05-12-cmr-protecting-electoral-integrity-against-ai-driven-disinformation", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 132, "slug": "2026-01-28-cmr-avis-d-appel-a-manifestation-d-interet-n0000002-ami-mpt-sg-dag-sdbm-sm", "facts": [], "systems": [], "note": "Document states nothing that answers this study's questions."}
+{"n": 137, "slug": "2026-09-24-digitalbusiness-africa-cameroon-patnuc-training-platform", "facts": [], "systems": [], "note": "Civil-servant online training platform; nothing on secondary schools' internet or the secondary curriculum."}
+{"n": 139, "slug": "2026-01-06-cmr-patnuc-28-33-milliards-fcfa-pour-une-transformation-numerique-reussie", "facts": [], "systems": [], "note": "Schools are named as intended sites; no school internet figure or curriculum rule stated."}
+{"n": 140, "slug": "2025-06-06-cmr-minmap-poursuivre-la-politique-de-la-digitalisation-du-systeme-de-pass", "facts": [], "systems": [], "note": "Nothing on schools; the article is about public procurement."}
+{"n": 144, "slug": "2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 149, "slug": "2024-11-04-cmr-cameroon-squares-up-to-its-payroll-fraud-conundrum-with-biometric-veri", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 152, "slug": "2026-09-02-cmr-prosper-pagou-antic-en-2025-nous-avons-enregistre-17-500-plaintes-pour", "facts": [], "systems": [], "note": "The document states nothing this study asks for Cameroon."}
+{"n": 154, "slug": "2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 155, "slug": "2025-05-31-cmr-il-n-y-a-pas-de-datacenters-tier-iii-au-cameroun-le-pr-chantal-mveh-al", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 159, "slug": "2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 162, "slug": "2025-05-28-cmr-minpostel-optimiser-le-cadre-logique-des-programmes", "facts": [], "systems": [], "note": "Budget programme review; nothing on school internet or a compulsory digital curriculum."}
+{"n": 163, "slug": "2026-03-19-cmr-camix-reunit-les-points-focaux-techniques-pour-evaluer-le-deploiement", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 167, "slug": "2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine", "facts": [], "systems": [], "note": "Not about schools."}
+{"n": 170, "slug": "2026-10-14-cmr-cameroun-le-nettoyage-du-fichier-solde-de-l-etat-de-nouveau-repousse-a", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 172, "slug": "2025-11-13-cmr-agence-de-regulation-des-marches-publics-projet-d-acceleration-de-la-t", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 173, "slug": "2025-05-16-tcd-technologie-le-ministre-boukar-michel-renegocie-les-accords-avec-camte", "facts": [], "systems": [], "note": "Nothing stated by this document for this study."}
+{"n": 175, "slug": "2026-08-19-cmr-lettre-circulaire-n00010308-lc-minfi-du-19-aout-2026-relative-a-la-gou", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 179, "slug": "2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques", "facts": [], "systems": [], "note": "No school figure."}
+{"n": 180, "slug": "2025-12-04-cmr-avis-d-appel-d-offres-international-ouvert-n00020-aoio-minfi-dgi-cccm", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 181, "slug": "2025-06-03-cmr-mindcaf-engager-les-reflexions-pour-la-mise-en-uvre-progressive-de-la", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 186, "slug": "2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises", "facts": [], "systems": [], "note": "Article on internet shutdowns; states nothing for this study."}
+{"n": 191, "slug": "2025-12-19-cmr-cameroun-la-commune-de-dschang-delivre-ses-premiers-actes-de-naissance", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 192, "slug": "2024-10-24-cmr-un-partenariat-pour-l-installation-de-kiosques-numeriques-au-camp-de-r", "facts": [], "systems": [], "note": "The document states nothing this study asks for Cameroon."}
+{"n": 224, "slug": "2026-11-18-cmr-direct-info-cud-douala-plateforme-actes-urbanisme", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 225, "slug": "2026-11-18-xaf-saviu-ii-final-close-apen", "facts": [], "systems": [], "note": "No school internet figure stated."}
+{"n": 228, "slug": "2026-11-20-paradigm-initiative-child-online-protection-policies-africa", "facts": [], "systems": [], "note": "No school figure."}
+{"n": 229, "slug": "2026-11-13-xca-beac-reserves-management-system-preselection", "facts": [], "systems": [], "note": "Document is about the BEAC, a regional body, and states nothing a study asks for this country by name."}
+{"n": 238, "slug": "2025-02-19-cmr-appel-a-candidatures-n-00016-ac-armp-2025-du-19-fevrier-2025-relatif-a", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 239, "slug": "2024-11-12-cmr-mise-en-service-du-progiciel-aigles-l-equipage-au-complet", "facts": [], "systems": [], "note": "Document states nothing this study asks."}

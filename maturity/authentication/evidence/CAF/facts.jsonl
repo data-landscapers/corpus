@@ -1,0 +1,13 @@
+{"n": 3, "slug": "2026-06-16-cni-extortion-discrimination-ndele-corbeaunews", "facts": [], "systems": [], "note": "No authentication service mentioned."}
+{"n": 4, "slug": "2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 5, "slug": "2024-09-25-libre-circulation-ouverture-frontieres-cemac", "facts": [], "systems": [], "note": "The document is about border-crossing documents; no authentication service is stated."}
+{"n": 6, "slug": "2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa", "facts": [], "systems": [], "note": "Nothing stated on this question."}
+{"n": 7, "slug": "2024-10-08 Central African Republic in full biometric voter registration preparations", "facts": [], "systems": [{"system": "CNI (national ID card)", "country_label": "CAF", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": "Nothing stated on this question; the document is about voter registration."}
+{"n": 72, "slug": "2026-07-01-caf-menpt-pgnsp-composante-2", "facts": [], "systems": [], "note": "The document gives budget lines and activity titles for CAF, but states no delivered system, rule or figure that answers this study's questions."}
+{"n": 75, "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 78, "slug": "2026-08-10-caf-80-d-informel-ce-que-le-guichet-unique-change-et-ce-qu-il-ne-change-pa", "facts": [], "systems": [], "note": "The document states nothing this study asks for CAF."}
+{"n": 79, "slug": "2025-08-14-caf-150-000-children-in-the-central-african-republic-to-benefit-from-birth", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 86, "slug": "2026-08-01-caf-bria-une-operation-speciale-permet-aux-habitants-de-la-haute-kotto-d-o", "facts": [], "systems": [], "note": "No authentication service stated."}
+{"n": 87, "slug": "2024-07-11-caf-centre-de-la-rca-a-bambari-les-populations-soulagees-de-pouvoir-enfin", "facts": [], "systems": [], "note": "No authentication service stated."}
+{"n": 90, "slug": "2025-12-18-worldbank-govtech-dataset-dec2025", "facts": [], "systems": [], "note": "The database line answers no; a database's no is not a fact.", "claims": {"gtmi-3b60d7caf8": "nothing: a database's no"}}
+{"n": 116, "slug": "2026-11-19-caf-modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre", "facts": [], "systems": [], "note": "Document covers civil registration (births, acts) only; no authentication service stated."}

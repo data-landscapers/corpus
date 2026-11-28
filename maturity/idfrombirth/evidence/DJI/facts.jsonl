@@ -1,0 +1,25 @@
+{"n": 3, "slug": "2026-07-23-lanation-carte-nationale-identite-biometrique", "facts": [], "systems": [], "note": "The NNI is assigned at biometric enrolment, not at birth registration."}
+{"n": 4, "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 5, "slug": "2026-04-27-decentralisation-ouverture-antenne-etat-civil-mouloud", "facts": [], "systems": [], "note": "Nothing stated for this country."}
+{"n": 6, "slug": "2026-02-10-interieur-mobile-id-lancement-officiel", "facts": [], "systems": [], "note": "Nothing stated on this question for Djibouti."}
+{"n": 7, "slug": "2026-02-10-mobile-id-biometric-launch-biometricupdate", "facts": [], "systems": [], "note": "Nothing stated on this question for Djibouti."}
+{"n": 8, "slug": "2026-02-10-mobile-id-launch-wearetech", "facts": [], "systems": [], "note": "Document states nothing on this question."}
+{"n": 9, "slug": "2026-02-09-mobile-id-national-digital-identity-forum-lanation", "facts": [], "systems": [], "note": "Nothing stated on this question for Djibouti."}
+{"n": 10, "slug": "2026-02-09-presidence-discours-forum-identite-numerique", "facts": [], "systems": [], "note": "The speech names no service, link, count, register or operator for Djibouti."}
+{"n": 11, "slug": "2026-01-01-unescwa-digitizing-civil-registration-vital-statistics-arab-region", "facts": [], "systems": [], "note": "Captured excerpt is regional and does not name Djibouti."}
+{"n": 12, "slug": "2024-04-28-villededjibouti-sigec-diagnostic", "facts": [], "systems": [], "note": "No identity number at birth stated."}
+{"n": 14, "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register.", "as_of": "2024", "date_precision": "year", "system": "NNI", "class": "birthnumber"}], "systems": [{"system": "RNPP / NNI", "country_label": "Djibouti", "class": "idsystem", "platform": "", "owner": "Direction Generale de la Population et de la Famille, ANSIE", "tiers": ""}], "note": ""}
+{"n": 16, "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa", "facts": [], "systems": [], "note": "Nothing stated on Djibouti's ID at birth."}
+{"n": 17, "slug": "2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization", "facts": [], "systems": [], "note": "The document states nothing on this."}
+{"n": 82, "slug": "2026-01-01-dji-entreprendre-guide-createur-entreprise", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 86, "slug": "2025-12-17-dji-le-ministere-de-l-interieur-accelere-le-virage-de-l-identite-numerique", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 87, "slug": "2026-02-10-dji-djibouti-la-plateforme-mobile-id-une-couche-de-securite-des-informatio", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 89, "slug": "2025-03-24-dji-digitizing-civil-registration-and-legal-identity-in-the-arab-countries", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 91, "slug": "2025-04-07-dji-djibouti-putting-grf-pledges-into-action-through-including-refugees-an", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 110, "slug": "2025-03-06-dji-djibouti-operational-update-06-march-2025", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 111, "slug": "2024-05-01-dji-djibouti-operational-update-may-2024", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 112, "slug": "2024-03-01-dji-djibouti-operational-update-mars-2024", "facts": [], "systems": [], "note": "The document states nothing this study asks for Djibouti."}
+{"n": 117, "slug": "2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance", "facts": [], "systems": [], "note": "The document says nothing about an ID number given at birth."}
+{"n": 142, "slug": "2026-11-01-european-union-trademark-africa-2026-horn-of-africa-green-digital-trade", "facts": [], "systems": [], "note": "Nothing on this study."}
+{"n": 144, "slug": "2026-11-21-afd-dji-2026-arefip-public-finance-reform", "facts": [], "systems": [], "note": "Nothing on this study's question."}
+{"n": 145, "slug": "2025-07-11-dji-casablanca-accueille-le-forum-africain-sur-les-donnees-djibouti-parmi", "facts": [], "systems": [], "note": "The document says nothing on an ID number given at birth."}

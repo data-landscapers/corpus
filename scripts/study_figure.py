@@ -183,7 +183,7 @@ def carry(sid: str, dry: bool) -> int:
                 os.makedirs(os.path.dirname(path), exist_ok=True)
                 study_lib.write_csv(path, study_lib.READLIST_FIELDS, rows)
         out = os.path.join(base, iso, "facts", f"{n}.json")
-        if dry or os.path.exists(out):
+        if dry or study_lib.part_taken(out):
             continue
         os.makedirs(os.path.dirname(out), exist_ok=True)
         with open(out, "w", encoding="utf-8", newline="\n") as fh:

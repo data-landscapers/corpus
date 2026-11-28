@@ -1,0 +1,35 @@
+{"n": 1, "slug": "2026-08-01-statistics-botswana-vital-statistics-report-2024", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Statistics Botswana says the National Identification System assigns a unique birth registration number to every citizen child at birth, which becomes the Omang number at 16.", "as_of": "2026-08", "date_precision": "month", "system": "National Identification System", "class": "birthnumber"}, {"sub_indicator": "frombirth", "aspect": "national", "value": "national", "fact": "Statistics Botswana says the number is assigned to every citizen child at birth, with registration through 35 district offices and 17 on-site points, introduced in 2003.", "as_of": "2026-08", "date_precision": "month", "system": "National Identification System", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 2, "slug": "2026-04-01-bwa-2026-0400-12061", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 3, "slug": "2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)", "facts": [], "systems": [{"system": "Omang", "country_label": "BWA", "class": "idsystem", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": "No ID number at birth is stated."}
+{"n": 5, "slug": "2026-08-26-bwa-omang-fake-documents-cartel", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 6, "slug": "2026-07-30-botswana-p423m-pki-project-collapse", "facts": [], "systems": [{"system": "Public Key Infrastructure", "country_label": "Botswana", "class": "authentication", "platform": "", "owner": "Directorate of Intelligence and Security", "tiers": ""}], "note": "Nothing stated."}
+{"n": 7, "slug": "2026-07-29-botswana-national-id-replacement-delays", "facts": [], "systems": [{"system": "Omang", "country_label": "Botswana", "class": "idsystem", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": "Nothing stated."}
+{"n": 8, "slug": "2026-04-01-bwa-2026-0400-0411", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 9, "slug": "2025-12-05-ids-digital-id-in-africa-report-botswana-case-biometricupdate", "facts": [], "systems": [], "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."}
+{"n": 10, "slug": "2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries", "facts": [], "systems": [], "note": "Botswana is named only as a SADC member."}
+{"n": 11, "slug": "2025-01-01-national-identity-card-application-botswana", "facts": [], "systems": [], "note": "Omang is issued from age 16, not at birth."}
+{"n": 13, "slug": "2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr", "facts": [], "systems": [], "note": "Universal birth registration is stated with no ID number given at birth."}
+{"n": 14, "slug": "2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 15, "slug": "2026-09-11-bwa-businesstechafrica-national-ekyc", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 16, "slug": "2026-08-19-allafrica-botswana-electoral-reform-electronic-roll", "facts": [], "systems": [], "note": "The document states nothing on this."}
+{"n": 93, "slug": "2026-09-28-bwa-dailynews-crvs-strategic-plan", "facts": [], "systems": [], "note": "Document is a plan launch; states no delivered system, figure or value the study asks."}
+{"n": 103, "slug": "2026-07-30-bwa-bank-gaborone-self-onboarding-omang-ekyc", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 104, "slug": "2025-11-10-bwa-electronic-id-system-aims-to-improve-efficiency", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 108, "slug": "2026-10-24-bwa-govt-moves-to-clear-omang-backlog", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 114, "slug": "2025-03-09-bwa-labour-ministry-budget-proposal-sails-through", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 115, "slug": "2024-08-20-bwa-ministry-to-digitise-national-registration", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 119, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 123, "slug": "2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 130, "slug": "2025-12-02-bwa-case-study-botswana-1gov-platform-assessment", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 131, "slug": "2024-11-01-bwa-invitation-to-tender-consultancy-services-to-develop-business-continui", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 136, "slug": "2025-03-23-bwa-national-registration-amendment-act-2025-no-7", "facts": [], "systems": [], "note": "Registration is at age 16 under the Act; no number at birth stated."}
+{"n": 138, "slug": "2024-09-18-bwa-hope-for-refugees", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 139, "slug": "2024-08-30-bwa-refugees-to-have-ids", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 146, "slug": "2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 155, "slug": "2026-11-16-gov-bw-shared-digital-services", "facts": [], "systems": [], "note": "Nothing on birth numbers."}
+{"n": 156, "slug": "2026-11-16-gov-bw-voter-registration-omang-requirement", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 157, "slug": "2024-04-26-mmegi-botswana-digital-divide-internet-access", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 158, "slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 161, "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 185, "slug": "2026-11-20-mwi-shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 189, "slug": "2026-08-01-bwa-ngari-botswana-the-setswana-ai-commons", "facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}

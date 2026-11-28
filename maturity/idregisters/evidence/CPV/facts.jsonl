@@ -1,0 +1,17 @@
+{"n": 1, "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate", "facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}
+{"n": 2, "slug": "2026-03-31-palop-digital-identity-collaboration-biometricupdate", "facts": [], "systems": [], "note": "Nothing country-specific stated."}
+{"n": 3, "slug": "2024-01-01-cabo-verde-mobile-digital-key", "facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}
+{"n": 4, "slug": "2024-01-01-cartao-nacional-de-identificacao", "facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}
+{"n": 5, "slug": "2024-01-01-cni-fees-and-exemptions", "facts": [], "systems": [], "note": "Document states nothing on this question."}
+{"n": 7, "slug": "2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao", "facts": [], "systems": [{"system": "Autentika", "country_label": "Cabo Verde", "class": "other", "platform": "electronic identity management and authentication platform", "owner": "State of Cabo Verde", "tiers": "email and password; CMDCV; CNI smart card"}, {"system": "Cartao Nacional de Identificacao (CNI)", "country_label": "Cabo Verde", "class": "other", "platform": "smart card", "owner": "", "tiers": ""}, {"system": "Chave Movel Digital de Cabo Verde (CMDCV)", "country_label": "Cabo Verde", "class": "other", "platform": "mobile digital key", "owner": "", "tiers": ""}], "note": "The page describes an authentication platform and activation points and names no public register keyed on the ID number."}
+{"n": 8, "slug": "2026-10-15-can-africas-new-crvs-decade-close-the-death-registration-gap", "facts": [], "systems": [], "note": "The document states nothing on this for the country."}
+{"n": 96, "slug": "2026-05-01-cpv-id4africa-digital-identity-public-infra", "facts": [], "systems": [], "note": "No register keyed on the ID number stated."}
+{"n": 97, "slug": "2026-01-12-cpv-imij-sniac-sistema-pivot", "facts": [], "systems": [], "note": "It names no public register keyed on the ID number."}
+{"n": 100, "slug": "2024-09-03-cpv-imij-sniac-projeto-operacional", "facts": [], "systems": [], "note": "No register keyed on the ID number is named."}
+{"n": 120, "slug": "2026-07-22-cpv-ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 124, "slug": "2024-06-22-cpv-nosi-e-os-seus-25-anos", "facts": [], "systems": [], "note": "No register stated as keyed on the national ID number."}
+{"n": 125, "slug": "2024-06-16-cpv-ecowas-conducts-advocacy-on-the-deployment-of-the-ecowas-national-biom", "facts": [], "systems": [], "note": "No register keyed on the ID stated."}
+{"n": 126, "slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor", "facts": [], "systems": [], "note": "No register keyed on the ID number named."}
+{"n": 127, "slug": "2025-09-26-cpv-incv-inicia-producao-de-documentos-eletronicos-de-identificacao", "facts": [], "systems": [], "note": "No register keyed on the ID number stated."}
+{"n": 136, "slug": "2026-03-01-cpv-the-importance-of-interoperability-for-stronger-social-protection", "facts": [], "systems": [], "note": "Document states nothing on this study for Cabo Verde."}
+{"n": 140, "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi", "facts": [], "systems": [], "note": "Nothing stated."}

@@ -1,0 +1,34 @@
+{"n": 1, "slug": "2026-08-26-bwa-omang-fake-documents-cartel", "facts": [], "systems": [], "note": "No register keyed on the Omang stated."}
+{"n": 2, "slug": "2026-07-30-botswana-p423m-pki-project-collapse", "facts": [], "systems": [{"system": "Public Key Infrastructure", "country_label": "Botswana", "class": "authentication", "platform": "", "owner": "Directorate of Intelligence and Security", "tiers": ""}], "note": "Nothing stated."}
+{"n": 3, "slug": "2026-07-29-botswana-national-id-replacement-delays", "facts": [], "systems": [{"system": "Omang", "country_label": "Botswana", "class": "idsystem", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": "Nothing stated."}
+{"n": 4, "slug": "2026-04-01-bwa-2026-0400-0411", "facts": [], "systems": [], "note": "No register keyed on the ID number stated."}
+{"n": 5, "slug": "2026-04-01-bwa-2026-0400-12061", "facts": [], "systems": [], "note": "No register keyed on the ID number stated."}
+{"n": 6, "slug": "2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)", "facts": [], "systems": [{"system": "Omang", "country_label": "BWA", "class": "idsystem", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": "No public register keyed on the ID number is stated."}
+{"n": 7, "slug": "2025-12-05-ids-digital-id-in-africa-report-botswana-case-biometricupdate", "facts": [], "systems": [], "note": "Botswana is only named in a list of ten countries in a governance report summary; no Botswana-specific statement."}
+{"n": 8, "slug": "2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries", "facts": [], "systems": [], "note": "Botswana is named only as a SADC member."}
+{"n": 9, "slug": "2025-01-01-national-identity-card-application-botswana", "facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}
+{"n": 11, "slug": "2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id", "facts": [], "systems": [], "note": "No register keyed on the ID number stated."}
+{"n": 12, "slug": "2026-09-11-bwa-businesstechafrica-national-ekyc", "facts": [], "systems": [], "note": "Banks are private users, not public registers."}
+{"n": 13, "slug": "2026-08-19-allafrica-botswana-electoral-reform-electronic-roll", "facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The minister's proposed reforms keep Omang as the primary ID for voter registration and give political parties access to the verified electronic voters' roll.", "as_of": "2026-08-17", "date_precision": "day", "system": "Omang", "class": "register"}], "systems": [], "note": ""}
+{"n": 14, "slug": "2026-08-01-statistics-botswana-vital-statistics-report-2024", "facts": [], "systems": [], "note": "No register keyed on the ID number is mentioned."}
+{"n": 27, "slug": "2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr", "facts": [], "systems": [], "note": "Nothing on registers."}
+{"n": 86, "slug": "2026-09-28-bwa-dailynews-crvs-strategic-plan", "facts": [], "systems": [], "note": "Document is a plan launch; states no delivered system, figure or value the study asks."}
+{"n": 94, "slug": "2026-07-30-bwa-bank-gaborone-self-onboarding-omang-ekyc", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 95, "slug": "2025-11-10-bwa-electronic-id-system-aims-to-improve-efficiency", "facts": [], "systems": [], "note": "No public register keyed on the ID number is described."}
+{"n": 97, "slug": "2026-10-24-bwa-govt-moves-to-clear-omang-backlog", "facts": [], "systems": [], "note": "Not mentioned."}
+{"n": 101, "slug": "2025-03-09-bwa-labour-ministry-budget-proposal-sails-through", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 102, "slug": "2024-08-20-bwa-ministry-to-digitise-national-registration", "facts": [], "systems": [], "note": "No register keyed on the ID stated."}
+{"n": 105, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 110, "slug": "2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 113, "slug": "2025-12-02-bwa-case-study-botswana-1gov-platform-assessment", "facts": [], "systems": [], "note": "No register keyed on the ID number stated."}
+{"n": 114, "slug": "2024-11-01-bwa-invitation-to-tender-consultancy-services-to-develop-business-continui", "facts": [], "systems": [], "note": "Omang copies are asked of bidders' shareholders only; no register keyed on it."}
+{"n": 119, "slug": "2025-03-23-bwa-national-registration-amendment-act-2025-no-7", "facts": [], "systems": [], "note": "No other register keyed on the identity number stated."}
+{"n": 121, "slug": "2024-09-18-bwa-hope-for-refugees", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 122, "slug": "2024-08-30-bwa-refugees-to-have-ids", "facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}
+{"n": 135, "slug": "2026-11-16-gov-bw-shared-digital-services", "facts": [], "systems": [], "note": "Nothing on registers."}
+{"n": 136, "slug": "2026-11-16-gov-bw-voter-registration-omang-requirement", "facts": [], "systems": [], "note": "A valid Omang card is presented to register, but no register is said to be keyed on the ID number."}
+{"n": 137, "slug": "2024-04-26-mmegi-botswana-digital-divide-internet-access", "facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}
+{"n": 138, "slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls", "facts": [], "systems": [], "note": "No register keyed on the ID is stated."}
+{"n": 142, "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 166, "slug": "2026-11-20-mwi-shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 170, "slug": "2026-08-01-bwa-ngari-botswana-the-setswana-ai-commons", "facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}

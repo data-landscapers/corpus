@@ -1,0 +1,24 @@
+{"n": 1, "slug": "2026-09-10-wearetech-burundi-ia-seoul-ambitions", "facts": [], "systems": [], "note": "Strategy only; no rule, use, build or compute in place stated."}
+{"n": 2, "slug": "2026-07-27-burundi-abadaad-ai-governance-data-ethics-workshop", "facts": [], "systems": [], "note": "Workshop and data-protection law only; no AI rule, government use or sector use stated."}
+{"n": 3, "slug": "2026-04-23-burundi-national-ai-strategy-techafricanews", "facts": [], "systems": [], "note": "Only an AI strategy validated at a workshop; no rule, system or capacity stated."}
+{"n": 4, "slug": "2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi", "facts": [], "systems": [], "note": "Strategy only; no government AI system stated."}
+{"n": 5, "slug": "2025-11-28-pnud-burundi-feuille-route-ia", "facts": [], "systems": [], "note": "Workshop and roadmap on AI; no rule, authority, system or build stated."}
+{"n": 6, "slug": "2025-11-25-atelier-national-paysage-intelligence-artificielle-burundi", "facts": [], "systems": [], "note": "Workshop and roadmap on AI; no rule, authority, system or build stated."}
+{"n": 7, "slug": "2026-08-12-bmz-eac-ai4eac-innovation-challenge", "facts": [], "systems": [], "note": "Regional skills challenge; states nothing for this country by name on the question."}
+{"n": 8, "slug": "2025-04-04 Africa Declaration on Artificial Intelligence", "facts": [], "systems": [], "note": "Declaration states continental principles only; no country-specific AI rule, system or build."}
+{"n": 9, "slug": "2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases", "facts": [], "systems": [], "note": "The document says nothing on AI use by a government body."}
+{"n": 46, "slug": "2025-01-01-bdi-ai4d-mpox-ai-surveillance-pilot", "facts": [], "systems": [], "note": "Document states nothing on this for BDI."}
+{"n": 47, "slug": "2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e", "facts": [], "systems": [{"system": "Chatbot WhatsApp de l'OBR", "country_label": "Burundi", "class": "govai", "platform": "WhatsApp", "owner": "Office Burundais des Recettes", "tiers": ""}], "note": "Fact set aside at merge: does not meet the drafter brief."}
+{"n": 48, "slug": "2026-04-22-bdi-burundi-la-strategie-nationale-de-l-intelligence-artificielle-validee", "facts": [], "systems": [], "note": "No government AI system is stated."}
+{"n": 49, "slug": "2025-11-25-bdi-ouverture-officielle-de-l-atelier-sur-l-evaluation-du-paysage-de-l-int", "facts": [], "systems": [], "note": "No government body's use of AI is stated."}
+{"n": 50, "slug": "2025-07-21-bdi-l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-b", "facts": [], "systems": [], "note": "The AI is in malaria diagnosis, a health sector system."}
+{"n": 51, "slug": "2026-10-21-burundi-explore-seoul-identite-numerique", "facts": [], "systems": [], "note": "Nothing on AI."}
+{"n": 52, "slug": "2026-04-23-bdi-burundi-une-strategie-nationale-de-l-ia-adossee-a-six-piliers", "facts": [], "systems": [], "note": "No government AI system piloted or in service is stated."}
+{"n": 61, "slug": "2026-10-30-eac-states-pursue-unified-ai-strategy", "facts": [], "systems": [], "note": "Regional EAC AI strategy under council consideration; names no country-level fact for this study."}
+{"n": 62, "slug": "2026-10-21-bdi-burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infr", "facts": [], "systems": [], "note": "Nothing on AI in administration."}
+{"n": 63, "slug": "2025-12-02-bdi-burundi-launches-regulatory-framework-to-formalise-rapidly-growing-e-c", "facts": [], "systems": [], "note": "Document states nothing this study asks about Burundi."}
+{"n": 71, "slug": "2026-02-21-bdi-burundi-diy-et-pin-appellent-pour-la-ratification-de-la-convention-de", "facts": [], "systems": [], "note": "No government AI use stated."}
+{"n": 88, "slug": "2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques", "facts": [], "systems": [], "note": "Document states nothing on AI."}
+{"n": 94, "slug": "2026-08-29-bdi-le-burundi-veut-promouvoir-et-encadrer-l-intelligence-artificielle", "facts": [], "systems": [], "note": "No government body's use of AI is stated."}
+{"n": 95, "slug": "2024-10-14-bdi-communication-du-tres-honorable-emmanuel-sinzohagera-president-du-sena", "facts": [], "systems": [], "note": "No government body's use of AI is stated."}
+{"n": 96, "slug": "2026-11-24-xaf-cphia-2026-opens-with-focus-on-health-sovereignty-and-action", "facts": [], "systems": [], "note": "Burundi is named only for its president's role and an award."}

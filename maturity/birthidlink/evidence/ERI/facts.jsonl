@@ -1,0 +1,15 @@
+{"n": 1, "slug": "2026-07-22-acerwc-eritrea-concluding-observations-crvs", "facts": [], "systems": [], "note": "Captured text only credits a CRVS Plan 2024-2028; it states no link to an ID system or number at birth."}
+{"n": 2, "slug": "2025-01-01-eritrea-2025-vital-statistics-metadata-questionnaire", "facts": [], "systems": [], "note": "Says only there is no functional CRVS system; nothing on an ID system, a link or a number at birth."}
+{"n": 3, "slug": "2023-12-31-netherlands-eritrea-country-origin-information-report", "facts": [], "systems": [], "note": "Captured text holds only contents and introduction; the population and birth registration sections are not in it."}
+{"n": 6, "slug": "2026-03-02-uk-gov-eritrea-knowledge-base-profile", "facts": [], "systems": [], "note": "Only a documentary dependency between civil documents and the ID; no record exchange stated."}
+{"n": 7, "slug": "2025-11-01-us-state-dept-eritrea-civil-documents-national-id", "facts": [], "systems": [], "note": "Nothing stated on this question."}
+{"n": 8, "slug": "2025-07-26 Eritrea's population digital identity - challenges ahead", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 9, "slug": "2025-01-01-eritel-apply-for-services", "facts": [], "systems": [], "note": "Telecom application page; an identity card copy is required but no ID system is described."}
+{"n": 10, "slug": "2024-10-17-eritrea-embassy-national-id", "facts": [], "systems": [{"system": "Eritrean National ID", "country_label": "ERI", "class": "idsystem", "platform": "", "owner": "Government of Eritrea", "tiers": ""}], "note": "Nothing stated on this question; the page is an embassy fee and document checklist."}
+{"n": 14, "slug": "2026-07-22-acerwc-concluding-observations-eritrea", "facts": [], "systems": [], "note": "The passages only name a five-year CRVS Strategic Plan (2024-2028); no link between the civil register and an ID system is stated."}
+{"n": 43, "slug": "2024-09-24-eri-embassy-us-launch-caps-online-consular", "facts": [], "systems": [], "note": "The document states nothing this study asks about Eritrea."}
+{"n": 45, "slug": "2025-01-01-eri-himbol-customers-partners-guide-m-nakfa", "facts": [], "systems": [], "note": "The guide states nothing on this question for Eritrea."}
+{"n": 51, "slug": "2025-01-01-eri-united-nations-statistics-division-demographic-yearbook-questionnaire", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 62, "slug": "2026-08-11-eri-consulate-frankfurt-national-id-card-requirements", "facts": [], "systems": [], "note": "Birth certificate is a document requirement; no register link stated."}
+{"n": 66, "slug": "2025-11-01-eri-terms-and-conditions-of-service", "facts": [], "systems": [], "note": "Nothing on a civil register and ID link."}
+{"n": 67, "slug": "2026-11-06-dpi-map-2026-11-12", "facts": [], "systems": [], "note": "DPI Map line states only a database answer on a feeder-document legal framework; no register link stated.", "claims": {"dpimap-d08cff9e83": "nothing: a database's no"}}

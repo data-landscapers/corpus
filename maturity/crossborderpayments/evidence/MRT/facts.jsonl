@@ -1,0 +1,40 @@
+{"n": 1, "slug": "2026-09-25-mrt-webmanagercenter-fintech-regional-lab", "facts": [], "systems": [], "note": "Fintech ecosystem piece; sandbox and DigiLab are not payment licensing or services."}
+{"n": 2, "slug": "2026-09-20-mrt-trustmag-bcm-fintech-monnaie-numerique", "facts": [], "systems": [], "note": "Document says nothing on cross-border payments."}
+{"n": 3, "slug": "2026-09-16-mrt-instant-payment-system-interoperability-tender", "facts": [], "systems": [], "note": "The document states nothing that answers this study for the country."}
+{"n": 4, "slug": "2026-09-16-wto-tfa-mauritania-article-7-2-paiement-electronique", "facts": [], "systems": [], "note": "The document states nothing that answers this study for the country."}
+{"n": 5, "slug": "2026-09-06-bcm-strategie-nationale-paiement-numerique", "facts": [], "systems": [], "note": "No cross-border channel stated."}
+{"n": 6, "slug": "2026-07-13-bcm-conseil-systemes-paiement-compensation-reglement-titres", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 7, "slug": "2026-06-01-papss-payments-network-coverage-june-2026", "facts": [], "systems": [], "note": "The document does not mention this country, or states nothing on this topic for it."}
+{"n": 8, "slug": "2026-05-19-saharamedias-bcm-conseil-systemes-paiement-modernisation-systeme-financier", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions."}
+{"n": 9, "slug": "2026-05-18-mauritanie-finances-seminaire-recettes-non-fiscales-paiement-electronique", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions."}
+{"n": 10, "slug": "2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr", "facts": [], "systems": [], "note": "No cross-border channel is stated."}
+{"n": 11, "slug": "2026-04-13-pamif-financial-inclusion-afdb", "facts": [], "systems": [], "note": "No cross-border channel is stated."}
+{"n": 12, "slug": "2025-10-01-banque-mondiale-findex-2025-mauritanie-connectivite-inclusion-financiere", "facts": [], "systems": [], "note": "Catalogue record for the Findex 2025 Mauritania survey; it gives no account share or other figure."}
+{"n": 13, "slug": "2024-10-14-gimtel-interbank-transactions-launch", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 14, "slug": "2024-09-12-bcm-strategie-nationale-paiement-numerique-2023-2028", "facts": [], "systems": [], "note": "No cross-border channel is stated."}
+{"n": 21, "slug": "2026-01-17-loi-finances-2026-electronic-transaction-tax-investtime", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 113, "slug": "2024-12-28-mrt-ami-couverture-zones-frontalieres-phases-2-3", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 114, "slug": "2023-08-28-mrt-bpm-partenariat-remitly-bankily", "facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Banque Populaire de Mauritanie announced on 28 August 2023 that Remitly users in the US, Canada, UAE, UK and Europe can send money to Bankily accounts, credited in MRU in 5 to 60 minutes, alongside an earlier Orange Money Europe partnership.", "as_of": "2023-08-28", "date_precision": "day", "system": "Remitly to Bankily", "class": "crossborder"}], "systems": [{"system": "Bankily", "country_label": "Bankily", "class": "crossborder", "platform": "", "owner": "Banque Populaire de Mauritanie", "tiers": ""}], "note": ""}
+{"n": 122, "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie", "facts": [], "systems": [], "note": "Cross-border payments are not mentioned."}
+{"n": 123, "slug": "2026-07-23-mrt-mauritanie-mattel-elargit-son-offre-aux-paiements-numeriques-avec-mech", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 124, "slug": "2024-10-14-mrt-gemtel-annonce-le-lancement-officiel-de-linterconnexion-entre-les-appl", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 125, "slug": "2024-03-05-mrt-bcm-de-nouvelles-mesures-pour-assainir-le-systeme-des-transactions", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 130, "slug": "2026-05-12-mrt-cnass-digital-services-on-khidmaty", "facts": [], "systems": [], "note": "Document does not mention cross-border payments."}
+{"n": 133, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 137, "slug": "2025-11-01-mrt-maroc-telecom-key-facts-9m-2025-wac-nouadhibou-landing", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 138, "slug": "2026-11-09-mrt-mattel-lance-commercialement-la-5g-et-devoile-sa-filiale-de", "facts": [], "systems": [], "note": "No cross-border payment service is stated."}
+{"n": 139, "slug": "2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration", "facts": [], "systems": [], "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."}
+{"n": 149, "slug": "2026-10-26-mrt-mauritania-s-fintech-startups-is-investment-following", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 150, "slug": "2026-02-24-mrt-mauritania-opens-digital-service-centers-to-expand-access-to-online-pu", "facts": [], "systems": [], "note": "The document states nothing this study asks for Mauritania."}
+{"n": 151, "slug": "2025-10-22-mrt-mauritania-signs-2-year-deal-to-strengthen-courts-with-moroccan-digita", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 152, "slug": "2026-11-10-xaf-upu-new-chapter-postal-development-smart-africa", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 157, "slug": "2026-08-02-mrt-rapport-2025-de-la-bcm-une-economie-mauritanienne-resiliente-malgre-un", "facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}
+{"n": 158, "slug": "2024-03-03-mrt-la-bcm-fixe-le-montant-quotidien-autorise-pour-les-transferts-au-nivea", "facts": [], "systems": [], "note": "No cross-border payments mentioned."}
+{"n": 161, "slug": "2026-11-06-dpi-map-2026-11-12", "facts": [], "systems": [], "note": "Only a national label for an unnamed domestic IPS; no aspect stated.", "claims": {"dpimap-16884036ba": "nothing: national deployment label, not an aspect"}}
+{"n": 163, "slug": "2026-01-20-mrt-ministry-of-finance-remote-tax-filing-and-payment-via-e-wallets", "facts": [], "systems": [], "note": "No cross-border payment stated."}
+{"n": 174, "slug": "2026-01-26-mrt-mauritania-launches-tender-for-satellite-communications-licenses", "facts": [], "systems": [], "note": "No cross-border payments stated."}
+{"n": 181, "slug": "2026-02-21-mrt-taqadoumy-emr-national-id-electronic-payment", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 190, "slug": "2026-11-17-mrt-wearetech-ecommerce-strategy-targets-2030", "facts": [], "systems": [], "note": "Only manual foreign-trade procedures; no cross-border payment channel stated."}
+{"n": 193, "slug": "2026-11-13-mauritanie-691-millions-d-euros-de-financements-de-la-banque-mondiale", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 196, "slug": "2026-11-20-mrt-banque-centrale-mauritanie-hackathon-fintech", "facts": [], "systems": [], "note": "Nothing on cross-border payments."}
+{"n": 199, "slug": "2026-11-27-mrt-digital-zakat-platform-khidmati", "facts": [], "systems": [], "note": "The document states nothing on this study's questions for this country."}

@@ -1,0 +1,67 @@
+{"n": 1, "slug": "2026-10-04-sdn-sudanhorizon-mof-zain-eisali-sms", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 2, "slug": "2026-09-27-sdn-sudanhorizon-mof-mtn-sudan-eesaly-sms", "facts": [], "systems": [], "note": "Document states nothing on this."}
+{"n": 3, "slug": "2026-08-10-sudan-finance-ministry-reform-package-revenue", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions for this country."}
+{"n": 4, "slug": "2026-07-26-ssmo-eisali-baldna-integration", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 6, "slug": "2026-10-13-sdn-sudanhorizon-bede-bban-service-launch", "facts": [], "systems": [], "note": "Nothing on public procurement."}
+{"n": 7, "slug": "2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds", "facts": [], "systems": [{"system": "Bankak", "country_label": "Sudan", "class": "other", "platform": "mobile banking app", "owner": "Bank of Khartoum", "tiers": ""}], "note": "Article on Bankak banking app outages; mentions government payments and e-collection only in general terms, nothing on e-procurement."}
+{"n": 8, "slug": "2026-10-06-sdn-alwijha24-albalad-bank-mtn-ussd-baladna-bibasata", "facts": [], "systems": [], "note": "Document states nothing on government e-procurement."}
+{"n": 11, "slug": "2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur", "facts": [], "systems": [], "note": "Nothing on public procurement."}
+{"n": 12, "slug": "2026-09-10-sdn-dabanga-bankak-outages-digital-payments", "facts": [], "systems": [], "note": "Nothing on public procurement."}
+{"n": 17, "slug": "2026-07-31-aljazeera-electronic-payment-sudan-liquidity-shortage", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 19, "slug": "2026-04-20-cbos-nips-national-instant-payment-system-tender", "facts": [], "systems": [], "note": "Tender notice for a national instant payment system not yet in service; no listed question is answered."}
+{"n": 23, "slug": "2026-01-19-sudan-network-international-saudi-sudanese-bank", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 38, "slug": "2026-09-21-sdn-dabanga-cbos-strategy-digital-transformation", "facts": [], "systems": [], "note": "Document states nothing on this study for the country."}
+{"n": 41, "slug": "2026-09-03-sudan-bankak-outage-pound-7000", "facts": [], "systems": [], "note": "Document states nothing that answers this study."}
+{"n": 42, "slug": "2026-08-24-sudan-zakher-wallet-recurring-debit-api", "facts": [], "systems": [], "note": "Document states nothing on this study."}
+{"n": 46, "slug": "2026-07-04-cbos-revokes-al-asjad-payment-switch-licence", "facts": [], "systems": [], "note": "Nothing on public procurement."}
+{"n": 47, "slug": "2026-07-04-sudan-cbos-al-asjad-license-revoked", "facts": [], "systems": [], "note": "Nothing on public procurement."}
+{"n": 50, "slug": "2026-03-31-cbos-ussd-financial-services-regulations", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 54, "slug": "2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030", "facts": [], "systems": [], "note": "The document states nothing on this study for the country."}
+{"n": 158, "slug": "2026-08-30-sdn-businessinsider-saudi-remittance-payment-framework", "facts": [], "systems": [], "note": "Article states nothing on public procurement."}
+{"n": 159, "slug": "2026-03-17-sdn-sudanhorizon-e-procurement-design-complete", "facts": [{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "Minister of State at Finance Mohamed Nour Abdel-Daim announced on 17 March 2026 that design of the national electronic procurement system, including a government tender platform, is complete and preparations are underway to launch it.", "as_of": "2026-03-17", "date_precision": "day", "system": "national electronic procurement system", "class": "procurement"}], "systems": [{"system": "National electronic procurement system", "country_label": "Sudan", "class": "procurement", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": ""}
+{"n": 166, "slug": "2026-10-17-sdn-alawdanews-culture-ministry-website-launch-opinion", "facts": [], "systems": [], "note": "Nothing stated on e-procurement; the columnist notes no tender was seen for the website contract."}
+{"n": 169, "slug": "2026-10-21-sdpay-sudan-digital-payments", "facts": [], "systems": [], "note": "The document does not state anything this study asks about this country."}
+{"n": 174, "slug": "2025-11-20-sdn-first-electronic-tender-for-medical-supplies-since-the-war-draws-67-co", "facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Sudan Nabaa reports the National Medical Supplies Fund announced the successful first electronic tender for medicines and medical consumables since the war, with 67 companies competing of 99 that bought the documents.", "as_of": "2025-11", "date_precision": "month", "system": "NMSF electronic procurement system", "class": "procurement"}], "systems": [{"system": "NMSF electronic procurement system", "country_label": "National Medical Supplies Fund", "class": "procurement", "platform": "", "owner": "National Medical Supplies Fund", "tiers": ""}], "note": "No count of tenders, value or share of purchasing is given."}
+{"n": 175, "slug": "2026-09-28-sdn-cbos-revokes-sudanpay-digital-licence", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 176, "slug": "2026-07-07-sdn-sudanhorizon-cbos-payment-switch-licensing-interview", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 177, "slug": "2026-01-01-sdn-cbos-licensed-financial-technology-companies", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 178, "slug": "2026-10-23-ken-africas-digital-government-platforms-must-show-taxpayers-where-the-money-goes", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 180, "slug": "2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to", "facts": [], "systems": [], "note": "No e-procurement is mentioned."}
+{"n": 181, "slug": "2026-04-11-sdn-mof-pfm-reform-roadmap-isali-integration", "facts": [], "systems": [], "note": "Not covered."}
+{"n": 183, "slug": "2026-10-25-sdn-ebs-general-manager-interview-hawas-payments", "facts": [], "systems": [], "note": "No e-procurement stated."}
+{"n": 184, "slug": "2026-10-27-sdn-cbs-signs-strategic-partnership-agreement-with-sudani-to-advance-digit", "facts": [], "systems": [], "note": "Document states a CBS/EBS-Sudani top-up and bill-payment partnership; it names no rung of this study."}
+{"n": 190, "slug": "2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 191, "slug": "2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 192, "slug": "2026-06-16-sdn-alnser-social-safety-commission-sudani-sah-ussd-cash-transfers", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 194, "slug": "2026-11-06-sdn-supporting-sudan-s-banking-sector-what-should-we-expect-from", "facts": [], "systems": [], "note": "No e-procurement system is mentioned."}
+{"n": 195, "slug": "2026-11-05-sdn-cbs-governor-sudan-s-banking-sector-capable-of-confronting-t", "facts": [], "systems": [], "note": "The document does not concern public procurement."}
+{"n": 196, "slug": "2026-11-05-sdn-suna-banking-sector-digital-transformation-by-end-2026", "facts": [], "systems": [], "note": "No e-procurement system is mentioned."}
+{"n": 198, "slug": "2026-11-06-sdn-suna-digital-transformation-reconstruction-un-governance-summit", "facts": [], "systems": [], "note": "No e-procurement is mentioned."}
+{"n": 199, "slug": "2026-04-14-sdn-sudani-fintech-officially-launches-sah-platform", "facts": [], "systems": [], "note": "No e-procurement stated."}
+{"n": 200, "slug": "2026-09-09-sdn-horizon-advances-through-pre-commercialisation-workshop-in-addis-ababa", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 201, "slug": "2024-11-01-sdn-national-institutional-integration", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 202, "slug": "2026-11-09-proparco-cashi-sudan", "facts": [], "systems": [], "note": "Nothing on government e-procurement."}
+{"n": 203, "slug": "2026-11-09-sdn-cbs-restoring-banking-systems", "facts": [], "systems": [], "note": "IMEX is an import/export system; no e-procurement stated."}
+{"n": 204, "slug": "2026-10-14-sdn-digital-transformation-authority-first-federal-state-council-meetings", "facts": [], "systems": [], "note": "Nothing in the document on this subject."}
+{"n": 207, "slug": "2025-12-18-worldbank-govtech-dataset-dec2025", "facts": [], "systems": [], "note": "The database claim adds nothing the study can hold.", "claims": {"gtmi-b44a85fcf3": "nothing: link is a third-party tender platform, not the government system"}}
+{"n": 209, "slug": "2024-06-06-sdn-sudanese-fintech-startup-elevate-escapes-unrest-lands-5m-for-global-pl", "facts": [], "systems": [], "note": "Document states nothing on e-procurement."}
+{"n": 210, "slug": "2026-09-22-sdn-rabak-locality-launches-mobile-electronic-collection", "facts": [], "systems": [], "note": "Document does not address e-procurement."}
+{"n": 211, "slug": "2026-01-25-sdn-business-continuity-and-disaster-recovery-protocol-for-sudanese-banks", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 212, "slug": "2025-11-11-sdn-alnilin-kassala-isali-e-collection-launch", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 213, "slug": "2025-02-16-sdn-projects-sudantax", "facts": [], "systems": [], "note": "Tax system only; nothing on e-procurement."}
+{"n": 217, "slug": "2026-11-11-sdn-baldna-portal-home-and-login-national-id-sudapass", "facts": [], "systems": [], "note": "Document states nothing on e-procurement."}
+{"n": 218, "slug": "2024-12-06-sdn-cbos-circular-2-2024-bank-app-interlinking", "facts": [], "systems": [], "note": "Document states nothing a study asks for this country."}
+{"n": 219, "slug": "2026-07-08-sdn-ebs-ceo-to-sudanhorizon-new-national-payment-switch-launching-soon-mar", "facts": [], "systems": [], "note": "No e-procurement stated."}
+{"n": 222, "slug": "2026-11-12-sdn-bankak-app-hack-traders-losses", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 223, "slug": "2026-11-10-sdn-banking-reform-customer-data-protection", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 226, "slug": "2025-04-10-sdn-customs-electronic-payment-unified-government-channel", "facts": [], "systems": [], "note": "Document states nothing on e-procurement."}
+{"n": 228, "slug": "2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation", "facts": [], "systems": [], "note": "The document states nothing this study asks for Sudan."}
+{"n": 229, "slug": "2025-03-15-sdn-telecommunications-ministry-launches-service-allowing-citizens-to-acce", "facts": [], "systems": [], "note": "Document does not mention procurement."}
+{"n": 230, "slug": "2024-04-01-sdn-the-digital-exclusion-of-refugees-and-idps-in-sudan", "facts": [], "systems": [], "note": "The document states nothing this study asks about Sudan."}
+{"n": 242, "slug": "2026-07-29-sdn-almajd-230-e-health-services-digital-health-strategy", "facts": [], "systems": [], "note": "Nothing on this study stated for Sudan."}
+{"n": 243, "slug": "2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services", "facts": [], "systems": [], "note": "Not stated."}
+{"n": 258, "slug": "2026-11-19-sdn-sudanhorizon-cbos-nips-contract", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 260, "slug": "2026-11-23-sdn-sudan-central-bank-plans-national-instant-payment-platform-to-curb-cash-", "facts": [], "systems": [], "note": "Nothing on e-procurement."}
+{"n": 261, "slug": "2026-07-20-sdn-sudan-privacy-gap-digital-transformation-data-protection", "facts": [], "systems": [], "note": "The document states nothing on e-procurement."}
+{"n": 263, "slug": "2026-11-27-sdn-the-future-of-digitalisation-in-sudan-amid-recent-developments", "facts": [], "systems": [], "note": "The document states nothing that answers this study's questions for this country."}
+{"n": 264, "slug": "2026-11-26-sdn-central-bank-of-sudan-signs-mou-with-central-bank-of-egypt", "facts": [], "systems": [], "note": "No e-procurement stated."}

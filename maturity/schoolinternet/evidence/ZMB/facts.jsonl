@@ -1,0 +1,30 @@
+{"n": 1, "slug": "2024-01-01-zambia-computer-science-secondary-syllabi-form-1-4", "facts": [], "systems": [], "note": "Syllabus says the course is optional and available to selected schools only, so not compulsory nationally."}
+{"n": 2, "slug": "2025-01-01-iati-xm-dac-21-1-2025000879b2miscara-digital-literacy-six-zambian-schools", "facts": [], "systems": [], "note": "Funding record for ICT labs in six schools; no compulsory subject stated."}
+{"n": 3, "slug": "2026-10-07-zmb-unicef-child-justice-week-digital-spaces", "facts": [], "systems": [], "note": "Call to embed digital literacy in schools only; no compulsory subject stated."}
+{"n": 4, "slug": "2026-09-30-zmb-afrikeye-mtn-zambia-foundation-nachiyaba-ict-hub", "facts": [], "systems": [], "note": "ICT hub at one school; no curriculum subject stated."}
+{"n": 5, "slug": "2026-08-06-european-union-zambia-bongohive-ignite-facilitators", "facts": [], "systems": [], "note": "Startup accelerator call; nothing on secondary curriculum."}
+{"n": 6, "slug": "2025-01-01-zambia-department-of-computing-and-informatics", "facts": [], "systems": [], "note": "University department page on tertiary computing programmes; says nothing on secondary curriculum."}
+{"n": 8, "slug": "2026-09-01-techafricanews-mtn-uj-taef-media-innovation", "facts": [], "systems": [], "note": "Journalist training programme; nothing on secondary school curriculum."}
+{"n": 109, "slug": "ref:uis-4a1-secondary-internet@2026-02-09", "facts": [{"sub_indicator": "schools", "aspect": "internet", "value": "official:63.1241", "fact": "63.1 per cent of secondary schools in Zambia had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.", "as_of": "2024", "date_precision": "year", "system": "UNESCO's SDG 4.a.1 series", "class": "schoolinternet"}], "systems": [{"system": "UNESCO's SDG 4.a.1 series", "country_label": "Zambia", "class": "schoolinternet", "platform": "", "owner": "UNESCO Institute for Statistics", "tiers": ""}], "note": "carried from reference/measures.csv; no document opened"}
+{"n": 113, "slug": "2026-03-24-zmb-itu-zamstats-2025-ict-survey-highlights", "facts": [], "systems": [], "note": "The document states nothing this study asks for Zambia."}
+{"n": 121, "slug": "2025-08-20-zmb-from-promise-to-practice-making-ai-work-in-lmic-governments", "facts": [], "systems": [], "note": "Document states nothing about Zambia that answers this study's questions."}
+{"n": 124, "slug": "2026-02-05-zmb-govt-finland-partner-to-integrate-al-in-health-and-mining-sectors", "facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum statement."}
+{"n": 126, "slug": "2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice", "facts": [], "systems": [], "note": "No school internet figure or curriculum statement is given."}
+{"n": 130, "slug": "2025-12-17-zmb-smart-zambia-rolls-out-decentralised-digital-skills-training-for-publi", "facts": [], "systems": [], "note": "No statement bearing on this question."}
+{"n": 142, "slug": "2026-10-30-zmb-comesa-idea-pre-event-press-statement-chongwe-validation", "facts": [], "systems": [], "note": "Nothing stated for Zambia."}
+{"n": 143, "slug": "2025-04-24-zmb-smart-zambia-institute-launches-national-learn-a-thon-to-equip-girls-w", "facts": [], "systems": [], "note": "No share of secondary schools with internet; the school connectivity named is a programme."}
+{"n": 144, "slug": "2024-10-15-zmb-itu-and-norway-support-dtc-zambia-to-equip-more-than-240-cooperative-m", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 146, "slug": "2025-10-01-zmb-submission-to-the-committee-on-education-science-and-technology-budget", "facts": [], "systems": [], "note": "No figure for secondary schools with internet and no compulsory digital subject stated."}
+{"n": 151, "slug": "2026-11-04-zambia-first-regional-validation-workshop-on-digital-inclusion", "facts": [], "systems": [], "note": "Nothing on school internet."}
+{"n": 152, "slug": "2026-11-03-bwa-southern-africa-s-ai-ambitions-face-reality-check", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 154, "slug": "2026-11-04-xaf-why-africas-digital-progress-must-be-grounded-in-human-rights-accountability", "facts": [], "systems": [], "note": "Names the country only as an NHRI participant; states nothing the study asks."}
+{"n": 158, "slug": "2026-11-06-zmb-zambia-plans-10-million-more-smartphones-in-five-year-digital-push", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 163, "slug": "2026-11-09-zmb-zambia-national-ict-survey-digital-gap", "facts": [], "systems": [], "note": "Document states nothing this study asks for Zambia."}
+{"n": 164, "slug": "2026-11-08-zmb-zambia-efisp-digital-farm-inputs-gaps", "facts": [], "systems": [], "note": "Nothing on schools."}
+{"n": 186, "slug": "2026-05-15-zmb-zambia-reports-major-digital-economy-gains-at-3rd-digital-economy-roun", "facts": [], "systems": [], "note": "500 schools connected is a programme count, not the SDG 4.a.1 share."}
+{"n": 187, "slug": "2024-07-01-zmb-terms-of-reference-interoperability-of-the-disability-management-infor", "facts": [], "systems": [], "note": "No fact stated for this study."}
+{"n": 201, "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 212, "slug": "2026-11-17-mwi-ses-expands-rural-school-connectivity", "facts": [], "systems": [], "note": "A school connectivity programme is other; no figure or curriculum stated."}
+{"n": 215, "slug": "2026-11-20-paradigm-initiative-child-online-protection-policies-africa", "facts": [], "systems": [], "note": "No school figure."}
+{"n": 216, "slug": "2026-11-20-xaf-newtelegraph-sirali-afcfta-digital-trade-platforms-small-traders", "facts": [], "systems": [], "note": "No school internet figure or curriculum stated."}
+{"n": 220, "slug": "2025-04-06-zmb-ungegn-crp119-geographical-names-standardization-zambia", "facts": [], "systems": [], "note": "The document states nothing on school internet or curriculum."}

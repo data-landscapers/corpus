@@ -1,0 +1,20 @@
+{"n": 1, "slug": "2026-10-02-com-alwatwan-ram-diagnostic-ia", "facts": [], "systems": [], "note": "States no structured government AI deployment."}
+{"n": 2, "slug": "2026-03-12-com-conseil-ministres-evaluation-preparation-ia", "facts": [], "systems": [], "note": "Nothing stated that answers this question."}
+{"n": 3, "slug": "2024-06-11-com-anaden-ia-encore-balbutiements-comores", "facts": [], "systems": [], "note": "No government use of AI is stated."}
+{"n": 4, "slug": "2026-10-07-com-alwatwan-ia-zile-soilihi-realites-comoriennes", "facts": [], "systems": [], "note": "Suggests Comoros could adopt an AI tender agent on the Albanian model; none tendered, piloted or in service."}
+{"n": 5, "slug": "2026-09-15-com-lagazette-udc-pnud-unipod-innovation-ia", "facts": [], "systems": [], "note": "No government body's use of AI is described."}
+{"n": 6, "slug": "2026-08-25-comores-ai-forward-jeunesse-intelligence-artificielle-alwatwan", "facts": [], "systems": [], "note": "Nothing stated that answers the questions."}
+{"n": 7, "slug": "2026-08-25-comores-ia-mariama-madi-american-corner-lagazettedescomores", "facts": [], "systems": [], "note": "Nothing stated that answers the questions."}
+{"n": 8, "slug": "2026-08-04-alwatwan-komori-tts-synthese-vocale-shikomori", "facts": [], "systems": [], "note": "Private individual project; no government user stated."}
+{"n": 9, "slug": "2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros", "facts": [], "systems": [], "note": "The document describes a health-sector model, not AI in general administration."}
+{"n": 10, "slug": "2026-04-01-premier-forum-intelligence-artificielle-alwatwan", "facts": [], "systems": [], "note": "The forum report states no government body using AI."}
+{"n": 11, "slug": "2026-01-27-gazette-comores-webinaire-uoni-ia-comores", "facts": [], "systems": [], "note": "No government AI system stated."}
+{"n": 12, "slug": "2025-04-15-ai-training-second-session-hazi-haki-foundation-lagazette", "facts": [], "systems": [], "note": "Document describes only an AI training session, which is not in this study."}
+{"n": 13, "slug": "2025-04-04 Africa Declaration on Artificial Intelligence", "facts": [], "systems": [], "note": "Declaration states continental principles only; no country-specific AI rule, system or build."}
+{"n": 40, "slug": "2024-07-03-com-gazette-comoriens-formes-chine-transformation-numerique", "facts": [], "systems": [], "note": "No government AI system stated."}
+{"n": 41, "slug": "2025-04-24-com-comores-l-oms-forme-sur-l-initiative-d-intelligence-epidemique-a-parti", "facts": [], "systems": [], "note": "The AI use is in health surveillance, not general administration."}
+{"n": 45, "slug": "2025-09-06-com-komor-ia-un-jeune-comorien-lance-une-startup-d-intelligence-artificiel", "facts": [], "systems": [], "note": "No government body is stated to use AI; administration is named only as a future benefit."}
+{"n": 46, "slug": "2026-09-26-com-komor-ia-lance-annotation-studio-la-premiere-plateforme-d-annotation-n", "facts": [], "systems": [], "note": "No government body is stated to use AI; only the state newspaper Al-watwan is mentioned as covering a model."}
+{"n": 47, "slug": "2026-01-01-com-french-shikomori-parallel-dataset-v1-0", "facts": [], "systems": [], "note": "A dataset card; no government use of AI is stated."}
+{"n": 66, "slug": "2025-02-13-com-alwatwan-comores-pas-de-politique-ia", "facts": [{"sub_indicator": "govai", "aspect": "use", "value": "none", "fact": "Al-watwan reports that AI in the Comoros is limited so far to personal uses, with no national AI policy yet, according to an Anaden official.", "as_of": "2025-02-12", "date_precision": "day", "system": "", "class": "govai"}], "systems": [], "note": ""}
+{"n": 67, "slug": "2026-11-01-com-itu-pp26-policy-statement-comoros", "facts": [], "systems": [], "note": "The minister says Comoros wants to experiment with AI to guide citizens through procedures; this is an intention, with no pilot stated."}

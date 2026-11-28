@@ -1,0 +1,38 @@
+{"n": 1, "slug": "2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout", "facts": [], "systems": [], "note": "No count or share of people enrolled is stated."}
+{"n": 2, "slug": "2026-08-25-foroyaa-issuance-of-biometric-id-cards", "facts": [], "systems": [], "note": "No enrolment count or share given."}
+{"n": 3, "slug": "2026-08-25-standard-gm-new-biometric-id-card-issuance-starts", "facts": [], "systems": [], "note": "No enrolment count or share given."}
+{"n": 4, "slug": "2026-08-25-thepoint-gambia-biometric-id-rollout-schedule", "facts": [], "systems": [], "note": "No count or share of people enrolled stated."}
+{"n": 5, "slug": "2026-08-07-gambia-national-identity-cards-rollout", "facts": [], "systems": [], "note": "Document states nothing on this question for the country."}
+{"n": 6, "slug": "2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate", "facts": [], "systems": [], "note": "No count or share of people enrolled is given; nationwide enrolment starts 4 August 2026."}
+{"n": 7, "slug": "2026-07-01-barrow-inaugurates-national-data-centre-nims-standard", "facts": [], "systems": [], "note": "The document states nothing on this question."}
+{"n": 9, "slug": "2026-01-27-new-id-card-10-years-validity-standard", "facts": [], "systems": [], "note": "No count or share enrolled is given."}
+{"n": 10, "slug": "2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade", "facts": [], "systems": [{"system": "National Identity Management System", "country_label": "The Gambia", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": "Contract for ID infrastructure only; nothing stated on this question."}
+{"n": 15, "slug": "2025-06-20-govt-integrate-id-cards-ecrvs-thepoint", "facts": [], "systems": [], "note": "No count or share of people holding a national ID stated."}
+{"n": 17, "slug": "2026-10-13-gmb-gambiana-gid-denies-losing-id-card-data", "facts": [], "systems": [], "note": "No count or share of people enrolled."}
+{"n": 18, "slug": "2026-09-14-gmb-thepoint-gala-condemns-fresh-id-card-application", "facts": [], "systems": [], "note": "Document reports applicants told to reapply after a reported change of ID system operator; states nothing that answers this study's questions."}
+{"n": 19, "slug": "2026-09-01-thepoint-gambia-id-card-passport-delays-mygov", "facts": [], "systems": [], "note": "Not stated for the ID system in this document."}
+{"n": 29, "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia", "facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The World Bank says nearly 1.17 million people were registered and issued a unique national identification number between Aug 2022 and Feb 2023, about 42% of the 2.8 million population (share computed here from the population held).", "as_of": "2023-02", "date_precision": "month", "system": "eCRVS", "class": "idsystem"}], "systems": [], "note": ""}
+{"n": 100, "slug": "2024-03-26-gmb-thepoint-moh-moi-mou-nin-harmonisation", "facts": [], "systems": [], "note": "No count or share of people enrolled stated."}
+{"n": 101, "slug": "2025-04-10-gmb-mohrbd-id4africa-crvs-overview", "facts": [], "systems": [], "note": "Birth registration shares only; no count of people holding a national ID."}
+{"n": 103, "slug": "2026-10-16-foroyaa-gambia-court-id-card-serial-number-missing-database", "facts": [], "systems": [], "note": "No enrolment count or share stated."}
+{"n": 104, "slug": "2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets", "facts": [], "systems": [], "note": "The document states nothing this study asks for The Gambia."}
+{"n": 105, "slug": "2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study", "facts": [], "systems": [], "note": "No ID enrolment figure is stated."}
+{"n": 106, "slug": "2026-01-01-gmb-unhcr-rimap-gambia-country-profile", "facts": [], "systems": [], "note": "Document gives no ID enrolment count or share."}
+{"n": 107, "slug": "2024-09-09-gmb-standard-ceesay-govt-building-capacities", "facts": [], "systems": [], "note": "No enrolment count or share stated."}
+{"n": 108, "slug": "2024-07-23-gmb-gra-tin-e-registration-brochure", "facts": [], "systems": [], "note": "No enrolment count or share stated."}
+{"n": 111, "slug": "2025-01-01-gmb-government-data-assessment-inventory", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 112, "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital", "facts": [], "systems": [], "note": "Nothing stated."}
+{"n": 127, "slug": "2026-06-30-gmb-jollofnews-barrow-16-year-olds-national-id-legal-questions", "facts": [], "systems": [], "note": "Nothing stated for this study."}
+{"n": 129, "slug": "2026-04-08-gmb-iec-announces-start-of-supplementary-voter-registration-ahead-of-2026", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 133, "slug": "2026-06-09-gmb-government-suspends-issuance-of-id-cards-and-driver-s-licences-ahead-o", "facts": [], "systems": [], "note": "670,000 replacement cards is a planned issue, not a count or share of people enrolled."}
+{"n": 134, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adults-only Findex survey share is other."}
+{"n": 136, "slug": "2026-08-28-gmb-the-gambia-begins-nationwide-rollout-of-new-national-digital-id", "facts": [], "systems": [], "note": "No enrolment count or share given."}
+{"n": 137, "slug": "2026-08-13-gmb-gambia-s-new-national-id-card-heralds-digital-revolution-margins-group", "facts": [], "systems": [], "note": "No enrolment count or share."}
+{"n": 138, "slug": "2024-09-30-gmb-details-of-the-gambia-s-national-id-card-contract-plan-emerge", "facts": [], "systems": [], "note": "No enrolment count or share is given."}
+{"n": 139, "slug": "2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders", "facts": [], "systems": [], "note": "No enrolment count or share given."}
+{"n": 140, "slug": "2024-07-15-gmb-press-release", "facts": [], "systems": [], "note": "The document states nothing this study asks about the Gambia."}
+{"n": 141, "slug": "2026-11-06-gmb-gov-t-launches-d40m-digital-skills-programme-for-1-280-youths", "facts": [], "systems": [], "note": "Document states nothing this study asks for Gambia."}
+{"n": 143, "slug": "2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026", "facts": [], "systems": [], "note": "Convening report; states nothing this study asks for this country."}
+{"n": 149, "slug": "2024-06-25-gmb-over-one-million-gambians-registered-with-digital-birth-certificates-n", "facts": [], "systems": [], "note": "The one million figure is digital birth certificates and health insurance registrations, with no national ID count or population share."}
+{"n": 165, "slug": "2026-11-19-gmb-ai-is-arriving-in-the-gambia-are-we-ready-for-the-risks", "facts": [], "systems": [], "note": "The article states nothing this study asks for The Gambia."}
+{"n": 168, "slug": "2026-11-12-xaf-africas-uncollected-national-id-cards-mass-issuance", "facts": [], "systems": [], "note": "Document states nothing on this study's questions for this country."}

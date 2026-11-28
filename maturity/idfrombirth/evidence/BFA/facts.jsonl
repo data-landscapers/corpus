@@ -1,0 +1,52 @@
+{"n": 1, "slug": "2025-01-01-civil-registration-children-burkina-faso-phase-ii", "facts": [], "systems": [], "note": "Birth registration project; no ID number at birth stated."}
+{"n": 3, "slug": "2026-09-15-fasoamazone-oni-cib-aes-enrolment", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 4, "slug": "2026-09-14-bfa-aib-padema-numerisation-registres-etat-civil", "facts": [], "systems": [], "note": "No ID number at birth stated."}
+{"n": 5, "slug": "2026-09-09-sidwaya-carte-identite-biometrique-aes-koudougou", "facts": [], "systems": [], "note": "Document states nothing on this question for the country."}
+{"n": 6, "slug": "2026-09-03-bfa-sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisat", "facts": [], "systems": [], "note": "Births are entered on VENEEM; the document gives no identity number at birth."}
+{"n": 7, "slug": "2026-08-25-cnib-carte-nationale-identite-burkinabe", "facts": [], "systems": [], "note": "The card is mandatory at 15; no number at birth stated."}
+{"n": 8, "slug": "2026-08-03-niger-mission-technique-burkina-identite-numerique", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
+{"n": 9, "slug": "2026-07-31-burkina-faso-identite-numerique-wuri", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 10, "slug": "2026-07-30-sidwaya-digitalisation-identite-identifiant-unique-electronique", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 11, "slug": "2026-06-25-wakatsera-snec-bilan-2025-execution-financiere", "facts": [], "systems": [{"system": "VENEEM", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Direction generale de la modernisation de l'etat civil", "tiers": ""}], "note": "No identity number at birth stated."}
+{"n": 14, "slug": "2025-12-02-cib-aes-lancement-traore-enrolement", "facts": [], "systems": [{"system": "Carte d'identité biométrique AES (CIB-AES)", "country_label": "Burkina Faso", "class": "idsystem", "platform": "", "owner": "Office national d'identification (ONI)", "tiers": "card"}], "note": "Not stated for this country."}
+{"n": 167, "slug": "2024-11-12-bfa-burkina24-veneem-identifiant-unique-etat-civil", "facts": [], "systems": [], "note": "A unique civil-status identifier is named but not said to be the ID system's number given at birth registration."}
+{"n": 168, "slug": "2024-05-13-bfa-burkina24-anotel-cnib-carte-sim", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 170, "slug": "2024-06-02-bfa-burkina24-oni-banfora-cnib", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 171, "slug": "2024-02-02-bfa-oni-antenne-centre-ouest-cnib", "facts": [], "systems": [], "note": "Nothing on an ID number given at birth."}
+{"n": 176, "slug": "2026-10-16-bfa-aconews-gendarmerie-cib-aes", "facts": [], "systems": [], "note": "The document states nothing this study asks."}
+{"n": 177, "slug": "2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership", "facts": [], "systems": [], "note": "Nothing on numbers at birth."}
+{"n": 178, "slug": "2024-12-30-bfa-faso7-jsena-statistiques-education-sige", "facts": [], "systems": [], "note": "No number at birth mentioned."}
+{"n": 179, "slug": "2023-12-12-bfa-findev-paiements-sociaux-mobile-money", "facts": [], "systems": [], "note": "The document states nothing this study asks for Burkina Faso."}
+{"n": 186, "slug": "2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw", "facts": [], "systems": [], "note": "The document states nothing on this study's aspects for this country that the study's questions ask."}
+{"n": 191, "slug": "2025-12-05-bfa-operation-cyber-balayage-2025-22-interpellations-et-plus-de-18-million", "facts": [], "systems": [], "note": "The document states nothing on ID numbers at birth."}
+{"n": 192, "slug": "2025-11-05-bfa-burkina-faso-projets-et-programmes-du-ministere-en-charge-de-la-transi", "facts": [], "systems": [], "note": "The document states nothing this study asks for Burkina Faso (it covers WURI/PACTE progress rates, an integrator tender, interoperability maps and data-centre pooling diagnostics only)."}
+{"n": 193, "slug": "2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-ministere-de-la", "facts": [], "systems": [], "note": "The document states nothing on this for Burkina Faso."}
+{"n": 196, "slug": "2024-07-10-bfa-code-des-personnes-et-de-la-famille-le-gouvernement-apporte-des-innova", "facts": [], "systems": [], "note": "No number at birth is stated."}
+{"n": 200, "slug": "2024-05-13-bfa-plus-de-200-000-eleves-enregistres-a-bousse-et-tenkodogo", "facts": [], "systems": [], "note": "A pupil ID is a sectoral ID, not a number at birth."}
+{"n": 201, "slug": "2024-10-14-bfa-identification-unique-electronique-de-la-personne-physique-les-deputes", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 204, "slug": "2024-08-21-bfa-carfo-a-partir-du-4eme-trimestre-2024-paiement-par-mobile-money-des-ar", "facts": [], "systems": [], "note": "Nothing on ID at birth."}
+{"n": 206, "slug": "2024-01-01-crs-26-2024000019-2024-sant-egidio-strengthening-civil-registration-and-c", "facts": [], "systems": [], "note": "Monaco grant for a civil registration programme with Sant'Egidio; nothing digital or ID-linked stated."}
+{"n": 218, "slug": "2024-04-27-bfa-facteurs-associes-a-lenregistrement-des-naissances-des-mariages-et-des", "facts": [], "systems": [], "note": "Document states nothing this study asks."}
+{"n": 219, "slug": "2026-08-17-bfa-transformation-digitale-au-burkina-faso-le-secteur-injecte-142-milliar", "facts": [], "systems": [], "note": "Document states nothing this study asks for Burkina Faso."}
+{"n": 220, "slug": "2025-09-18-bfa-burkina-faso-3-millions-de-burkinabe-nont-pas-de-piece-didentite", "facts": [], "systems": [], "note": "Nothing on an ID number at birth."}
+{"n": 222, "slug": "2024-01-01-xss-global-findex-2021-trends-in-access-to-id-in-sub-saharan-africa", "facts": [], "systems": [], "note": "Adult ID-ownership survey only."}
+{"n": 225, "slug": "2026-01-02-bfa-laborpresse-oni-bilan-2025-cnib", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 226, "slug": "2024-11-22-bfa-oni-id-day-2024-banfora", "facts": [], "systems": [], "note": "The page says nothing on a number at birth."}
+{"n": 227, "slug": "2024-10-17-bfa-les-deputes-donnent-leur-quitus-pour-wuri", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "The minister said the unique identifier is a random number to be assigned to every Burkinabe from birth, at home or abroad, and to every foreigner resident in the country.", "as_of": "2024-10-11", "date_precision": "day", "system": "Unique electronic identification of natural persons (WURI)", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 230, "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 231, "slug": "2024-01-01-bfa-burkina-faso-le-nouveau-regime-juridique-de-l-identification-des-abonn", "facts": [], "systems": [], "note": "Nothing stated on a number at birth."}
+{"n": 242, "slug": "2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-le-capitaine-ibrah", "facts": [], "systems": [], "note": "Nothing on a number given at birth."}
+{"n": 243, "slug": "2026-01-23-bfa-souverainete-numerique-le-burkina-faso-inaugure-deux-data-center-de-3", "facts": [], "systems": [], "note": "The new data centres serve ministries, are not said to be for hire, and nothing else here answers this study."}
+{"n": 248, "slug": "2026-04-21-bfa-burkina-faso-rapport-annuel-2026", "facts": [], "systems": [], "note": "Amnesty rights report; NGO suspensions and a family code are not what these studies ask, and no data protection law is named."}
+{"n": 252, "slug": "2026-11-11-bfa-registre-identifiant-unique-lefaso", "facts": [], "systems": [], "note": "Enrolment of all residents is described; no number at birth is stated."}
+{"n": 255, "slug": "2026-11-11-bfa-burkina-faso-lancement-de-l-operation-d-enregistrement-de-masse-de-la", "facts": [], "systems": [], "note": "No number at birth stated."}
+{"n": 257, "slug": "2024-12-20-bfa-from-shadows-to-school-desks-restoring-hope-for-forcibly-displaced-fam", "facts": [], "systems": [], "note": "Nothing stated that answers this study."}
+{"n": 259, "slug": "2024-04-23-bfa-burkina-faso-gets-support-from-japan-to-enroll-idps-for-biometric-id", "facts": [], "systems": [], "note": "The document states nothing this study asks for Burkina Faso."}
+{"n": 263, "slug": "2026-05-02-bfa-actualites-kix-seeds-burkina-faso", "facts": [], "systems": [], "note": "The document states nothing this study asks for Burkina Faso."}
+{"n": 289, "slug": "2026-11-21-bfa-modernisation-de-letat-civil-la-cagidh-expose-les-objectifs-de-sa-miss", "facts": [], "systems": [], "note": "No ID number at birth stated."}
+{"n": 290, "slug": "2026-11-23-bfa-burkina-1-449-volontaires-formes-pour-reussir-l-enrolement-national", "facts": [], "systems": [], "note": "Nothing on a number at birth."}
+{"n": 291, "slug": "2026-11-22-bfa-burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur", "facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "Africa24 TV says the Yerekun 12-digit unique identifier is enrolled from age 5 and is intended to apply from birth.", "as_of": "2026-11-22", "date_precision": "day", "system": "Yerekun (Identifiant Unique Electronique)", "class": "birthnumber"}], "systems": [], "note": ""}
+{"n": 293, "slug": "2026-11-24-bfa-enrolement-a-identifiant-unique-jacques-sosthene-dingara-donne-le-coup-den", "facts": [], "systems": [], "note": "No number given at birth is described."}
+{"n": 295, "slug": "2026-11-24-bfa-modernisation-de-letat-civil-a-koudougou-lalp-au-cur-des-realites-admi", "facts": [], "systems": [], "note": "No ID number at birth is stated."}
+{"n": 296, "slug": "2026-11-24-bfa-modernisation-de-letat-civil-a-reo-tenado-et-poa-la-digitalisation-fac", "facts": [], "systems": [], "note": "No ID number at birth is stated."}
+{"n": 297, "slug": "2026-11-25-bfa-innovation-et-technologie-la-21e-edition-de-la-semaine-du-numerique-ou", "facts": [], "systems": [], "note": "No number at birth is mentioned."}
