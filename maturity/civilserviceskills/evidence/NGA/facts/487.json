@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-nga-edo-state-prepares-for-edo-cloud-deployment",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Techeconomy reports the Edo State Office of the Head of Service held a one-day workshop training more than 70 e-governance champions from MDAs on the Edo Cloud platform (sub-national government).",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Edo Cloud",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
