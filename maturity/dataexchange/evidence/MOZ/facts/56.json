@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-moz-governo-quer-abandonar-sistemas-digitais-isolados-e-apostar-em-infra-estrut",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "A deputy national director of the digital transformation ministry named the X-Road interoperability platform among platforms already existing in Mozambique at a workshop on 26 November 2026, while noting weak interoperability between systems.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "X-Road",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "X-Road",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": "Document does not say which bodies it links or any figures."
+}

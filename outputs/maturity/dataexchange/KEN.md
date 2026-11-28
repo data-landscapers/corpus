@@ -8,6 +8,6 @@
 
 **Use reported.** No source found since October 2023 gives a figure for the exchanges through the platform. The nearest fact: [in September 2026 the ICT Secretary said the Government Enterprise Architecture had been launched](<https://techweez.com/2026/09/23/kenya-digital-transformation-backend-interoperability/>).
 
-***Also on file***. [Government Enterprise Architecture](<https://techweez.com/2026/09/23/kenya-digital-transformation-backend-interoperability/>); [KeHMIS interoperability layer](<https://healthdatagovernance.org/case-study/kenya-the-principles-in-action/>); [Development Partners Management Information System (DPMIS)](<https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds>); [KNPHI ERP](<https://health.go.ke/node/2517>); [KNPHI LIMS](<https://health.go.ke/node/2518>).
+***Also on file***. [Government Enterprise Architecture](<https://techweez.com/2026/09/23/kenya-digital-transformation-backend-interoperability/>); [KeHMIS interoperability layer](<https://healthdatagovernance.org/case-study/kenya-the-principles-in-action/>); [Development Partners Management Information System (DPMIS)](<https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds>); [KNPHI ERP](<https://web.archive.org/web/20260812213624/https://www.health.go.ke/node/2517>); [KNPHI LIMS](<https://health.go.ke/node/2518>).
 
 ***Not found***. No source found since October 2023 says the platform is in service.

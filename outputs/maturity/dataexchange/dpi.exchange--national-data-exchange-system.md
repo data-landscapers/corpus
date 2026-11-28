@@ -122,6 +122,7 @@ A government data exchange platform was in service in 2026; no source found says
 
 - MISAU's SIS-MA page describes an interoperability platform, a mediating layer centralising communication between SIS-MA and other systems, with live integrations to the medicines-logistics system of CMAM (Ferramenta Central) and to the Ministry of Justice's SIRCEV for death-certificate data ([source, 2026-08-28](https://sisma.misau.gov.mz/interoperability.html)).
 - ATDI's World Bank-funded (EDGE) request for expressions of interest states that ATDI has already begun implementing an X-Road-based Interoperability Platform for secure data exchange between government institutions and service providers ([source, 2026-05-29](https://360mozambique.com/tenders/consulting-services-for-the-implementation-of-national-mobile-digital-identity-and-electronic-signature-infrastructure-for-the-republic-of-mozambique/)).
+- A deputy national director of the digital transformation ministry named the X-Road interoperability platform among platforms already existing in Mozambique at a workshop on 26 November 2026, while noting weak interoperability between systems ([source, 2026-11-26](https://aimnews.org/2026/11/26/governo-quer-abandonar-sistemas-digitais-isolados-e-apostar-em-infra-estruturas-partilhadas/)).
 
 ### Namibia: 3 Established
 

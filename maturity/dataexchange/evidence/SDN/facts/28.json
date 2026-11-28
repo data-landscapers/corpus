@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-sdn-from-paper-files-to-platforms-can-sudan-build-a-digital-government",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Baladna",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "national unified platform for government data exchange and transactions",
+   "owner": "Ministry of Digital Transformation and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": "Baladna is described as a platform for data exchange and transactions, but no exchange between public bodies' systems is stated; the Bayan link to Finance and the Cabinet is a plan."
+}

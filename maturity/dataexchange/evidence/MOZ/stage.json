@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-002;MOZ-004",
-      "gaps": "No source found counts ten or more bodies connected; the national X-Road platform is due in late 2026.",
-      "note": "Rebuild 2026-10-28: the health ministry's interoperability platform has live links to the Justice Ministry's civil registration system, carrying data between two public bodies; the national X-Road platform is still being built. No count of ten is held.",
-      "as_at": "2026-10-28"
+      "stage_sources": "MOZ-002;MOZ-004;MOZ-011",
+      "gaps": "No source found counts ten or more bodies connected; X-Road was named as an existing platform in November 2026 with no count of the bodies it links.",
+      "note": "The health ministry's interoperability platform has live links to the Justice Ministry's civil registration system, and in November 2026 the digital ministry named X-Road among platforms in place. No count of ten connected bodies is held, so not 4.",
+      "as_at": "2026-11-28"
     }
   ]
 }
