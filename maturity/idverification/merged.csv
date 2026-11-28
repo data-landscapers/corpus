@@ -62,6 +62,7 @@ BFA,2026-11-11-bfa-operation-d-enregistrement-de-masse-de-l-identifiant-unique-l
 BFA,2026-11-11-bfa-registre-identifiant-unique-lefaso,,2026-11-13
 BFA,2026-11-22-bfa-burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur,,2026-11-25
 BFA,2026-11-23-bfa-burkina-1-449-volontaires-formes-pour-reussir-l-enrolement-national,,2026-11-25
+BFA,2026-11-26-bfa-sitico-2026-des-imprimantes-3d-aux-plateformes-numeriques-un-ecosysteme-en-const,,2026-11-28
 BWA,2016-01-01-id4d-country-diagnostic-botswana,,2026-10-19
 BWA,2024-03-11 Botswana - Mandatory SIM Card Registration public notice (BOCRA),,2026-10-19
 BWA,2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo,,2026-11-01
@@ -641,6 +642,7 @@ MWI,2026-09-29-mwi-india-un-ekyc-digital-identity-review,,2026-10-19
 MWI,2026-10-27-biometricupdate-cross-border-id,,2026-10-29
 MWI,2026-11-09-mwi-malawi-s-nzika-digital-id-bounced-at-the-bank,,2026-11-11
 MWI,2026-11-25-mwi-government-tells-mobile-money-firms-fix-fees-networks-and-trust,,2026-11-26
+MWI,2026-11-27-mwi-reserve-bank-of-malawi-targets-safer-digital-payments-under-2026-2030,,2026-11-28
 NAM,2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9,,2026-10-19
 NAM,2023-12-24-nam-namibia-s-unfolding-identity-crisis,,2026-11-13
 NAM,2024-06-04-nam-welcoming-remarks-by-the-governor-of-the-bank-of-namibia-johannes-gawa,,2026-11-09
@@ -648,6 +650,7 @@ NAM,2025-05-23-namibia-un-mtc-five-year-digital-partnership,,2026-10-19
 NAM,2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate,,2026-10-19
 NAM,2025-07-06-nam-cabinet-yet-to-finalise-data-protection-bill,,2026-11-01
 NAM,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries",,2026-10-19
+NAM,2025-09-01-nam-strengthening-civil-registration-and-vital-statistics-crvs-to-improve,,2026-11-28
 NAM,2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP),,2026-10-19
 NAM,2025-09-24-namibia-eid-piloting-otjimbingwe,,2026-10-19
 NAM,2025-11-03-nam-namibia-moves-closer-to-secure-digital-identity-and-online-verificatio,,2026-11-12
@@ -823,6 +826,7 @@ SEN,2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao,,2026-10-19
 SEN,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 SEN,2026-11-11-google-africa-applied-ai-lab-first-cohort,,2026-11-13
 SEN,2026-11-25-xwa-wave-25-million-user-blueprint-low-fees-waemu-mobile-money,,2026-11-26
+SEN,2026-11-27-sen-senegal-signs-mou-with-presight-on-ai-and-sovereign-cloud,,2026-11-28
 SLE,2020-01-02-sierra-leone-finance-act-2020-tax-register,,2026-10-19
 SLE,2023-01-30-sierra-leone-ncra-biometric-id-verification-platform-launch,,2026-10-19
 SLE,2023-06-23-sierra-leone-financial-inclusion-project-isr-national-payment-switch,,2026-10-19
@@ -858,6 +862,7 @@ SLE,2026-11-13-sle-parliament-refers-data-protection-bill,,2026-11-15
 SOM,2024-08-26-som-somalia-introduces-modern-digital-identification-to-enhance-banking-se,,2026-11-15
 SOM,2024-09-07-som-nira-and-nca-host-consultative-meeting-with-telecom-companies-to-integ,,2026-11-09
 SOM,2024-10-17-som-nira-and-central-bank-of-somalia-sign-mou-to-strengthen-financial-serv,,2026-11-09
+SOM,2025-03-27-som-shortcut-to-a-brighter-future-how-technology-is-transforming-education,,2026-11-28
 SOM,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system,,2026-10-23
 SOM,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds,,2026-10-19
 SOM,2025-05-20-som-somalia-s-journey-towards-a-foundational-national-id-system,,2026-11-08
@@ -984,6 +989,7 @@ TZA,2026-02-25-tza-nida-kubadili-muundo-vitambulisho-vya-taifa,,2026-11-10
 TZA,2026-04-02-tanzania-itu-innovation-center-launch,,2026-10-19
 TZA,2026-05-01-hotuba-ya-bajeti-ya-wizara-ya-mambo-ya-ndani-ya-nchi-2026-2027,,2026-10-19
 TZA,2026-05-01-tza-tanzania-digital-identity-ecosystem,,2026-10-23
+TZA,2026-05-03-tza-government-develops-kiswahili-ai-model,,2026-11-28
 TZA,2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge,,2026-10-19
 TZA,2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako,,2026-10-24
 TZA,2026-09-07-thecitizen-bot-creditinfo-local-fraud-identity-kyc,,2026-10-19
@@ -1085,11 +1091,13 @@ ZAF,2026-10-26-zaf-timeslive-imc-migration-biometric-entry-tracking-plans,,2026-
 ZAF,2026-10-28-south-africa-plans-biometric-asylum-registration-tighter-digital-borde,,2026-10-29
 ZAF,2026-11-03-zaf-fake-sims-hold-sa-to-ransom,,2026-11-04
 ZAF,2026-11-06-dpi-map-2026-11-12,,2026-11-13
+ZAF,2026-11-26-zaf-sa-home-loans-hit-by-second-data-breach,,2026-11-28
 ZMB,2021-05-19-zambia-electronic-government-act-2021-batch4_dpi_a,,2026-10-19
 ZMB,2023-03-13-zicta-2022-annual-market-report-subscriptions,,2026-10-19
 ZMB,2023-10-28-zmb-dailynation-govt-digitises-nrcs,,2026-10-19
 ZMB,2024-01-01-zmb-codevelop-zambia-ekyc-openg2p,,2026-11-06
 ZMB,2024-07-09-zambia-government-service-bus-services-update,,2026-10-19
+ZMB,2024-07-15-zmb-drought-relief-management-system-being-developed,,2026-11-28
 ZMB,2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity,,2026-10-23
 ZMB,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration,,2026-10-19
 ZMB,2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services,,2026-10-23
@@ -1103,6 +1111,7 @@ ZMB,2026-05-14-zambia-accelerate-digital-economy-ppp,,2026-10-19
 ZMB,2026-06-18-finmark-trust-cross-border-dpi-sadc,,2026-10-19
 ZMB,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 ZMB,2026-11-17-zmb-pspf-biometric-life-verification-ictaz-fair,,2026-11-21
+ZMB,2026-11-25-zmb-zambia-accelerates-national-digital-id-plans,,2026-11-28
 ZWE,2022-10-01-zwe-rbz-collateral-registry-user-manual,,2026-10-19
 ZWE,2025-01-01-zwe-zimbabwe-s-data-protection-regime,,2026-11-01
 ZWE,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries",,2026-10-19
