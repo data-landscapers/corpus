@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-27-som-shortcut-to-a-brighter-future-how-technology-is-transforming-education",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "BMZ Digital.Global says the HSC integrates the MOECHE Examination System registry with NIRA's eAqoonsi identity verification and payments services.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "High School Certificate System (HSC)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "BMZ Digital.Global says students use their national digital ID to retrieve exam results automatically in the HSC.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "High School Certificate System (HSC)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "High School Certificate System (HSC)",
+   "country_label": "High School Certificate System (HSC)",
+   "class": "exchange",
+   "platform": "GovStack, open source",
+   "owner": "MOECHE with MoCT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
