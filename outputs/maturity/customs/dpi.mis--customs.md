@@ -238,7 +238,7 @@ A trade single window joined customs and other agencies in 2026; no source found
 
 A trade single window joined customs and other agencies in 2025; no source found reports electronic exchange with other countries.
 
-- The Finance Permanent Secretary said an Electronic Single Window System integrates regulatory agencies in customs clearance, and port health, the National Ozone Unit and the Radiation Protection Authority of Zimbabwe have subscribed to it ([source, 2025-07-14](https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/)).
+- The Finance Permanent Secretary said an Electronic Single Window System integrates regulatory agencies in customs clearance, and port health, the National Ozone Unit and the Radiation Protection Authority of Zimbabwe have subscribed to it ([source, 2025-07-14](https://web.archive.org/web/20251110143328/https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/)).
 
 ### Angola: 3 Established
 

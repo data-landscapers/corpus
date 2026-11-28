@@ -2,7 +2,7 @@
 
 ## Customs
 
-**Automated customs.** [Djibouti customs says that from 2 September 2025 free-zone operators and forwarders register and clear their declarations in SYDONIAWorld, with fees debited from prepayment accounts](<https://douanes.gouv.dj/module-de-prepaiement/>). [In its 2025 to 2029 strategic plan, customs says it processed 205,678 declarations in 2023](<https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf>). [It routed transit declarations to yellow, blue, green and red lanes](<https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf>).
+**Automated customs.** [Djibouti customs says that from 2 September 2025 free-zone operators and forwarders register and clear their declarations in SYDONIAWorld, with fees debited from prepayment accounts](<https://douanes.gouv.dj/module-de-prepaiement/>). [The state news agency ADI says customs has run clearance on SydoniaWorld since 2012](<https://www.adi.dj/article/12609>). [In its 2025 to 2029 strategic plan, customs says it processed 205,678 declarations in 2023](<https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf>). [It routed transit declarations to yellow, blue, green and red lanes](<https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf>).
 
 **Single window.** No source found since October 2023 says a trade single window is in service. The nearest fact found: [in 2023 customs routed transit declarations through selectivity lanes](<https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf>).
 
