@@ -110,7 +110,7 @@ Cameroon's telecoms regulator adopted its 2026-2030 Strategic Performance Plan a
 
 **[Statement on the Cabinet meeting of Wednesday, 25 November 2026](https://www.gov.za/news/cabinet-statements/media-briefings/statement-cabinet-meeting-wednesday-27-november-2026-27-nov)** — Government of South Africa, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-South Africa's Cabinet statement on its 25 November 2026 meeting records that the President directed a multi-sectoral AI action plan within 90 days of the Silicon Valley delegation's return. The plan is to set institutional responsibilities, start-up funding and infrastructure partnerships. Cabinet welcomed the visit's strategic importance and noted progress on biometric movement control at ports of entry and on government digital services. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+South Africa's Cabinet statement on its 25 November 2026 meeting records a presidential directive. A multi-sectoral AI action plan is due within 90 days of the Silicon Valley delegation's return. It is to set institutional roles, start-up funding and infrastructure partnerships. Cabinet welcomed the visit. It also noted progress on biometric movement control at ports of entry and on government digital services. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
