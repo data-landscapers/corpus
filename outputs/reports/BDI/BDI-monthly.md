@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: BDI
-ledger_rows: 31
+ledger_rows: 32
 not_held: 7
-record: cdd33da91f04
+record: 852225e9301e
 ---
 
 # News, Oct – Nov 2026
@@ -155,6 +155,20 @@ ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la
 **[Burundi: Bujumbura Seeks South Korean Support for Digital Identity Infrastructure](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure)** — We are Tech, 21 October 2026
 
 Burundi's finance and digital economy minister met South Korea's science and ICT ministry in Seoul in October 2026. They discussed cooperation on digital identity, data centres, secure hosting of public data and links between government agencies. Financing through KOICA and Korea's EDCF fund was explored, with training and cybersecurity support.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum on tax-administration cooperation with Russia's Federal Tax Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FTS of Russia and Burundi’s Ministry of Finance, Budget and Digital Economy Sign Memorandum of Understanding and Technical Cooperation](https://www.nalog.gov.ru/eng/media/news/16679221/)** — Federal Tax Service of Russia, 26 November 2026
+
+Three priorities: tax digitalisation, technical assistance, training; Russian VAT, cash-register, civil registers shown.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: BWA
-ledger_rows: 27
+ledger_rows: 29
 not_held: 5
-record: b4af8e0c4b6d
+record: 63a2adfd7557
 ---
 
 # News, Oct – Nov 2026
@@ -31,8 +31,26 @@ record: b4af8e0c4b6d
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana moves to establish National Data Exchange Hub](https://dailynews.gov.bw/news-detail/94332)** — Botswana Press Agency (BOPA) / Daily News, 26 November 2026
+
+Data Policy and Strategy 2027-2032 in validation, 25 Nov 2026; chief data officers asked of institutions.
+
+</div>
+
+</div>
 
 ### Standards
 
@@ -263,6 +281,8 @@ Botswana's communications regulator is drafting Child Online Protection Guidelin
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -271,6 +291,22 @@ Botswana's communications regulator is drafting Child Online Protection Guidelin
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Exchange Hub</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Botswana moves to establish National Data Exchange Hub](https://dailynews.gov.bw/news-detail/94332)** — Botswana Press Agency (BOPA) / Daily News, 26 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 

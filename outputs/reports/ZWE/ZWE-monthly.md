@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: ZWE
-ledger_rows: 51
+ledger_rows: 52
 not_held: 5
-record: 8c2f2e58d866
+record: 63f5a738d61d
 ---
 
 # News, Oct – Nov 2026
@@ -661,6 +661,20 @@ UNDP Zimbabwe opened a request for proposals on 25 November 2026, closing 30 Nov
 **[Electronic traffic system being finalised](https://www.zimbabwesituation.com/news/electronic-traffic-system-being-finalised/)** — Zimbabwe Situation, 13 October 2026
 
 Zimbabwe's police said logistics for an Electronic Traffic Management System were being finalised. The system is linked to the vehicle and civil registries to identify offenders and issue penalties electronically.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media commission online accreditation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZMC pilots online media accreditation system, seeks stakeholder input](https://hararepost.com/2026/11/26/zmc-pilots-online-media-accreditation-system-seeks-stakeholder-input/)** — HararePost, 26 November 2026
+
+Pilot lets journalists outside Harare apply online; stakeholder feedback sought; Masvingo and Mutare offices planned.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: CMR
-ledger_rows: 40
+ledger_rows: 43
 not_held: 3
-record: 789fa4c56185
+record: 6ad4faf886d9
 ---
 
 # News, Oct – Nov 2026
@@ -45,6 +45,50 @@ record: 789fa4c56185
 **[Cameroon Eyes AI-Led Growth with New Digital Economy Strategy](https://www.businessincameroon.com/public-management/2610-17054-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy)** — Business in Cameroon, 26 October 2026
 
 The Minister of Posts and Telecommunications spoke at the World Bank's summit in Seoul on 19-22 October 2026. The Minister said a draft national digital-economy strategy is being finalised. It rests on national AI consultations. Its pillars are digital infrastructure, data governance, skills, research and responsible-AI rules.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agenda for Accelerating the Digital Transformation of the Financial Sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Finance numérique: Un moteur pour l’inclusion financière](https://www.cameroon-tribune.cm/article.html/82982/fr.html/finance-numerique-un-moteur-pour-linclusion-financiere)** — Cameroon Tribune, 27 November 2026
+
+Lede only: 31m mobile-money accounts; FCFA 32,667bn moved in 2025; 61% of adults banked; 65% inclusion by 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Funding Shortfalls Delay Cameroon’s CFA21.2 Billion Digital Finance Transformation Program](https://www.businessincameroon.com/finance/2711-17286-funding-shortfalls-delay-cameroon-s-cfa21-2-billion-digital-finance-transformation-program)** — Business in Cameroon, 27 November 2026
+
+Most of 36 roadmap activities unstarted at end-2025; funding gaps; Cameroon 77% of CEMAC mobile-money value (2024).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecoms regulator's Strategic Performance Plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[STRATEGIC PERFORMANCE PLAN 2026–2030: A NEW ERA FOR DIGITAL REGULATION IN CAMEROON](https://art.cm/en/article/strategic-performance-plan-2026%E2%80%932030-new-era-digital-regulation-cameroon)** — Telecommunications Regulatory Board (TRB), Cameroon, 27 November 2026
+
+Board adoption 27 Nov 2026; succeeds 2022–2025 plan; performance model, measured service quality, reliable data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TRB Refines Its Strategic Vision for the 2026–2030 Period](https://art.cm/en/article/trb-refines-its-strategic-vision-2026%E2%80%932030-period)** — Telecommunications Regulatory Board (TRB), Cameroon, 27 November 2026
+
+CFAF 420.6bn envelope; 85% broadband coverage by 2030; QoS monitoring in 25 cities; four pillars.
 
 </div>
 
@@ -620,6 +664,20 @@ News du Cameroun reported that by September 2026 only 60 of 432 principal civil 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Family allowance audit of public servants' children's birth certificates</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon to verify over 580,000 birth certificates in family allowance audit](https://www.biometricupdate.com/202611/cameroon-to-verify-over-580000-birth-certificates-in-family-allowance-audit)** — Biometric Update, 26 November 2026
+
+580,856 of 968,275 certificates collected; BUNEC cross-check next; FCFA 27.9bn yearly saving projected.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -667,6 +725,14 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[SERVICEPUBLIC.GOV.CM: MINFOPRA SEEKS HOMEPAGE REDESIGN AND NEW PORTAL IDENTITY](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2395-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-identity)** — MINFOPRA (Cameroun), 20 October 2026
 
 Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm portal on 20 October 2026 before its launch: it lists 1,250 procedures in 25 categories in French and English, with an app for offline use and a proposed 90-day publicity campaign across the ten regions. He asked for a new name and look for the portal and a review of the contract with its provider, ADWA SARL.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[servicepublic.gov.cm: Cameroon's public services move towards a digital future](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2400-servicepublic-gov-cm-cameroon-s-public-services-move-towards-a-digital-future)** — MINFOPRA, 11 November 2026
+
+~1,250 procedures from 40 institutions in 25 categories; built by ADWA SARL; launch set 18 Dec 2026; CAMTEL hosts.
 
 </div>
 

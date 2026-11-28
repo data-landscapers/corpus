@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: MWI
-ledger_rows: 39
+ledger_rows: 42
 not_held: 28
-record: e5b5189cc148
+record: 5c3dccdbb84e
 ---
 
 # News, Oct – Nov 2026
@@ -450,6 +450,34 @@ The Reserve Bank of Malawi said on 25 November 2026 that rules on fraud, mobile 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Money transfer costs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi tops region in money transfer costs](https://times.mw/malawi-tops-region-in-money-transfer-costs/)** — The Times Group (Malawi), 26 November 2026
+
+Remittance fees up to 31.5%, highest in region; airtime 44% of mobile money transactions; 20m subscribers Q2 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malawi Interbank Transfer and Settlement System (MITASS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Reserve Bank of Malawi Targets Safer Digital Payments Under 2026–2030 Strategy](https://techafricanews.com/2026/11/27/reserve-bank-malawi-targets-safer-digital-payments/)** — Tech Africa News, 27 November 2026
+
+The Reserve Bank of Malawi's upgraded interbank transfer and settlement system, MITASS, went live on 9 November 2026. It adopts ISO 20022 messaging and phases out cheques. The bank's payments director told a stakeholder conference on 25 November that financial inclusion is about 88%. He reported over 22.8 million registered mobile money wallets, more than 13 million of them active.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -729,6 +757,28 @@ IOM committed US$300,000 from its Development Fund on 1 October 2026 to a projec
 **[Building Stronger Foundations for Malawi's 2028 Census](https://www.worldpop.org/blog/building-stronger-foundations-for-malawis-2028-census/)** — WorldPop, 14 October 2026
 
 WorldPop and the UK Office for National Statistics ran a five-day workshop in Blantyre for staff of Malawi's National Statistical Office on high-resolution household population estimates, combining census and survey data with geospatial models, ahead of the 2028 census. The training covered Bayesian modelling in R and tools for updating and partitioning enumeration areas.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi Just Relaunched Its Power of Data. Here's Why the World Should Pay Attention](https://www.linkedin.com/pulse/malawi-just-relaunched-its-power-data-heres-why-world-ohuruogu-phd-igsjc/)** — LinkedIn (Victor Ohuruogu), 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Power of Data and NSDS relaunched 24 Nov 2026; 2028 census US$52m, US$15m gap; Ghana data MoUs 5 to 34.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Statistical System Strategic Plan</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Malawi Just Relaunched Its Power of Data. Here's Why the World Should Pay Attention](https://www.linkedin.com/pulse/malawi-just-relaunched-its-power-data-heres-why-world-ohuruogu-phd-igsjc/)** — LinkedIn (Victor Ohuruogu), 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Summarised under [National statistics](#national-statistics).
 
 </div>
 

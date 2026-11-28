@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: TCD
-ledger_rows: 29
+ledger_rows: 30
 not_held: 23
-record: f45cbde81b9d
+record: 2edab7e3898c
 ---
 
 # News, Oct – Nov 2026
@@ -250,9 +250,9 @@ Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representat
 
 <div class="bulletin-item" markdown="1">
 
-**[Chad - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/chad/)** — International Telecommunication Union, 11 November 2026
+**[Déclaration du ministre des Télécommunications du Tchad, Conférence de plénipotentiaires de l'UIT (PP-26)](https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/Chad_CHOUA-MAHAMAT_FR_v2.pdf)** — Ministère des Télécommunications, de l'Économie numérique et de la Digitalisation du Tchad, 1 November 2026
 
-Chad's statement to the ITU Plenipotentiary Conference in Doha, posted by 11 November 2026, says 4,400 km of a planned 14,000 km fibre network is built. A further 2,700 km is under way and 6,900 km has no financing. Minister Haliki Choua Mahamat cited 15 million mobile subscriptions (79%) and 5.6 million internet subscriptions (30%) at end-2025.
+PP-26 statement: AI, e-administration and data-governance strategies in drafting; 4,400 of 14,000 km fibre built.
 
 </div>
 
@@ -292,7 +292,7 @@ Internet Society Pulse lists one active internet exchange point in Chad in Novem
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Chad - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/chad/)** — International Telecommunication Union, 11 November 2026
+**[Déclaration du ministre des Télécommunications du Tchad, Conférence de plénipotentiaires de l'UIT (PP-26)](https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/Chad_CHOUA-MAHAMAT_FR_v2.pdf)** — Ministère des Télécommunications, de l'Économie numérique et de la Digitalisation du Tchad, 1 November 2026
 
 Summarised under [Connectivity](#connectivity).
 
@@ -303,6 +303,8 @@ Summarised under [Connectivity](#connectivity).
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -311,6 +313,22 @@ Summarised under [Connectivity](#connectivity).
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Accession to the regional digital integration programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : un atelier de consultation sur l’intégration numérique en Afrique centrale](https://tchadinfos.com/2026/11/25/tchad-un-atelier-de-consultation-sur-lintegration-numerique-en-afrique-centrale/)** — Tchadinfos, 25 November 2026
+
+Stakeholder engagement plan consultation, N'Djamena, 25 Nov 2026; prepared via PATN; no figure stated.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 

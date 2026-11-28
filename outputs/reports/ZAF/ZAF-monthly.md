@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: ZAF
-ledger_rows: 138
+ledger_rows: 139
 not_held: 17
-record: 8a668d7a9a0e
+record: 7c0c1549aa16
 ---
 
 # News, Oct – Nov 2026
@@ -932,6 +932,20 @@ South Africa's domain registry reports 1.5 million active registrations across i
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign ministry ICT Modernisation Project for missions abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[International Relations Committee Welcomes Progress Report on Digitalisation of South Africa’s Embassies](https://www.parliament.gov.za/news/international-relations-committee-welcomes-progress-report-digitalisation-south-africas-embassies)** — Parliament of South Africa, 27 November 2026
+
+Three data centres in Pretoria, Washington DC and London; mission travel app; ETA ends visa-printer failures.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -1420,7 +1434,7 @@ DIDx, a South African digital identity firm with a commercial stake in the outco
 
 <div class="bulletin-item" markdown="1">
 
-**[eZAR opens rand stablecoin to SA public](https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026
+**[eZAR opens rand stablecoin to SA public](https://web.archive.org/web/20261103032051/https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026
 
 eZAR, a rand-backed stablecoin, opened to the South African public after almost a year as a pilot. It is run by eZAR Ltd, Ninety One and AVBOB Financial Services. R303 million of tokens were in circulation on 30 October 2026. Reserves sit mainly in the Ninety One Money Market Fund. The issuer states that eZAR is a crypto asset, not legal tender or a bank deposit.
 

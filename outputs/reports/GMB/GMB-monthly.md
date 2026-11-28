@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: GMB
-ledger_rows: 22
+ledger_rows: 24
 not_held: 2
-record: e59fbaf2a8be
+record: 3e6485443f89
 ---
 
 # News, Oct – Nov 2026
@@ -113,6 +113,8 @@ Gambian operator GAMTEL offers ISPs and small businesses space for servers and n
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -208,6 +210,22 @@ The Gambia's lands ministry briefed the press on National Land Policy implementa
 
 </div>
 
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taye Sama informal-sector social security system (ISMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[New In-House Scheme Saves SSHFC D51.8m And Builds Gambia’s First Informal Sector Social Security System](https://standard.gm/new-in-house-scheme-saves-sshfc-d51-8m-and-builds-gambias-first-informal-sector-social-security-system/)** — The Standard, 12 October 2026
+
+Taye Sama informal-sector MIS built by SSHFC staff; offline enrolment, Wave payments; ready for rollout April 2026.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -261,6 +279,20 @@ The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year 
 **[Gambia Revenue Authority Collecting Revenue for National Development](https://www.gra.gm/news/7a597617-e44d-11f1-96d0-029254d29bb1)** — Gambia Revenue Authority, 19 November 2026
 
 The Gambia Revenue Authority said on 19 November 2026 that a delegation visited SICPA in Switzerland from 16 to 20 November. SICPA holds a 2023 concession in The Gambia; topics included mobile-money onboarding for revenue monitoring, tax-stamp authentication and fuel testing. SICPA's AI-assisted fuel surveillance platform is not yet deployed there.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Digital Cabinet Management System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GICTA develops digital cabinet system to cut meeting hours, boost efficiency](https://thepoint.gm/africa/gambia/national-news/gicta-develops-digital-cabinet-system-to-cut-meeting-hours-boost-efficiency)** — The Point, 27 November 2026
+
+The Gambia's GICTA unveiled a prototype Integrated Digital Cabinet Management System, built in-house, on 25 November 2026. It came at the close of a WARDIP-funded software engineering course for 17 government staff. The Director General put its cost under USD 150,000, against USD 1-5m through international procurement.
 
 </div>
 
@@ -373,6 +405,14 @@ Summarised under [New investments](#new-investments).
 **[GICTA, WARDIP Launch Digital Engineering Training for Government ICT Personnel - senigambia](https://senigambia.com/gicta-wardip-launch-digital-engineering-training-for-government-ict-personnel/)** — Senigambia, 16 November 2026
 
 GICTA opened a two-week training programme in AI and software engineering for government ICT staff, financed by the World Bank's WARDIP project. It aims to produce in-house government systems, including a cabinet management system. Director General Abdou Karim Jallow said it should be built locally so that sensitive cabinet documents stay off external platforms.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[GICTA develops digital cabinet system to cut meeting hours, boost efficiency](https://thepoint.gm/africa/gambia/national-news/gicta-develops-digital-cabinet-system-to-cut-meeting-hours-boost-efficiency)** — The Point, 27 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 

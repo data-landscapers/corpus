@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: NER
-ledger_rows: 15
+ledger_rows: 16
 not_held: 1
-record: 1923318b2cec
+record: d3a33cdee9b8
 ---
 
 # News, Oct – Nov 2026
@@ -87,6 +87,28 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States framework convention on digital and postal cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Ministers for digital affairs and posts of Burkina Faso, Mali and Niger validated a draft framework convention on cooperation in these fields in Ouagadougou on 27 November 2026. It would give the three Alliance of Sahel States members a legal framework for cooperation. It aims at interconnecting their digital and postal platforms and building a secure digital space.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Burkina Faso, Mali and Niger signed a framework convention on digital and postal cooperation in Ouagadougou on 27 November 2026. It covers shared digital infrastructure, connectivity, cybersecurity, e-government, AI and training. It also covers postal network interconnection and the PosTransfer money-transfer platform. A technical committee of the Alliance of Sahel States is to prepare implementing conventions.
 
 </div>
 

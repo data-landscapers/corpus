@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: RWA
-ledger_rows: 42
+ledger_rows: 45
 not_held: 7
-record: d03c59a7f347
+record: 845077f071ee
 ---
 
 # News, Oct – Nov 2026
@@ -204,6 +204,20 @@ FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 Oct
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Development Bank loans for the Centre of Excellence for Biomedical Engineering and E-Health, Phase 2</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué of the Cabinet Meeting of 26 November 2026](https://www.primature.gov.rw/fileadmin/user_upload/Primature/Publications/Cabinet_Decisions/English/2026_Cabinet_Resolutions/Cabinet_Communique_26.11.2026.pdf)** — Office of the Prime Minister (Rwanda), 26 November 2026
+
+Mobile number portability incl. mobile money wallets; ADF and AfDB e-health centre loans sent for ratification.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -239,6 +253,20 @@ Rwanda's utilities regulator, RURA, reported ICT statistics for April to June 20
 **[Rwanda Seeks $386 Million From South Korean Telecom Over 4G Dispute](https://www.ktpress.rw/2026/10/rwanda-seeks-386-million-from-south-korean-telecom-over-4g-dispute/)** — KT Press, 28 October 2026
 
 Rwanda filed a $386 million counterclaim against South Korea's KT Corporation at the Permanent Court of Arbitration on 20 October 2026. The dispute concerns their 4G joint venture, KT Rwanda Networks. KT had sought about $152 million in March 2026 to exit the venture. RURA ended the venture's 4G wholesale exclusivity in 2023; neither claim has been decided.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile number portability</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Communiqué of the Cabinet Meeting of 26 November 2026](https://www.primature.gov.rw/fileadmin/user_upload/Primature/Publications/Cabinet_Decisions/English/2026_Cabinet_Resolutions/Cabinet_Communique_26.11.2026.pdf)** — Office of the Prime Minister (Rwanda), 26 November 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
@@ -631,6 +659,20 @@ Rwanda's ICT ministry signed a memorandum with the AI Skills and Compute Africa 
 **[Rwanda’s First Voice AI Companion ‘Miss Baza’ Launched by MTN and Viamo](https://radiotv10.rw/en/rwandas-first-voice-ai-companion-miss-baza-launched-by-mtn-and-viamo/)** — RADIOTV10, 31 October 2026
 
 MTN Rwanda and Viamo launched Miss Baza on 29 October 2026, a voice AI assistant reached by dialling 845 on an ordinary phone without internet. It answers in Kinyarwanda, English, French and Kiswahili, with 30 free minutes a month and Rwf45 a minute after that. MTN said it had more than 500,000 users.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chidi AI learning companion and educator AI training pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda tests AI education tool](https://itweb.africa/article/rwanda-tests-ai-education-tool/kLgB17ezQr2M59N4)** — ITWeb Africa, 27 November 2026
+
+One year into a partnership between ALX, Anthropic and Rwanda's Ministry of Education, 85% of a first cohort of 146 teachers had completed AI Career Essentials training. Up to 2,000 educators are to follow. Findings from the pilot are to inform Rwanda's national policy on AI in education.
 
 </div>
 

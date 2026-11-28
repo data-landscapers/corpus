@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: ETH
-ledger_rows: 44
+ledger_rows: 46
 not_held: 5
-record: 577a9395befc
+record: 5ecbdb24ef3f
 ---
 
 # News, Oct – Nov 2026
@@ -412,6 +412,20 @@ Faydaverse staff told the Capital newspaper, in a report of 22 November 2026, th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fayda enrolment of returning migrants at the Addis Ababa transit centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia’s Returnee Support Model Emerges as Regional Benchmark, Says IOM Officer](https://www.ena.et/web/eng/w/eng_9982178)** — Ethiopian News Agency (ENA), 25 November 2026
+
+About 7,000 returnees a year at the Addis transit centre; all now leave with a Fayda ID and access to banking.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -729,6 +743,20 @@ Ethiopia's Addis AI, founded in 2023, builds speech and text models for seven Af
 **[Regulatory Sandbox — Directive No. FS/01/2026](https://www.nbe.gov.et/wp-content/uploads/2026/11/FS-01-2026-Regulatory-Sandbox-Directive.pdf)** — National Bank of Ethiopia, 1 November 2026
 
 The National Bank of Ethiopia issued a regulatory sandbox directive, in force from 17 November 2026. It sets who may apply, how applicants are admitted and how long testing lasts, up to 12 months with extension. It also sets consumer-protection and data-privacy safeguards and the rules for suspension and exit.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KAMA open-innovation programme (Ethiopian Investment Holdings)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EIH to invest $10 million in startups that solve problems at state enterprises](https://www.ethiopianbusinessreview.net/eih-to-invest-10-million-in-startups-that-solve-problems-at-state-enterprises/)** — Ethiopian Business Review, 26 November 2026
+
+US$10m equity pool with ALX Africa; eight SOE challenge briefs; applications 26 Nov 2026 to 7 Jan 2027.
 
 </div>
 

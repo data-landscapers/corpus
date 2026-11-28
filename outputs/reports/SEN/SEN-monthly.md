@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: SEN
-ledger_rows: 69
+ledger_rows: 72
 not_held: 2
-record: 7dd79ad2dc03
+record: 4647aba4f4f3
 ---
 
 # News, Oct – Nov 2026
@@ -100,7 +100,43 @@ The manager of Senegal's national data centre at Diamniadio said 10% to 20% of t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National data strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RESTIC warns of delays in Senegal’s data strategy](https://www.socialnetlink.org/2026/11/27/restic-senegal-national-data-strategy-delays/)** — Socialnetlink, 27 November 2026
+
+Industry group's five priorities incl. data-governance authority, data repatriation; no sovereign-data framework law.
+
+</div>
+
+</div>
+
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Critical-infrastructure protection legal framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Loi n° 2026-20 du 10 septembre 2026 sur la protection des Infrastructures d'Information critiques et la sécurité numérique](https://www.vie-publique.sn/docs/83318790-e7fb-46b2-b193-928873e16474/JO-7939-du-17-octobre-2026.pdf)** — République du Sénégal — Journal officiel (Imprimerie nationale), 17 October 2026
+
+55 articles; CII regime under a national cybersecurity authority; state data hosted in Senegal; 24-hour incident notice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : publication de la loi n° 2026-20 sur la sécurité numérique](https://www.osiris.sn/cybersecurite-publication-de-la-loi-no-2026-20-sur-la-securite-numerique.html)** — OSIRIS, 27 November 2026
+
+National Cybersecurity Authority, critical-infrastructure duties, 24-hour incident reporting, licensed providers.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1200,6 +1236,8 @@ Senegal's statistics agency ANSD opened a data access centre in the Assane Seck 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
 <a href="#china-activities">China activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
 </nav>
 
 ### China activities
@@ -1213,6 +1251,22 @@ Senegal's statistics agency ANSD opened a data access centre in the Assane Seck 
 **[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
+### Gulf/UAE activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with Presight on AI, remote identity verification and sovereign cloud</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal signs MoU with Presight on AI and sovereign cloud](https://www.socialnetlink.org/2026/11/27/senegal-uae-presight-mou-ai-sovereign-cloud/)** — Socialnetlink, 27 November 2026
+
+Signed 24 Nov 2026 at Senegal–UAE joint commission; remote ID verification, sovereign cloud, civil-servant training.
 
 </div>
 

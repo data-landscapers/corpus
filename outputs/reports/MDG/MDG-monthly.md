@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: MDG
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: d7357d767cfa
+record: 536a9fc438b7
 ---
 
 # News, Oct – Nov 2026
@@ -153,6 +153,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Accès à l'information publique : le ministère de la Communication peine toujours à convaincre – Madagascar-Tribune.com](https://www.madagascar-tribune.com/Acces-a-l-information-publique-le-ministere-de-la-Communication-peine-toujours.html)** — Madagascar-Tribune, 14 November 2026
 
 Madagascar's National Assembly put off the vote on access-to-public-information bill 17/2025, set for 13 November 2026, with no new date. A parliamentary source said some provisions still need discussion. Civil society has sought the law since 2008.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-commerce bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-COMMERCE – Un projet de loi attendu d’ici un an pour encadrer les ventes en ligne, selon le ministère du Commerce et de la consommation](https://www.2424.mg/e-commerce-un-projet-de-loi-attendu-dici-un-an-pour-encadrer-les-ventes-en-ligne-selon-le-ministere-du-commerce-et-de-la-consommation)** — 2424.mg, 26 November 2026
+
+Consultation 25-26 Nov 2026; drafted by MCI / XPR Digital under World Bank PIC3; bill targeted within a year.
 
 </div>
 

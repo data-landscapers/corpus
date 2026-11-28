@@ -1,6 +1,6 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-11-26
+compiled: 2026-11-28
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
@@ -368,7 +368,7 @@ In 2023 [a population census and a business census had been run within the last 
 
 In 2025 the [financial management information system was used extensively to monitor government programme performance](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [It captured only some of the performance indicators, and only for selected programmes](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). ZIMSTAT [officials acknowledge that administrative data systems remain siloed and need further integration](https://zimstat.co.zw/odp2-0-tutorial-guide/) (2026). There is [no integrated labour market information system, no central repository and no data-sharing policy among the agencies that produce employment data](https://www.ilo.org/media/364416/download).
 
-In the first quarter of 2025 [POTRAZ recorded used international bandwidth of 2.69 Tbps against equipped capacity of 1.43 Tbps](https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework). [Starlink, 83% of used bandwidth, has no Zimbabwean ground infrastructure to measure](https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework) (first quarter of 2025). [From the second quarter of 2025 the regulator excluded it and restated the baseline, so headline used bandwidth fell 81% by reclassification alone](https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework).
+In the first quarter of 2025 [POTRAZ recorded used international bandwidth of 2.69 Tbps against equipped capacity of 1.43 Tbps](https://web.archive.org/web/20260519230456/https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework). [Starlink, 83% of used bandwidth, has no Zimbabwean ground infrastructure to measure](https://web.archive.org/web/20260519230456/https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework) (first quarter of 2025). [From the second quarter of 2025 the regulator excluded it and restated the baseline, so headline used bandwidth fell 81% by reclassification alone](https://web.archive.org/web/20260519230456/https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework).
 
 ### Open data
 <!-- data.open -->

@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-11-22
+compiled: 2026-11-28
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -23,7 +23,7 @@ acquire_lines: 35
 <!-- derived -->
 The Universal Access and Service Fund ran for more than eleven years before it was given a published governance and financing framework.
 
-[A five-day data governance engagement from 7 to 11 September 2026 worked to translate the national data policy's principles into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement). [It had continental and European support](https://dig.watch/updates/botswana-national-data-strategy-engagement), and no draft or adoption date has been published.
+[A five-day data governance engagement from 7 to 11 September 2026 worked to translate the national data policy's principles into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement). [It had continental and European support](https://dig.watch/updates/botswana-national-data-strategy-engagement). [Draft policy and strategy texts for 2027-2032 went to validation on 25 November 2026](https://dailynews.gov.bw/news-detail/94332), unpublished.
 
 [Cabinet adopted SmartBots, the overarching digital transformation strategy, in February 2020, and it was implemented from October that year](https://dailynews.gov.bw/news-detail/62172). [In November 2020 the President told Parliament it was in the implementation stage](https://www.npc.gov.bw/sites/default/files/SONA%202020.pdf). [A World Bank diagnostic published in 2022 found SmartBots presented on a website as an action plan, with no strategy document put to the public](https://documents1.worldbank.org/curated/en/099100007222230376/pdf/P1728130fa985906a09c220cb6fb4264212.pdf). In September 2026 President Duma Boko told the UN Economic Commission for Africa that [SmartBots would be formally launched in November 2026](https://dailynews.gov.bw/news-detail/93397). [It is meant to carry the country to a knowledge-based, high-income economy by 2036](https://dailynews.gov.bw/news-detail/93397), and no budget or target for it has been published.
 
