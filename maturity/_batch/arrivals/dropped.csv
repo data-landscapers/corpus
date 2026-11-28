@@ -1,2 +1,0 @@
-study,iso3,slug,sub_indicator,aspect,value,fact,why
-centralbank,TZA,2024-03-11-tza-bot-connects-all-payment-providers-to-tips,centralbank,switch,overseened,"The Bank of Tanzania, which trialled TIPS with three banks and two telecoms, rolled the instant payment system out to the whole financial sector, with 39 banks and six telecoms integrated by end-January 2024, the governor says.",`overseened` is not one of ['overseen']

@@ -1,9 +1,0 @@
-{"slug": "2026-10-17-ner-amv-geoportail-adressage-niamey-a-propos", "studies": {
-"businessregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "Document is about a Niamey street-addressing geoportal; no business register is stated."}}},
-"civilregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "Document is about a Niamey street-addressing geoportal; no civil register is stated."}}},
-"electoralregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "Document is about a Niamey street-addressing geoportal; no electoral roll is stated."}}},
-"landregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "Street addressing is not a land register."}}},
-"populationregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "No population register is stated."}}},
-"registry": {"countries": {"NER": {"facts": [], "systems": [], "note": "No civil registration office is stated."}}},
-"socialregistry": {"countries": {"NER": {"facts": [], "systems": [], "note": "No social registry is stated."}}}
-}}

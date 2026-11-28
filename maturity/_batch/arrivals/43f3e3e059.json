@@ -1,8 +1,0 @@
-{"slug": "2026-04-27-ssd-makuei-rejects-claims-linking-kiir-family-to-graft", "studies": {
-"aiabuse": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The minister calls a leaked document AI-made, but no rule, authority or enforcement on AI harms is stated."}}},
-"aigovernment": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
-"aisectoral": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No sector AI system stated."}}},
-"aisystems": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No local AI capacity stated."}}},
-"cybersecuritylaw": {"countries": {"SSD": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Justice Minister Michael Makuei Lueth said on 27 April 2026 that the Cybersecurity and Computer Crimes Act has been passed and is now operational, and could be used to trace those spreading false information.", "as_of": "2026-04-27", "date_precision": "day", "system": "Cybersecurity and Computer Crimes Act", "class": "law"}], "systems": [], "note": ""}}},
-"opendiscussion": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The minister only warned media of possible custody; no named paper or group criticising a policy and no arrest or closure is stated."}}}
-}}

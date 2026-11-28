@@ -1,7 +1,0 @@
-{"slug": "2026-01-01-mwi-applications-now-open-for-the-ai-for-public-good-challenge", "studies": {
-"aiabuse": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on rules or authority against AI harms."}}},
-"aigovernment": {"countries": {"MWI": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "UniPod Malawi says government ministries submitted 18 AI use cases, five were shortlisted by a multi-stakeholder panel and published as challenges, and recent-graduate teams will work with ministry focal points and mentors to develop, test and present AI solutions.", "as_of": "2026", "date_precision": "year", "system": "AI for Public Good Challenge", "class": "govai"}], "systems": [{"system": "AI for Public Good Challenge", "country_label": "Malawi", "class": "govai", "platform": "", "owner": "UniPod Malawi with government ministries", "tiers": ""}], "note": "Page is undated; the year is a proxy."}}},
-"aisectoral": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The shortlisted use cases are not named by sector and no tool is built or in service."}}},
-"aisystems": {"countries": {"MWI": {"facts": [], "systems": [], "note": "A challenge for teams; no AI model, dataset or computing is stated as built."}}},
-"publicconsultation": {"countries": {"MWI": {"facts": [], "systems": [], "note": "A challenge on AI use cases is not a consultation on a named digital law or policy."}}}
-}}

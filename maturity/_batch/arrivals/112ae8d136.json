@@ -1,7 +1,0 @@
-{"slug": "2025-11-20-mli-celebration-de-la-35eme-journnee-africaine-de-la-statistique-2025-jas", "studies": {
-"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on rules or authority against AI harms."}}},
-"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [{"system": "INSTAT statistical chatbot", "country_label": "Mali", "class": "govai", "platform": "", "owner": "INSTAT Mali", "tiers": ""}], "note": "Chatbot was presented as a tool that is to give access to statistics, aiming at 10,000 monthly users; no pilot or service is stated."}}},
-"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No sector system use stated."}}},
-"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built is stated as under way or in service."}}},
-"statisticsstrategy": {"countries": {"MLI": {"facts": [], "systems": [], "note": "A renovated feedback platform for the Schema Directeur de la Statistique is presented, but no adoption, period, dated review or evaluation of the strategy is stated."}}}
-}}

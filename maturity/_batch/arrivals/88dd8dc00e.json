@@ -1,6 +1,0 @@
-{"slug": "2026-06-23-cpv-inteligencia-artificial-e-drones-ao-servico-da-agricultura-cabo-verdia", "studies": {
-"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
-"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
-"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "A university research project in early testing, not an AI tool inside a public sector system."}}},
-"aisystems": {"countries": {"CPV": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Universidade de Cabo Verde says its Interreg MAC-funded AP-BYTE_2CAP project with the University of Las Palmas de Gran Canaria, in early testing, uses AI to process drone hyperspectral data for agriculture on Santiago and Sao Vicente, with a planned two-year term.", "as_of": "2026-06-17", "date_precision": "day", "system": "AP-BYTE_2CAP", "class": "localai"}], "systems": [], "note": ""}}}
-}}

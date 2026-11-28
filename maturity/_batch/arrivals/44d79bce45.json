@@ -1,3 +1,0 @@
-{"slug":"2026-08-19-gha-introducing-ghana-speech-2-247-hours-of-speech-data-for-42-ghanaian-la","studies":{
-"aisystems":{"countries":{"GHA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Ghana NLP released ghana-speech, an open dataset (CC-BY-NC-4.0, on Hugging Face) of 1,411,467 audio segments, 2,247 hours, across 42 Ghanaian languages, for training speech recognition.","as_of":"2026-08-19","date_precision":"day","system":"ghana-speech","class":"localai"}],"systems":[{"system":"ghana-speech","country_label":"Ghana","class":"localai","platform":"Hugging Face","owner":"Ghana NLP","tiers":""}],"note":""}}}
-}}

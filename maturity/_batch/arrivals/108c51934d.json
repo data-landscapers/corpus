@@ -1,3 +1,0 @@
-{"slug": "2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite", "studies": {
-"civilregister": {"countries": {"CIV": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "KOACI reports ONECI deployed the national civil registration management software Cityweb in all 692 civil registration centres (town halls and sub-prefectures) in 2025.", "as_of": "2025", "date_precision": "year", "system": "Cityweb", "class": "civil"}], "systems": [{"system": "Cityweb", "country_label": "Cityweb", "class": "civil", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}}
-}}

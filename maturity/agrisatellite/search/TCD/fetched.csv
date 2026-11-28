@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://docs.wfp.org/api/documents/WFP-0000175045/download/,fetched,,scripts/.workroot/study/agrisatellite/cache/TCD/1.txt,3699,pdf,Bulletin de suivi de la saison pluvieuse
-2,https://cb.apps.fao.org/country/TCD/pdf/TCD.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/TCD/2.txt,956,pdf,
-3,https://docs.wfp.org/api/documents/WFP-0000170643/download/,fetched,,scripts/.workroot/study/agrisatellite/cache/TCD/3.txt,5890,pdf,PowerPoint Presentation
-4,https://chadianspaceagency.org/comment-lespace-transforme-lagriculture-et-lenvironnement-au-tchad/,fetched,,scripts/.workroot/study/agrisatellite/cache/TCD/4.txt,219,html,Comment l’espace transforme l’agriculture et l’environnement au Tchad - Chadian Space Agency
-5,https://fscluster.org/sites/default/files/2024-08/Bulletin%20_GTP_Dec2_Aout_2024.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/TCD/5.txt,2637,pdf,
-6,https://agritrop.cirad.fr/604433/1/Formation_classification_Sentinel2_OTB_Qgis.pdf,held,held as raw/2023/2023-02-01-tcd-formation-a-la-realisation-d-une-carte-d-occupation-du-sol-a-partir-d.md,,0,,
-7,https://www.arc.int/sites/default/files/2021-10/TD_RapportFinDeSaison_2021_FR.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/TCD/7.txt,2304,pdf,
-8,https://wrd.unwomen.org/sites/default/files/2021-11/CHAD_Cadre%20national%20de%20gestion%20du%20risque%20acridien.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,

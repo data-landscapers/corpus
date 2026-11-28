@@ -1,5 +1,0 @@
-{"slug": "2025-10-30-civ-tresor-public-la-direction-des-systemes-d-information-se-dote-de-nouve", "studies": {
-"feedbackportals": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A staff-only support call centre is not a citizen feedback channel."}}},
-"gridreliability": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on power outages."}}},
-"itcapacity": {"countries": {"CIV": {"facts": [{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Treasury's information systems directorate (DSI) in Cote d'Ivoire opened new premises on 28 October 2025 and says it runs the Treasury's information system, including the permanent availability of critical systems, a backup data-entry room for public accountants and a technical support call centre for Treasury staff.", "as_of": "2025-10-28", "date_precision": "day", "system": "Système d'information du Trésor Public", "class": "staff"}], "systems": [{"system": "Système d'information du Trésor Public", "country_label": "Treasury information system", "class": "staff", "platform": "", "owner": "Direction des systèmes d'information, DGTCP", "tiers": ""}], "note": ""}}}
-}}

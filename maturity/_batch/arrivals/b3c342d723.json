@@ -1,6 +1,0 @@
-{"slug": "2026-06-16-ben-benin-un-tiktokeur-arrete-apres-la-diffusion-d-une-image-de-patrice-ta", "studies": {
-"aiabuse": {"countries": {"BEN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "Actus du Bénin reports that article 576 of Benin's Digital Code provides up to five years in prison and a fine up to CFA 25 million for malicious use of editing applications to alter photographs, audio or video.", "as_of": "2026-06-16", "date_precision": "day", "system": "Code du numérique article 576", "class": "aiharm"}, {"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "Actus du Bénin reports that TikToker Fresnel was arrested and held in custody in June 2026 after posting an AI-generated image of former president Patrice Talon.", "as_of": "2026-06", "date_precision": "month", "system": "Code du numérique article 576", "class": "aiharm"}], "systems": [], "note": ""}}},
-"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
-"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
-"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
-}}

@@ -1,8 +1,0 @@
-{"slug": "2026-11-13-nga-meet-nora-anambra-s-ai-powered-guide-to-government-information-and-ser", "studies": {
-"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [{"system": "NORA", "country_label": "Anambra State, Nigeria", "class": "other", "platform": "smart.anambrastate.gov.ng", "owner": "Anambra State ICT Agency", "tiers": ""}], "note": "NORA is a general government information assistant, not an AI tool inside a sector's public system."}}},
-"itcapacity": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Anambra State Government says NORA, its AI-powered digital assistant, was developed by the Anambra State ICT Agency.", "as_of": "2026-11-12", "date_precision": "day", "system": "NORA", "class": "staff"},
-{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The Anambra State Government says NORA, developed by its ICT Agency, was demonstrated live at the Digital Anambra Handbook unveiling on 12 November 2026 and is available round the clock, with no contractor named.", "as_of": "2026-11-12", "date_precision": "day", "system": "NORA", "class": "staff"}
-], "systems": [{"system": "NORA", "country_label": "NORA", "class": "staff", "platform": "", "owner": "Anambra State ICT Agency", "tiers": ""}], "note": ""}}},
-"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NORA only explains how to pay taxes and levies; no electronic payment service is stated."}}}
-}}

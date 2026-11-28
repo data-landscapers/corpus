@@ -1,9 +1,0 @@
-{"slug":"2026-11-27-cpv-ministerio-da-educacao-anuncia-programa-nacional-de-educacao-para-cida","studies":{
-"aiabuse":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on rules or an authority for AI harms."}}},
-"aigovernment":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No government AI system stated."}}},
-"aisectoral":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
-"aisystems":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
-"civilserviceskills":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Teacher and school staff training only, not civil servants' digital skills."}}},
-"digitalskills":{"countries":{"CPV":{"facts":[{"sub_indicator":"publicskills","aspect":"training","value":"underway","fact":"Cabo Verde's education ministry, through its higher-education director-general Odair Varela, announced the creation of a national programme of education for citizenship and digital safety in schools for 2027/2031, with digital literacy and responsible AI use among five priorities.","as_of":"2026-11-27","date_precision":"day","system":"Programa Nacional de Educação para Cidadania e Segurança Digital","class":"publicskills"}],"systems":[],"note":""}}},
-"schoolinternet":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No internet-in-schools figure and no compulsory subject stated."}}}
-}}

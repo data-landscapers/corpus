@@ -1,7 +1,0 @@
-{"slug": "2026-07-01-tcd-enabling-environment-snapshot-chad-july-2026", "studies": {
-"accesstoinformationlaw": {"countries": {"TCD": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Hivos EUSEE's July 2026 civic-space snapshot states that Chad has no law on access to information, and that regulatory texts and budget reports remain largely inaccessible outside a restricted circle.", "as_of": "2026-07", "date_precision": "month", "system": "access to information law", "class": "law"}], "systems": [], "note": ""}}},
-"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on consumer protection in digital financial services."}}},
-"disabilityaccess": {"countries": {"TCD": {"facts": [], "systems": [], "note": "It only says disability organisations such as UNAPHT report progress in recognition of rights; nothing on information or digital accessibility."}}},
-"internetusage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The roughly 12-13 per cent internet penetration is an unsourced interviewee-based figure, not an ITU estimate or a survey, so it is not recorded."}}},
-"schoolinternet": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on internet in secondary schools or the digital skills curriculum."}}}
-}}

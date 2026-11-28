@@ -1,8 +1,0 @@
-{"slug": "2026-11-13-zmb-zra-zamtel-turn-to-local-innovation-to-drive-economic-growth", "studies": {
-"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on rules or authority against AI harms."}}},
-"aigovernment": {"countries": {"ZMB": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Zambia Revenue Authority's Commissioner General said the authority had already developed an artificial intelligence-powered chatbot, alongside Tax Online and Tax on Phone; the article does not say it is in service.", "as_of": "2026-11-13", "date_precision": "day", "system": "ZRA artificial intelligence-powered chatbot", "class": "govai"}], "systems": [{"system": "ZRA AI-powered chatbot", "country_label": "Zambia", "class": "govai", "platform": "", "owner": "Zambia Revenue Authority", "tiers": ""}], "note": "Publication date is a proxy."}}},
-"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "ZRA customs valuation risk management engine", "country_label": "Zambia", "class": "sectorai", "platform": "", "owner": "Zambia Revenue Authority", "tiers": ""}], "note": "Customs engine is named as developed but not described as using AI or in service."}}},
-"aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}},
-"startups": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "A student innovation challenge only; no startup law, labelling or fund stated."}}},
-"techhubs": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "ZRA says it plans an innovation hub with no site, builder or programme stated."}}}
-}}

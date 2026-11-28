@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://api.insbu.bi/storage/documents/01M0WF6F346CZ0KBK8A07YJVSP.pdf,held,held as raw/2026/2026-08-01-bdi-annuaire-statistique-du-burundi-edition-2024.md,,0,,
-2,https://obr.bi/images/PDF/B7_Bulletin_T3_2025.pdf,fetched,,scripts/.workroot/study/admindata/cache/BDI/2.txt,15325,pdf,
-3,https://www.insbu.bi/documents/Sectorials/Tome_1_Annuaire__2024_2025.pdf,held,held as raw/2025/2025-12-01-bdi-annuaire-statistique-de-l-education-edition-2024-2025-tome-1.md,,0,,
-4,https://minisante.gov.bi/wp-content/uploads/annuaires_statistiques/Annuaire%20Statistique%202025.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,
-5,https://www.insbu.bi/documents/Annuaires/Rapport_Annuel_Statistiques_Commerce_Exterieur_edition_2024.pdf,held,held as raw/2025/2025-07-01-bdi-rapport-annuel-sur-les-statistiques-du-commerce-exterieur-des-marchand.md,,0,,
-6,https://api.insbu.bi/storage/documents/01KNM7V1BFNY1RBMK1Y49PK31A.pdf,fetched,,scripts/.workroot/study/admindata/cache/BDI/6.txt,18285,pdf,
-7,https://www.insbu.bi/documents/Annuaires/Annuaire_Statistique_Burundi_Edition_2023.pdf,held,held as raw/2024/2024-12-01-insbu-annuaire-statistique-du-burundi-edition-2023.md,,0,,
-8,https://www.insbu.bi/documents/Sectorials/Annuaire-Statistique-2023-version-officielle-a-diffuser.pdf,fetched,,scripts/.workroot/study/admindata/cache/BDI/8.txt,273663,pdf,

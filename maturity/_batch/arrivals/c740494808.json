@@ -1,8 +1,0 @@
-{"slug": "2026-11-25-bfa-semaine-du-numerique-2026-lopen-source-lia-les-langues-nationales-et-l", "studies": {
-"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No government body's own AI use is described."}}},
-"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Uses in education, health and agriculture are only envisaged."}}},
-"aisystems": {"countries": {"BFA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "A researcher at the CITADEL AI centre of excellence said teams are adapting existing models of Meta's NLLB family, with locally collected data, to four national languages (moore, dioula, fulfulde, gulmancema), with first trials in moore.", "as_of": "2026-11-25", "date_precision": "day", "system": "NLLB-based national language models", "class": "localai"}], "systems": [{"system": "NLLB-based national language models", "country_label": "CITADEL language models", "class": "localai", "platform": "adapted NLLB models", "owner": "CITADEL, Universite virtuelle du Burkina Faso", "tiers": ""}], "note": ""}}},
-"startups": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only the 2017 Burkina Startups Initiative is recalled, outside the three-year window; no current law or fund is stated."}}},
-"techhubs": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No hub, incubator or park is described."}}}
-}}

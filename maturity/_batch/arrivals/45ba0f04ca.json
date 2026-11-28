@@ -1,8 +1,0 @@
-{"slug": "2026-03-11-moz-governo-de-mocambique-cria-comissao-nacional-de-inteligencia-artificia", "studies": {
-"aiabuse": {"countries": {"MOZ": {"facts": [{"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "INTIC reports that the Council of Ministers, at its 7th ordinary session, approved creation of the National Artificial Intelligence Commission (CNIA), tasked with setting AI ethics principles, issuing opinions and technical guidance to public and private bodies, and assessing the risks and social impacts of AI.", "as_of": "2026-03", "date_precision": "month", "system": "Comissão Nacional de Inteligência Artificial (CNIA)", "class": "aiharm"}], "systems": [{"system": "Comissão Nacional de Inteligência Artificial (CNIA)", "country_label": "Moçambique", "class": "aiharm", "platform": "", "owner": "Conselho de Ministros", "tiers": ""}], "note": ""}}},
-"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The document states a commission was created and names no government body using an AI system."}}},
-"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The document only expects AI adoption in health, agriculture and education; no sectoral AI tool is stated."}}},
-"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated as built or hosted in the country."}}},
-"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "It mentions only a future personal data protection law, with no standing given."}}},
-"digitalsovereignty": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Sovereignty is stated only in general terms; no rule, plan or hosting of state data is stated."}}}
-}}

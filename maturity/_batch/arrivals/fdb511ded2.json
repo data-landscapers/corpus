@@ -1,7 +1,0 @@
-{"slug": "2025-11-01-ner-a-voice-first-ai-service-for-people-centred-justice-in-niger", "studies": {
-"aisectoral": {"countries": {"NER": {"facts": [
-{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "HiiL's slide deck says Illimi, an AI voice companion on land disputes owned by Niger's National Agency for Legal and Judicial Assistance (ANAJJ) under the Ministry of Justice, is in pilot phase in the Dosso and Tillaberi regions, with 863 callers asking at least one question between May and November 2025.", "as_of": "2025-11", "date_precision": "month", "system": "Illimi", "class": "sectorai"}
-], "systems": [
-{"system": "Illimi", "country_label": "Niger", "class": "sectorai", "platform": "toll-free voice companion (IVR) with retrieval-based LLM", "owner": "ANAJJ, Ministry of Justice", "tiers": ""}
-], "note": ""}}}
-}}

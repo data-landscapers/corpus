@@ -1,6 +1,0 @@
-{"slug": "2024-12-12-moz-mocambique-taxa-de-registo-de-nascimento-regista-queda-nos-ultimos-ano", "studies": {
-"civilregister": {"countries": {"MOZ": {"facts": [
-{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "AIM reports the government and partners have digitised the birth registration system since 2018, extending access through selected hospitals and promoting interoperability between health and civil registration systems.", "as_of": "2024-12-12", "date_precision": "day", "system": "CRVS birth registration system", "class": "civil"},
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "AIM reports the 2024 Demographic and Health Survey puts birth registration of under-fives at 32 per cent, down from 49 per cent in the 2017 census.", "as_of": "2024", "date_precision": "year", "system": "CRVS birth registration system", "class": "civil"}
-], "systems": [], "note": ""}}}
-}}

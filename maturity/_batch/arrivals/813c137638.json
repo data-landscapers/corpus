@@ -1,3 +1,0 @@
-{"slug": "2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins", "studies": {
-"civilregister": {"countries": {"SLE": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "The NCRA Director-General says Sierra Leone has a fully integrated civil registration, vital statistics and identity system, including an electronic CRVS platform digitising civil registration, with EU support.", "as_of": "2026-08", "date_precision": "month", "system": "eCRVS", "class": "civil"}], "systems": [{"system": "eCRVS", "country_label": "NCRA eCRVS", "class": "civil", "platform": "", "owner": "NCRA", "tiers": ""}], "note": ""}}}
-}}

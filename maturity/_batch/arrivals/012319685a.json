@@ -1,6 +1,0 @@
-{"slug": "2025-10-01-tcd-tchad-lancement-de-la-phase-2-du-projet-etat-civil", "studies": {
-"civilregister": {"countries": {"TCD": {"facts": [
-{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "The OIF reports a project running to June 2026 in N'Djamena, Batha and Hadjer Lamis to strengthen the TASDJIL digitisation system for birth registration.", "as_of": "2025-10", "date_precision": "month", "system": "TASDJIL", "class": "civil"},
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "The head of the ANATS Abéché centre says Chad's birth registration rate is about 26 per cent, as reported by the OIF.", "as_of": "2025-10", "date_precision": "month", "system": "civil registration", "class": "civil"}
-], "systems": [{"system": "TASDJIL", "country_label": "TCD", "class": "civil", "platform": "", "owner": "TECHNIDEV project with OIF support", "tiers": ""}], "note": ""}}}
-}}

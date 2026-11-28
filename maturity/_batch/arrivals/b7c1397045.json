@@ -1,6 +1,0 @@
-{"slug": "2026-10-10-zwe-yamurai-learns-to-speak-like-us-econet-ai-launches-shona-2-0-claims-80", "studies": {
-"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on rules or authority for AI harms."}}},
-"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Company chatbot with no government user."}}},
-"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Company product; no public sector system."}}},
-"aisystems": {"countries": {"ZWE": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "TechnoMag reports Econet Ai launched Shona 2.0, its Shona language model behind the Yamurai WhatsApp chatbot, which Econet says now handles 80% of customer queries; Ndebele 1.0 was launched the month before.", "as_of": "2026-10-10", "date_precision": "day", "system": "Econet Ai Shona 2.0 (Yamurai)", "class": "localai"}], "systems": [{"system": "Econet Ai Shona 2.0 (Yamurai)", "country_label": "Zimbabwe", "class": "localai", "platform": "WhatsApp", "owner": "Econet Ai", "tiers": ""}], "note": ""}}}
-}}

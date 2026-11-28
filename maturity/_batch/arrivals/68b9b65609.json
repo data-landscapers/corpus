@@ -1,8 +1,0 @@
-{"slug": "2026-11-22-nga-nigeria-risk-based-approach-child-online-safety-ai-governance-global-privacy-assembly", "studies": {
-"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states no AI harm rule, draft or authority; only remarks on human oversight of AI."}}},
-"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
-"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
-"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Nigeria stated."}}},
-"dataprotectionauthority": {"countries": {"NGA": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Tech Review Africa reports that Dr. Vincent O. Olatunji, National Commissioner of the Nigeria Data Protection Commission, presented Nigeria's approach at Global Privacy Assembly sessions in Brussels.", "as_of": "2026-11-22", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "authority"}], "systems": [], "note": ""}}},
-"dataprotectionlaw": {"countries": {"NGA": {"facts": [{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Tech Review Africa reports that Dr. Vincent O. Olatunji, National Commissioner of the Nigeria Data Protection Commission, was acting for the commission at Global Privacy Assembly sessions in Brussels.", "as_of": "2026-11-22", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "general"}], "systems": [], "note": ""}}}
-}}

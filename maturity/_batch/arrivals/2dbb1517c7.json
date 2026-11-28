@@ -1,9 +1,0 @@
-{"slug": "2026-11-24-egy-alwafd-data-exchange-ai", "studies": {
-"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a call for citizen safeguards against algorithm errors; no rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
-"ailaw": {"countries": {"EGY": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Al Wafd reports Senator Amira Saber saying she submitted the first AI governance bill in the House of Representatives in 2024.", "as_of": "2024", "date_precision": "year", "system": "AI governance bill", "class": "law"}], "systems": [], "note": ""}}},
-"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sector AI system is described."}}},
-"aisystems": {"countries": {"EGY": {"facts": [], "systems": [{"system": "National AI Centre", "country_label": "EGY", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The National AI Centre is named only as a body with a role; no model, dataset or computing is stated."}}},
-"dataexchange": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only challenges in linking government databases are stated; no exchange platform is named."}}},
-"interoperabilitylaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A senator calls for legislation on inter-agency data exchange; no law or draft is stated."}}}
-}}

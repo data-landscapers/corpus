@@ -1,6 +1,0 @@
-{"slug": "2026-10-07-zmb-police-detain-19-year-old-over-ai-generated-image-of-musician-in-zambi", "studies": {
-"aiabuse": {"countries": {"ZMB": {"facts": [
-{"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "Zambia Police spokesperson Godfrey Chilabi said a 19-year-old was detained in an identity theft and impersonation case over a suspected AI-generated image of a musician in an army uniform, reported on 6 October 2026.", "as_of": "2026-10-06", "date_precision": "day", "system": "Zambia Police Service", "class": "aiharm"}
-], "systems": [], "note": ""}}},
-"police": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No station record system is described."}}}
-}}

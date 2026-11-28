@@ -1,7 +1,0 @@
-{"slug": "2025-10-31-egy-elwatan-narss-satellite-strategic-crop-areas", "studies": {
-"agrisatellite": {"countries": {"EGY": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "The National Authority for Remote Sensing and Space Sciences, with the agriculture ministry, estimated the areas of nine strategic crops from satellite imagery and AI models to forecast production and import or export needs, its chairman said.", "as_of": "2025-10-31", "date_precision": "day", "system": "NARSS crop area estimation", "class": "agrisat"}], "systems": [], "note": ""}}},
-"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI rules or harms."}}},
-"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI is used inside a sector (crop areas), not general administration."}}},
-"aisectoral": {"countries": {"EGY": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The National Authority for Remote Sensing and Space Sciences with the agriculture ministry estimated areas of nine strategic crops using satellite images and AI models, giving decision makers expected production and import or export needs, its chairman said.", "as_of": "2025-10-31", "date_precision": "day", "system": "NARSS crop area estimation", "class": "sectorai"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model release, dataset or computing facility stated."}}}
-}}

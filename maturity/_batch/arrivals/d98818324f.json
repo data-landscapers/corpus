@@ -1,7 +1,0 @@
-{"slug": "2026-02-17-gin-developpement-agricole-ekap-guinee-et-agriedge-scellent-un-partenariat", "studies": {
-"agrisatellite": {"countries": {"GIN": {"facts": [], "systems": [{"system": "EKAP Guinée / AgriEdge precision agriculture", "country_label": "EKAP Guinée - AgriEdge", "class": "other", "platform": "", "owner": "EKAP Guinée and AgriEdge (companies)", "tiers": ""}], "note": "A private company partnership with no government part; not the study's own class."}}},
-"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on AI rules or harms."}}},
-"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
-"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A company product with no public body using it."}}},
-"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A company partnership to offer services; no locally built AI stated."}}}
-}}

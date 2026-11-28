@@ -1,6 +1,0 @@
-{"slug": "2026-08-16-sdn-tasamuh-justice-minister-tables-cybersecurity-data-ai-digital-bills", "studies": {
-"aiabuse": {"countries": {"SDN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "Tasamuh News reports that Sudan's Minister of Justice placed a draft Law Regulating Data and Artificial Intelligence 2026 before the Council of Ministers ahead of approval.", "as_of": "2026-08-16", "date_precision": "day", "system": "Draft Law Regulating Data and Artificial Intelligence 2026", "class": "aiharm"}], "systems": [], "note": ""}}},
-"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A draft law only; no government AI system stated."}}},
-"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
-"aisystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}}
-}}

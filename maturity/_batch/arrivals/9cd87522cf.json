@@ -1,6 +1,0 @@
-{"slug": "2026-03-06-sen-tik-tok-meta-netflix-le-senegal-officialise-la-regulation-des-platefor", "studies": {
-"aiabuse": {"countries": {"SEN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "La Tribune Afrique reports that the National Assembly adopted bill 04/2026 creating the CNRM on 3 March 2026, which charges it with overseeing transparency of AI-generated content; no promulgation or entry into force is stated.", "as_of": "2026-03-03", "date_precision": "day", "system": "Bill 04/2026 creating the CNRM", "class": "aiharm"}], "systems": [{"system": "Conseil national de régulation des médias (CNRM)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "State", "tiers": ""}], "note": ""}}},
-"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
-"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
-"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
-}}

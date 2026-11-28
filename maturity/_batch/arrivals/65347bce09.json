@@ -1,7 +1,0 @@
-{"slug": "2024-07-05-sle-interpol-supports-sierra-leone-police-with-100-new-crime-data-workstat", "studies": {
-"coresystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Police crime data systems only; no finance, revenue or payroll core system."}}},
-"educationmis": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on education."}}},
-"health": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on health."}}},
-"healthmis": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on health."}}},
-"justice": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Police systems only; no court case system named."}}}
-}}

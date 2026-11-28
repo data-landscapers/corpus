@@ -1,6 +1,0 @@
-{"slug": "2025-11-11-tun-la-douane-tunisienne-lance-un-projet-national-de-numerisation-complete", "studies": {
-"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on rules or authority against AI harms."}}},
-"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The only AI mentioned is customs risk management, a sector system."}}},
-"aisectoral": {"countries": {"TUN": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Customs director general Mohamed Hedi Safer said Tunisian Customs is working to integrate artificial intelligence into risk management to speed clearance and improve control quality.", "as_of": "2025-11-11", "date_precision": "day", "system": "Customs risk management", "class": "sectorai"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}}
-}}

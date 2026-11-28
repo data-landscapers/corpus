@@ -1,5 +1,0 @@
-{"slug": "2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study", "studies": {
-"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [{"system": "Rental Tax Compliance System (rTCS)", "country_label": "Gambia", "class": "other", "platform": "ML valuation model built by RippleNami", "owner": "Ministry of Finance and Economic Affairs / Gambia Revenue Authority", "tiers": ""}], "note": "The ML tool prioritises tax audits, which is AI inside a sector (tax) system, not general administration."}}},
-"ailaw": {"countries": {"GMB": {"facts": [], "systems": [], "note": "DIAL says an AI governance framework is absent but states no law, draft or absence of a law on AI."}}},
-"aistrategy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only the 2023 National Digital Strategy is named; no AI strategy or drafting is stated."}}}
-}}

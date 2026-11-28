@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://www.unescwa.org/news/using-administrative-data-sources-produce-official-statistics-libya,fetched,,scripts/.workroot/study/admindata/cache/LBY/1.txt,300,html,Using administrative data sources to produce official statistics in Libya
-2,https://opendata.gia.gov.ly/dashboard/dataset/the-numerical-distribution-of-libyan-births,fetched,,scripts/.workroot/study/admindata/cache/LBY/2.txt,78,html,التوزيع العددي للمواليد الليبيين - منصة البيانات المفتوحة
-3,https://www.gia.gov.ly/wp-content/uploads/2025/01/2023czxs9iI_eAfVh3o_compressed.pdf,fetched,,scripts/.workroot/study/admindata/cache/LBY/3.txt,26707,pdf,Microsoft Word - REPORT 2023
-4,https://bsc.ly/wp-content/uploads/2026/01/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A-2023.pdf,fetched,,scripts/.workroot/study/admindata/cache/LBY/4.txt,13121,pdf,
-5,https://bsc.ly/wp-content/uploads/2026/01/%D8%A7%D8%AD%D8%B5%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-2024%D9%85.pdf,held,held as raw/2026/2026-01-01-lby-bsc-external-trade-statistics-2024.md,,0,,
-6,https://bsc.ly/vital-administrative/,fetched,,scripts/.workroot/study/admindata/cache/LBY/6.txt,29,html,الإحصاءات الحيوية والإدارية
-7,https://seha.ly/media/legislation/2022R1A7WwD.pdf,held,held as raw/2024/2024-02-01-lby-moh-annual-statistical-report-2022.md,,0,,
-8,https://applications.emro.who.int/docs/9789292745325-eng.pdf,fetched,,scripts/.workroot/study/admindata/cache/LBY/8.txt,7577,pdf,

@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf,held,held as raw/2026/2026-08-01-statistics-botswana-vital-statistics-report-2024.md,,0,,
-2,https://www.statsbots.org.bw/sites/default/files/publications/Primary%20Education%20Stats%20Brief%202022.pdf,held,held as raw/2026/2026-06-01-bwa-primary-education-stats-brief-2022.md,,0,,
-3,https://www.statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202024-25.pdf,held,held as raw/2025/2025-01-01-bwa-statistics-botswana-annual-report-2024-25.md,,0,,
-4,https://www.statsbots.org.bw/sites/default/files/documents/Publication%20Catalogue%20January-December%202025.pdf,fetched,,scripts/.workroot/study/admindata/cache/BWA/4.txt,6290,pdf,
-5,https://www.statsbots.org.bw/sites/default/files/publications/Tertiary%20Education%20Statistics%20Report%202024.pdf,fetched,,scripts/.workroot/study/admindata/cache/BWA/5.txt,38114,pdf,
-6,https://www.statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202023.pdf,held,held as raw/2025/2025-05-01-bwa-vital-statistics-report-2023.md,,0,,
-7,https://www.statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf,held,held as raw/2025/2025-02-17-statistics-botswana-annual-report-2023-24.md,,0,,
-8,https://www.statsbots.org.bw/merchandise-trade-statistics,fetched,,scripts/.workroot/study/admindata/cache/BWA/8.txt,301,html,Merchandise Trade Statistics

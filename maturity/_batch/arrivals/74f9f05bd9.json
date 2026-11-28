@@ -1,7 +1,0 @@
-{"slug": "2026-11-04-tun-ministry-of-finance-1-8-million-invoices-received-through-the-electron", "studies": {
- "businesspayments": {"countries": {"TUN": {"facts": [], "systems": [{"system": "Electronic invoicing platform", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "The platform's 1.8M invoices are not said to be government tenders or purchases."}}},
- "coresystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No finance, revenue or payroll system status is stated."}}},
- "egovservices": {"countries": {"TUN": {"facts": [], "systems": [{"system": "Unified tax account", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "The unified tax account is planned for Q1 2027; no launched or piloted service is stated."}}},
- "localgov": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
- "taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A planned taxpayer account is mentioned; no taxpayer register or number is described."}}}
-}}

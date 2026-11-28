@@ -1,9 +1,0 @@
-{"slug": "2026-03-10-nam-minister-halts-commissioner-recruitment", "studies": {
-"accesstoinformationlaw": {"countries": {"NAM": {"facts": [
-{"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "The Namibian reports that ICT minister Emma Theofelus halted recruitment of an information commissioner by letter of 27 February 2026, and that the Access to Information Act's oversight body is not yet established or operational.", "as_of": "2026-03", "date_precision": "month", "system": "Access to Information Act", "class": "law"}
-], "systems": [{"system": "Access to Information Act", "country_label": "Namibia", "class": "law", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""}], "note": ""}}},
-"opendatapolicy": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document is about the information commissioner and states nothing on an open data policy."}}},
-"opendatause": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No published data or portal is mentioned."}}},
-"policyresearch": {"countries": {"NAM": {"facts": [], "systems": [], "note": "IPPR is quoted on the commissioner's role, not as research on digital policy."}}},
-"publicconsultation": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The consultations mentioned concern operationalising the Access to Information Act, not a named digital law or policy; nothing is said to have been held."}}}
-}}

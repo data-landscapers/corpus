@@ -1,9 +1,0 @@
-{"slug": "2024-11-01-ssd-2024-survey-on-public-access-to-information-sdg-indicator-16-10-2-sout", "studies": {
-"accesstoinformationlaw": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "South Sudan's UNESCO SDG 16.10.2 return describes an access to information legal guarantee that provides for a national Information Commission with oversight, appeals, monitoring, enforcement and mediation roles.", "as_of": "2023", "date_precision": "year", "system": "Access to information legal guarantee", "class": "law"},
-{"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "The return says the Information Commission is 'under establishment', with no online request tool, no annual report and no statistics on requests or appeals in 2023.", "as_of": "2024-11", "date_precision": "month", "system": "Information Commission", "class": "law"}
-], "systems": [{"system": "Information Commission", "country_label": "South Sudan", "class": "law", "platform": "", "owner": "", "tiers": "national"}], "note": ""}}},
-"consumerprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The document is an access to information survey return and states nothing on digital financial services."}}},
-"dataprotectionauthority": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The return says no data protection body is the oversight institution; it states nothing on a data protection authority."}}},
-"dataprotectionlaw": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The document states nothing on a data protection law."}}}
-}}

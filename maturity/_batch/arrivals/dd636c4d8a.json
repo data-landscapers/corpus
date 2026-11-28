@@ -1,6 +1,0 @@
-{"slug": "2025-03-01-nam-e-visa-system-nets-n-19-million-in-one-month", "studies": {
-"itcapacity": {"countries": {"NAM": {"facts": [
-{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Namibia's Home Affairs ministry executive director said the electronic visa and visa-on-arrival system was designed and developed in-house by ministry staff with no external cost.", "as_of": "2025-03", "date_precision": "month", "system": "electronic visa and visa on arrival system", "class": "staff"},
-{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The ministry's in-house electronic visa on arrival system granted visas to 12,562 travellers who paid N$19 million in under a month, the executive director said.", "as_of": "2025-03", "date_precision": "month", "system": "electronic visa and visa on arrival system", "class": "staff"}
-], "systems": [{"system": "Electronic visa and visa on arrival system", "country_label": "e-visa system", "class": "staff", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}], "note": ""}}}
-}}

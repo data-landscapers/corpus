@@ -1,4 +1,0 @@
-{"slug": "2026-11-11-nga-nitda-review-digital-strategy-consultation", "studies": {
-"cloudstrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Cloud services are only named as an infrastructure need; no hosting or cloud policy is stated."}}},
-"ictstrategy": {"countries": {"NGA": {"facts": [], "systems": [{"system": "SRAP 2.0", "country_label": "NITDA Strategic Roadmap and Action Plan 2.0 (2024-2026)", "class": "other", "platform": "", "owner": "NITDA", "tiers": ""}], "note": "SRAP 2.0 is the agency's own roadmap, not stated as the government's ICT sector policy, and its adoption is not described."}}}
-}}

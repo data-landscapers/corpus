@@ -1,7 +1,0 @@
-{
-  "slug": "2026-11-08-lbr-lra-commissioner-general-highlights-revenue-growth-accountability-and",
-  "studies": {
-    "coresystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Names a revenue dashboard and collections figures but no tax, finance or payroll system in use."}}},
-    "egovservices": {"countries": {"LBR": {"facts": [], "systems": [{"system": "Fatu virtual taxpayer contact center", "country_label": "LRA virtual taxpayer contact center", "class": "other", "platform": "", "owner": "Liberia Revenue Authority", "tiers": ""}], "note": "Dashboard is information only and the taxpayer assistant was demonstrated, not yet in service; no transactional service stated."}}}
-  }
-}

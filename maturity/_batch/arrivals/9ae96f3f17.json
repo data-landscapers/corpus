@@ -1,6 +1,0 @@
-{"slug": "2026-01-01-egy-mcit-ict-strategy-page-publications-en", "studies": {
-"ictstrategy": {"countries": {"EGY": {"facts": [
-{"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The Ministry of Communications and Information Technology's own publications page lists Egypt's ICT Strategy 2014-2017, dated February 2013, as a downloadable strategy, and lists no later ICT strategy.", "as_of": "2013-02", "date_precision": "month", "system": "Egypt's ICT Strategy 2014-2017", "class": "sector"},
-{"sub_indicator": "sector", "aspect": "period", "value": "to:2017", "fact": "The ministry's page lists Egypt's ICT Strategy 2014-2017, described in the text as the 2013-2017 strategy, as the latest comprehensive ICT strategy publication.", "as_of": "2013-02", "date_precision": "month", "system": "Egypt's ICT Strategy 2014-2017", "class": "sector"}
-], "systems": [{"system": "Egypt's ICT Strategy 2014-2017", "country_label": "EGY", "class": "sector", "platform": "", "owner": "MCIT", "tiers": ""}, {"system": "National Cybersecurity Strategy 2023-2027", "country_label": "EGY", "class": "other", "platform": "", "owner": "MCIT", "tiers": ""}], "note": ""}}}
-}}

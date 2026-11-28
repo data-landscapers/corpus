@@ -34,6 +34,7 @@ The published product is `outputs/maturity/` and the compiled cell files. Everyt
 
 - **Facts stay in git, folded.** A night's arrivals restage a country from all its facts, in any study, so they must be on hand every night. The 145,745 part files become one `facts.jsonl` per cell, 6,210 files and the same 62 MB, appended to rather than added to.
 - `search*/`, `_batch/` and `readlist.csv` go to `corpus-maturity-work` on R2, one archive per study per night under `{study}/{date}.tar.gz`, written by the run that made them. Only a rebuild reads them, and it pulls its own study's archive.
+- **`readlist.csv` stays in git** *(housekeeping 91, 2026-11-28)*: every night's arrivals pass appends to it and `study-update.py close` writes it, so it is read nightly, not only at a rebuild. `search*/` and `_batch/` were untracked that day, 68,327 files; `scripts/maturity-archive.py` archives them.
 - Git keeps `study.json`, the study's markdown, its evidence summaries, the folded facts and the five compiled files per cell: about 38,000 files and 155 MB, so `maturity/` falls from 249,796 files to about 38,000 and the tree from 260,267 to about 48,000.
 - **History is not rewritten.** The pack keeps the old files; a shallow clone (`--depth 1`) is what a cloud run takes, and it gets the slim tree. A history rewrite would break every published commit link and is not worth 1.8 GB.
 - `git gc` runs once now and monthly in the cycle's upkeep: 455,502 loose objects are 4.9 GB that a pack would hold in a fraction, and every `git status` walks them.

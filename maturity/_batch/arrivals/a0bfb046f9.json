@@ -1,7 +1,0 @@
-{"slug": "2024-10-10-gab-lancement-de-la-plateforme-ibaghe-laninf-au-cur-de-la-transformation-n", "studies": {
-"itcapacity": {"countries": {"GAB": {"facts": [
-{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "ANINF, Gabon's national digital infrastructure agency, says it developed the IBAGHÉ SME registration platform with its own expertise, launched on 8 October 2024 with the SME ministry.", "as_of": "2024-10-08", "date_precision": "day", "system": "IBAGHÉ", "class": "staff"},
-{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "ANINF, the national digital agency, developed IBAGHÉ, an online SME registration platform and digitised registry, for the Ministry of SMEs, launched on 8 October 2024.", "as_of": "2024-10-08", "date_precision": "day", "system": "IBAGHÉ", "class": "staff"},
-{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "IBAGHÉ, developed through ANINF's expertise with no contractor named, was launched on 8 October 2024 as a public portal for online SME registration.", "as_of": "2024-10-08", "date_precision": "day", "system": "IBAGHÉ", "class": "staff"}
-], "systems": [{"system": "IBAGHÉ", "country_label": "IBAGHÉ", "class": "staff", "platform": "", "owner": "ANINF for the Ministry of SMEs", "tiers": ""}], "note": ""}}}
-}}

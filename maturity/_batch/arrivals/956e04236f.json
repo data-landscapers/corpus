@@ -1,8 +1,0 @@
-{"slug": "2025-09-01-nam-strengthening-civil-registration-and-vital-statistics-crvs-to-improve", "studies": {
-"admindata": {"countries": {"NAM": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "WHO AFRO reports that 20 staff of the Namibia Statistics Agency and the Ministry of Health and Social Services were trained over three days on tools for analysing mortality and cause-of-death data from civil registration and vital statistics.", "as_of": "2025-09-01", "date_precision": "day", "system": "CoDedit, DORIS and ANACoD3 mortality data analysis training", "class": "admin"}], "systems": [], "note": ""}}},
-"birthidlink": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document states nothing on a link between the civil register and the ID system."}}},
-"civilregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document says nothing on whether civil registration is digital."}}},
-"idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document says nothing on an ID number given at birth."}}},
-"idverification": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document says nothing on other systems verifying against the national ID."}}},
-"registry": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document says nothing on how local registry offices enter births or deaths."}}}
-}}

@@ -1,5 +1,0 @@
-{"slug": "2024-08-14-civ-cooperation-une-delegation-congolaise-s-inspire-de-l-experience-ivoiri", "studies": {
-"businesspayments": {"countries": {
-"CIV": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "At a 13 August 2024 working session with a Congolese delegation, Ivory Coast's public procurement directorate (DGMP) presented SIGOMAP, a dematerialised procurement system with separate spaces for economic operators and the administration, and a call centre supporting its use, as the product of work since 2002.", "as_of": "2024-08-13", "date_precision": "day", "system": "SIGOMAP", "class": "procurement"}], "systems": [{"system": "SIGOMAP", "country_label": "Système Intégré de Gestion des Opérations des Marchés Publics (V2)", "class": "procurement", "platform": "", "owner": "DGMP", "tiers": ""}], "note": ""},
-"COG": {"facts": [], "systems": [], "note": "A Congolese delegation visited to learn from Ivory Coast; no Congolese e-procurement system is stated."}}}
-}}

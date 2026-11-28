@@ -1,9 +1,0 @@
-{"slug": "2023-11-13-tun-economistemaghrebin-isie-mise-a-jour", "studies": {
-"addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
-"businessregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
-"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
-"landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
-"populationregister": {"countries": {"TUN": {"facts": [], "systems": [{"system": "Voter register (ISIE)", "country_label": "Tunisia", "class": "other", "platform": "touenssa.isie.tn", "owner": "ISIE", "tiers": ""}], "note": "A voter roll is not a population register."}}},
-"registry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, not civil registration offices."}}},
-"socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}}
-}}

@@ -1,7 +1,0 @@
-{"slug": "2025-05-27-mrt-la-conference-internationale-de-nouakchott-sur-l-intelligence-artifici", "studies": {
-"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government AI system is stated; only a conference."}}},
-"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The final report urges AI in sectors; no tool is stated."}}},
-"aistrategy": {"countries": {"MRT": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The closing account of the Nouakchott international AI conference says the conference presented the national strategy for artificial intelligence; it does not say the government adopted it.", "as_of": "2025-05-27", "date_precision": "day", "system": "stratégie nationale pour l'intelligence artificielle", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
-}}

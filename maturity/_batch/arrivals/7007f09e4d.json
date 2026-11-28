@@ -1,4 +1,0 @@
-{"slug": "2024-01-01-bfa-estimation-des-rendements-fourragers-des-paturages-dans-les-espaces-cl", "studies": {
-"agrisatellite": {"countries": {"BFA": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "A 2024 CIRAD journal study by Burkinabe and partner researchers tested, for the first time, NDVI and FAPAR satellite variables to estimate pasture fodder yields across Burkina Faso's climatic zones, with weak results outside the Sahel (R2 press 0.07 to 0.36).", "as_of": "2024", "date_precision": "year", "system": "Fodder yield estimation from NDVI and FAPAR", "class": "agrisat"}], "systems": [], "note": ""}}},
-"censuses": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on census or household surveys."}}}
-}}

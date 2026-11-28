@@ -1,8 +1,0 @@
-{"slug":"2026-11-27-ben-benin-calls-for-inclusive-ai-development-that-respects-personal-data-a","studies":{
-"aiabuse":{"countries":{"BEN":{"facts":[],"systems":[],"note":"A call for responsible AI at a panel; no rule or authority for AI harms stated."}}},
-"aigovernment":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No government AI system stated."}}},
-"aisectoral":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
-"aisystems":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
-"dataprotectionauthority":{"countries":{"BEN":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"Dr. Luciano Hounkponou is named as President of Benin's Personal Data Protection Authority (APDP) and represented Benin at the 48th Global Privacy Assembly in Brussels, 16-19 November 2026.","as_of":"2026-11","date_precision":"month","system":"APDP","class":"authority"}],"systems":[],"note":""}}},
-"dataprotectionlaw":{"countries":{"BEN":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"Benin's Personal Data Protection Authority (APDP) has a sitting president, Dr. Luciano Hounkponou, who spoke for Benin at the 48th Global Privacy Assembly in November 2026.","as_of":"2026-11","date_precision":"month","system":"APDP","class":"general"}],"systems":[],"note":""}}}
-}}

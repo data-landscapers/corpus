@@ -170,3 +170,10 @@ build/whos-who/positions.csv
 build/whos-who/merge-candidates.csv
 build/whos-who/authors.csv
 logs/claim-audit/
+
+# Maturity working files leave git (R173, documentation/git-weight.md, housekeeping 91): a
+# night's arrivals batch and a rebuild's search are read that night only, and history keeps
+# every version committed before 2026-11-28. scripts/maturity-archive.py sends them to R2.
+maturity/_batch/
+maturity/*/search/
+maturity/*/search-*/

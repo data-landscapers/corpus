@@ -1,5 +1,0 @@
-{"slug": "2026-01-01-mus-mauritius-postal-addressing-system", "studies": {
-"addressregister": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Mauritius postcode", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "The Mauritius Post Ltd", "tiers": "district, town, ward, sub-locality code"}], "note": "The sheet describes a postcode and address format only; it does not state a register or an addressing programme."}}},
-"digitalskills": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document states nothing on digital skills."}}},
-"schoolinternet": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document states nothing on school internet or curriculum."}}}
-}}

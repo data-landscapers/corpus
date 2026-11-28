@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://www.oc.gov.ma/sites/default/files/2026-10/Rapport%20Annuel%20Commerce%20Ext%C3%A9rieur%202025.pdf,held,held as raw/2026/2026-10-01-mar-commerce-exterieur-du-maroc-rapport-annuel-2025.md,,0,,
-2,https://www.hcp.ma/file/247383/,fetched,,scripts/.workroot/study/admindata/cache/MAR/2.txt,256937,pdf,
-3,https://www.hcp.ma/file/247382/,fetched,,scripts/.workroot/study/admindata/cache/MAR/3.txt,257708,pdf,
-4,https://www.hcp.ma/file/248623/,held,held as raw/2026/2026-01-01-mar-les-indicateurs-sociaux-du-maroc-edition-2026.md,,0,,
-5,https://www.hcp.ma/file/244142/,fetched,,scripts/.workroot/study/admindata/cache/MAR/5.txt,58902,pdf,INDICATEURS SOCIAUX
-6,https://www.dst.dk/en/OmDS/consulting/projects/morocco-2024-2026,fetched,,scripts/.workroot/study/admindata/cache/MAR/6.txt,393,html,Morocco 2024-2026
-7,https://jms2025.hcp.ma/assets/documents/2%20Azizi%20HCP.pdf,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,
-8,https://www.men.gov.ma/sites/default/files/statistique_2024-25%20VF%20(2).pdf,unfetchable,ConnectTimeout; Wayback ConnectionError,,0,,

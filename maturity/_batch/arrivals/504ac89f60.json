@@ -1,9 +1,0 @@
-{"slug": "2026-11-24-lby-cepex-urges-exporters-to-libya-to-obtain-e-id", "studies": {
-"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The electronic identification number is a trade registration for foreign suppliers, not a service confirming a person's identity."}, "TUN": {"facts": [], "systems": [], "note": "Tunisian exporters are only urged to register in Libya's trade system; nothing on Tunisian authentication."}}},
-"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}, "TUN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No national ID count or share is stated."}, "TUN": {"facts": [], "systems": [], "note": "No national ID count or share is stated."}}},
-"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}, "TUN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}, "TUN": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
-"idregisters": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The Unified Digital Trade System registers foreign suppliers; no register keyed on a national ID number is stated."}, "TUN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the national ID number."}}},
-"idrobustness": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}, "TUN": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}}}
-}}

@@ -1,9 +1,0 @@
-{"slug": "2025-11-05-nga-court-orders-release-of-ondo-cct-beneficiaries-names", "studies": {
-"accesstoinformationlaw": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Federal High Court in Abuja held that the Ministry of Humanitarian Affairs violated the Freedom of Information Act, 2011, by refusing a request for information, so the Act is in force.", "as_of": "2025-11-03", "date_precision": "day", "system": "Freedom of Information Act, 2011", "class": "law"},
-{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Justice Binta Nyako of the Federal High Court ordered the Ministry to release the Ondo cash-transfer beneficiary list within seven days and awarded N2m damages for breaching the applicant's right under the FOI Act.", "as_of": "2025-11-03", "date_precision": "day", "system": "Freedom of Information Act, 2011", "class": "law"}
-], "systems": [], "note": ""}}},
-"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document is about a court order on disclosure of beneficiary names and states nothing on how payments are made."}}},
-"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
-"socialprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Names the Conditional Cash Transfer Programme but states nothing on a management information system."}}}
-}}

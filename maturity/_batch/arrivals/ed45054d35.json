@@ -1,9 +1,0 @@
-{"slug": "2025-04-06-zmb-ungegn-crp119-geographical-names-standardization-zambia", "studies": {
-"addressregister": {"countries": {"ZMB": {"facts": [
-{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "Zambia's draft street naming and addressing policy, covering postcode and digital addressing and a national address database, awaits final approval, and ZICTA's ongoing National Addressing and Postcode Project has addressed about 15 Lusaka neighbourhoods, according to the UNGEGN paper submitted by Zambia.", "as_of": "2025-04-06", "date_precision": "day", "system": "National Addressing and Postcode Project (NAPP)", "class": "address"}
-], "systems": [{"system": "National Addressing and Postcode Project (NAPP)", "country_label": "Zambia", "class": "address", "platform": "", "owner": "ZICTA", "tiers": ""}], "note": ""}}},
-"digitalskills": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The document states nothing on public digital skills."}}},
-"localgov": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The document states nothing on local government office connections."}}},
-"publicconsultation": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The document names stakeholder committees on place-name policy, not a consultation on a digital law with outside participants; nothing stated that answers the study."}}},
-"schoolinternet": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The document states nothing on school internet or curriculum."}}}
-}}

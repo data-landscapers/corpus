@@ -1,7 +1,0 @@
-{"slug": "2025-12-05-eth-draft-transparency-law-circulates-for-seven-years-still-no-government", "studies": {
-"accesstoinformationlaw": {"countries": {"ETH": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Birr Metrics reports a draft access to information proclamation to replace Proclamation 590/2008, first drafted in 2018, has been forwarded to the Ministry of Justice and has not been presented to the Council of Ministers.", "as_of": "2025-12-05", "date_precision": "day", "system": "Draft Access to Information Proclamation", "class": "law"},
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Birr Metrics reports Ethiopia's access to information framework dates from Proclamation No. 590/2008, which the draft is meant to replace.", "as_of": "2025-12-05", "date_precision": "day", "system": "Freedom of the Mass Media and Access to Information Proclamation 590/2008", "class": "law"}
-], "systems": [{"system": "Freedom of the Mass Media and Access to Information Proclamation 590/2008", "country_label": "Ethiopia", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on digital financial services protection."}}}
-}}

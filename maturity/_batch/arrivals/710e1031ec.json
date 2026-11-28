@@ -1,7 +1,0 @@
-{"slug": "2026-03-18-zaf-cassava-scales-african-ai-infrastructure-with-nvidia-powered-ai-factor", "studies": {
-"datacentres": {"countries": {
-"MAR": {"facts": [], "systems": [], "note": "Morocco is only named as a planned later site; nothing in service."},
-"ZAF": {"facts": [
-{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Cassava Technologies said on 18 March 2026 it is deploying its NVIDIA-powered AI Factory in South Africa, offering GPU-as-a-service and AI APIs to enterprises and governments, with the CSIR and Zindi named as partners.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "datacentre"}
-], "systems": [{"system": "Cassava AI Factory", "country_label": "South Africa", "class": "datacentre", "platform": "NVIDIA", "owner": "Cassava Technologies", "tiers": ""}], "note": ""}}}
-}}

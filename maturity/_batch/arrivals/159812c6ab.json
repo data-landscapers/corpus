@@ -1,7 +1,0 @@
-{"slug": "2025-12-01-gin-ecofin-guinea-launches-work-national-ai-strategy", "studies": {
-"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
-"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
-"aistrategy": {"countries": {"GIN": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Ecofin Agency reports that Guinea's digital-economy ministry (MPTEN) met its sectoral Strategic Development Bureaus to start drafting a national AI strategy, following an October 2025 UNDP-supported assessment.", "as_of": "2025-11", "date_precision": "month", "system": "national AI strategy", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
-}}

@@ -1,7 +1,0 @@
-{"slug": "2025-03-06-sle-sierra-leone-police-unveils-2024-crime-statistics-report", "studies": {
-"admindata": {"countries": {"SLE": {"facts": [
-{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Sierra Leone Police launched its 2024 Crime Statistics Report on 5 March 2025, recording 29,015 criminal and road traffic offences in 2024 against 30,491 in 2023, per Regional Commander AIG Koroma.", "as_of": "2025-03-05", "date_precision": "day", "system": "2024 Crime Statistics Report", "class": "admin"},
-{"sub_indicator": "admin", "aspect": "source", "value": "police", "fact": "The Inspector General of Police called the Sierra Leone Police the authoritative source of crime statistics, and the report counts offences the police recorded in 2024.", "as_of": "2025-03-05", "date_precision": "day", "system": "2024 Crime Statistics Report", "class": "admin"}
-], "systems": [{"system": "2024 Crime Statistics Report", "country_label": "Sierra Leone Police Crime Statistics Report 2024", "class": "admin", "platform": "", "owner": "Sierra Leone Police", "tiers": ""}], "note": ""}}},
-"police": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Crime counts only (statistics class); no station-level digital record stated."}}}
-}}

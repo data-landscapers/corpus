@@ -1,8 +1,0 @@
-{"slug": "2024-01-24-sen-conseil-des-ministres-du-24-janvier-2024", "studies": {
-"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
-"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on AI use in public administration."}}},
-"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on AI in a sector's public system."}}},
-"aistrategy": {"countries": {"SEN": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "At the 24 January 2024 Council of Ministers the President told the communications, telecoms and digital minister to finalise as soon as possible the inclusive validation of the national AI strategy, to secure its rapid financing and systematic deployment.", "as_of": "2024-01-24", "date_precision": "day", "system": "Stratégie nationale d'Intelligence artificielle", "class": "strategy"}], "systems": [{"system": "Stratégie nationale d'Intelligence artificielle", "country_label": "Sénégal", "class": "strategy", "platform": "", "owner": "Ministère de la Communication, des Télécommunications et du Numérique", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on AI models, datasets or computing built in the country."}}},
-"localgov": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on local government office connection."}}}
-}}

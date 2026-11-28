@@ -1,8 +1,0 @@
-{"slug": "2025-07-18-nga-court-orders-npc-to-release-procurement-records-under-foi-act", "studies": {
-"accesstoinformationlaw": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Punch reports the Federal High Court in Abuja held on 15 July 2025 that the National Population Commission's refusal of a records request breached rights under Sections 1, 2 and 4 of the FOI Act, 2011.", "as_of": "2025-07-15", "date_precision": "day", "system": "Freedom of Information Act, 2011", "class": "law"},
-{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Punch reports Justice H.J. Yilwa of the Federal High Court ordered the National Population Commission on 15 July 2025 to release procurement records requested by NEFGAD under the Freedom of Information Act.", "as_of": "2025-07-15", "date_precision": "day", "system": "Freedom of Information Act, 2011", "class": "law"}
-], "systems": [{"system": "Freedom of Information Act, 2011", "country_label": "FOI Act 2011", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The e-procurement portal is named only as a contract at the Population Commission under dispute; nothing states it is built, piloted or in service."}}},
-"censuses": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document states nothing about a census count, results or a survey."}}}
-}}

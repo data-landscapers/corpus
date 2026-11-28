@@ -1,9 +1,0 @@
-{"slug": "2025-06-01-egy-almasryalyoum-mcit-minister-national-real-estate-number", "studies": {
-"authentication": {"countries": {"EGY": {"facts": [], "systems": [{"system": "National real-estate number", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": "The document covers a property identifier, not authentication of people."}}},
-"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on links between civil register and ID system."}}},
-"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Gives no count or share of people holding a national ID."}}},
-"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on ID numbers given at birth."}}},
-"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
-"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The property number is not a register keyed on the national ID number."}}},
-"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself; the property number is not a person ID."}}}
-}}

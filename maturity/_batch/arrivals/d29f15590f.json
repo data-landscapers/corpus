@@ -1,6 +1,0 @@
-{"slug": "2025-10-01-eri-report-of-monitoring-early-warning-of-desert-locust-desert-locust-moni", "studies": {
-"agrisatellite": {"countries": {"ERI": {"facts": [
-{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "The Aerospace Information Research Institute of the Chinese Academy of Sciences reports a remote sensing estimate that desert locusts affected 15.2 thousand hectares of vegetation in Eritrea in September 2025, 4.8 thousand of it cropland.", "as_of": "2025-09", "date_precision": "month", "system": "Vegetation pests and diseases monitoring and forecasting system", "class": "agrisat"}],
-"systems": [{"system": "Vegetation pests and diseases monitoring and forecasting system", "country_label": "Desert locust monitoring, Eritrea", "class": "other", "platform": "", "owner": "Aerospace Information Research Institute, Chinese Academy of Sciences", "tiers": ""}], "note": ""}}},
-"policyresearch": {"countries": {"ERI": {"facts": [], "systems": [], "note": "Nothing on digital policy research."}}}
-}}

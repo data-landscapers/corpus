@@ -1,8 +1,0 @@
-{"slug": "2025-05-20-eth-ethiopia-delivers-on-ai-potential-paves-the-way-for-african-innovation", "studies": {
-"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The director general says Ethiopia did not begin with regulation; no rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Pilots are listed by sector with no government body's own administrative AI use identified."}}},
-"aisectoral": {"countries": {"ETH": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Ethiopian AI Institute's director general said Ethiopia first unlocked innovation by piloting AI solutions across health, agriculture, transport, customs, judiciary, law enforcement and finance.", "as_of": "2025-05-20", "date_precision": "day", "system": "AI pilots across sectors", "class": "sectorai"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is named."}}},
-"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No startup law, strategy or fund is stated."}}},
-"techhubs": {"countries": {"ETH": {"facts": [], "systems": [], "note": "An expo is named; no hub, incubator or park is described."}}}
-}}

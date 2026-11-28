@@ -1,7 +1,0 @@
-{"slug": "2026-11-22-ben-benin-des-conseillers-en-intelligence-artificielle-bientot-au-cur-des", "studies": {
-"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "AI advisers named to ministries; no AI system tested or in service stated."}}},
-"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Sector applications only envisaged."}}},
-"aistrategy": {"countries": {"BEN": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Africaho reports that Benin adopted its national AI and big-data strategy 2023-2027 on 18 January 2023, which the digital minister says the new AI adviser arrangement accelerates.", "as_of": "2023-01-18", "date_precision": "day", "system": "Stratégie nationale d'intelligence artificielle et des mégadonnées 2023-2027", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only a possible health model mentioned; nothing built."}}}
-}}

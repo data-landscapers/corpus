@@ -1,8 +1,0 @@
-{"slug": "2026-10-28-tgo-developpement-numerique-au-togo-un-assistant-ia-permet-desormais-d-acc", "studies": {
-"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
-"aigovernment": {"countries": {"TGO": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Togo's Ministry of Digital Economy and Digital Transformation has made a conversational AI assistant available to the public on the National Digital Observatory platform, letting users query digital statistics in natural language.", "as_of": "2026-10-28", "date_precision": "day", "system": "Observatoire national du numerique conversational assistant", "class": "govai"}], "systems": [{"system": "Observatoire national du numerique conversational assistant", "country_label": "Togo", "class": "govai", "platform": "National Digital Observatory", "owner": "Ministry of Digital Economy and Digital Transformation", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Assistant is a general statistics-access tool, not inside a sector's public system."}}},
-"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No local AI model, dataset or computing stated."}}},
-"internationalstandards": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only says observatory indicators follow international norms; no standards body membership, adopted standard or rule."}}},
-"internetusage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No internet usage share stated; the 10.1 per cent figure is generative AI adoption only in a link title."}}}
-}}

@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://new.instatgabon.org/uploads/snds/RAPPORT%20FINAL%20EVALUATION%20SNDS_290126.pdf,held,held as raw/2025/2025-01-01-gab-rapport-d-evaluation-a-mi-parcours-de-la-snds-2023-2025.md,,0,,
-2,https://union.sonapresse.com/fr/education-vers-lelaboration-dun-annuaire-statistique,held,held as raw/2024/2024-07-09-gab-lunion-atelier-annuaire-statistique-education.md,,0,,
-3,https://new.instatgabon.org/uploads/folder_1/RGOE/Annuaire_2020-2021_31_10_2023_.pdf,held,held as raw/2023/2023-02-01-gab-annuaire-statistique-2020-2021-du-secteur-de-l-education-et-de-la-form.md,,0,,
-4,https://budget.gouv.ga/wp-content/uploads/budget-source/fe5cdda988bb4849eda8.pdf,fetched,,scripts/.workroot/study/admindata/cache/GAB/4.txt,52074,pdf,
-5,http://www.dgepf.ga/object.getObject.do?id=316,held,held as raw/2024/2024-01-01-gab-dgepf-tableau-de-bord-social-2013-2021.md,,0,,
-6,https://new.instatgabon.org/fr/pds?page=10,fetched,,scripts/.workroot/study/admindata/cache/GAB/6.txt,90,html,pds
-7,https://douanes.ga/medias/documents,fetched,,scripts/.workroot/study/admindata/cache/GAB/7.txt,93,html,Documents - Direction générale des douanes et droits indirects
-8,https://agpgabon.ga/la-dgs-face-au-defi-de-la-diffusion-des-donnees-statistiques/,fetched,,scripts/.workroot/study/admindata/cache/GAB/8.txt,432,html,La DGS face au défi de la diffusion des données statistiques - AGP - Agence Gabonaise de Presse

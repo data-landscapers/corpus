@@ -1,4 +1,0 @@
-{"slug": "2026-01-28-dza-echorouk-onilev-satellite-monitoring-strategic-crops", "studies": {
-"agrisatellite": {"countries": {"DZA": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "Echorouk reports that a project between Algeria's agriculture ministry and the Algerian Space Agency to set up a permanent satellite-imagery monitoring and evaluation mechanism for strategic farm sectors is under way, with ONILEV adopting a digital roadmap for it.", "as_of": "2026-01-28", "date_precision": "day", "system": "Permanent satellite-imagery monitoring and evaluation mechanism for strategic farm sectors", "class": "agrisat"}], "systems": [], "note": ""}}},
-"digitalstrategy": {"countries": {"DZA": {"facts": [], "systems": [], "note": "ONILEV's digital roadmap is a board-level plan, not a national strategy."}}}
-}}

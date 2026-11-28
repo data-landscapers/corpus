@@ -1,9 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2021_2025_vf.pdf,fetched,,scripts/.workroot/study/admindata/cache/NER/1.txt,63259,pdf,C:\Users\HP PROBOOK\Desktop\Ate
-2,https://stat-niger.org/wp-content/uploads/etat_civil/bts_etat_civil_1T2026.pdf,held,held as raw/2026/2026-07-01-ner-bulletin-des-statistiques-des-faits-d-etat-civil-du-premier-trimestre.md,,0,,
-3,https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/bulletin/Bulletin_commerce_exterieur_4T_2025_VF.pdf,fetched,,scripts/.workroot/study/admindata/cache/NER/3.txt,12740,pdf,
-4,https://stat-niger.org/wp-content/uploads/rapport_enquete/Rapport_sur_etat_de_la_statistique_du_SSN_2024.pdf,held,held as raw/2025/2025-12-01-rapport-etat-statistique-2024-niger.md,,0,,
-5,https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/bulletin/Bulletin_des_Statistiques_annuelles_definitives_2024_VF.pdf,held,held as raw/2025/2025-10-01-ner-bulletin-des-statistiques-du-commerce-exterieur-donnees-definitives-20.md,,0,,
-6,https://stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/ministere_sante/Annuaire_Statistiques_Sanitaire_2024.pdf,fetched,,scripts/.workroot/study/admindata/cache/NER/6.txt,146223,pdf,
-7,https://stat-niger.org/wp-content/uploads/etat_civil/rapport_etat_civil_2024.pdf,held,held as raw/2025/2025-05-01-ner-rapport-d-analyse-des-faits-de-l-etat-civil-dans-dix-huit-18-communes.md,,0,,
-8,https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MEN/Annuaire_MENAFPPLN_2024_2025_vf.pdf,held,held as raw/2025/2025-12-04-men-niger-annuaire-statistique-2024-2025.md,,0,,

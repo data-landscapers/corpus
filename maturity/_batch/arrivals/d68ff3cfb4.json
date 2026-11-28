@@ -1,7 +1,0 @@
-{"slug": "2024-09-16-cog-congo-vers-la-mise-en-place-dun-portail-national-de-services-publics", "studies": {
-"birthidlink": {"countries": {"COG": {"facts": [], "systems": [], "note": "Document says nothing on a civil register link."}}},
-"civilregister": {"countries": {"COG": {"facts": [], "systems": [], "note": "Archive digitisation appears only as a link title; document states nothing on registration."}}},
-"egovservices": {"countries": {"COG": {"facts": [], "systems": [{"system": "Portail des services publics", "country_label": "Portail national des services publics", "class": "eservices", "platform": "built by ADDINN", "owner": "Agence de developpement de l'economie numerique; PATN (World Bank financed)", "tiers": ""}], "note": "Portal being built with beta due in four months; no portal launched or service piloted stated."}}},
-"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [], "note": "Document says nothing on an ID number at birth."}}},
-"registry": {"countries": {"COG": {"facts": [], "systems": [], "note": "Document says nothing on registry offices."}}}
-}}

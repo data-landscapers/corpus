@@ -14,7 +14,7 @@ last_reviewed: 2026-11-15
 
 `study-update.py` → `HELD` is the switch, off since 2026-10-17 *(Bill)*.
 
-`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rebuild's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries, `paragraph-brief.md` for its lead, and the share's `documentation/prose-style.md` last.
+`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rebuild's rules. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries, `paragraph-brief.md` for its lead, and the share's `documentation/prose-style.md` last.
 
 **The facts are in news, not in large documents** *(Bill, 2026-10-17)*: instruments, stories older than the three-year window and a country's stories past 20 are closed unread.
 
@@ -69,7 +69,7 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
    Between them, one Sonnet writer a packet, under `paragraph-brief.md` *(R162)*.
 
    A lint failure is repaired before the commit; a cell that cannot be repaired is restored from git and its arrival left open.
-10. **Commit** `maturity/{id}/evidence/`, `outputs/maturity/{id}/` and nothing else; RENDER builds the pages. The log line carries the counts: arrivals, facts, reassessments, stages moved.
+10. **Commit** `maturity/{id}/evidence/`, `outputs/maturity/{id}/` and nothing else; RENDER builds the pages. The log line counts arrivals, facts, reassessments and stages moved. Then `python scripts/maturity-archive.py _batch` *(R173)*.
 
 ## The rebuild — two indicators a night
 
@@ -112,7 +112,7 @@ python scripts/study-update.py next           # any other cycle
     python scripts/log-line.py rebuild "{id} {key}: <n> cells reassessed, <n> moved; <n> searched, <n> staged; <M>M tokens — ok"
     ```
 
-    Commit `maturity/{id}/`, `outputs/maturity/{id}/` and `logs/maturity-review.csv`, explicit paths, and push.
+    Commit `maturity/{id}/`, `outputs/maturity/{id}/` and `logs/maturity-review.csv`, explicit paths, and push. Then `python scripts/maturity-archive.py {id}`.
 
 **A rebuild that cannot finish** restores its files to `HEAD`, is not stamped, logs `errored` and never holds the render.
 

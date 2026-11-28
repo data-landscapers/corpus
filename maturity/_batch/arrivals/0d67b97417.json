@@ -1,8 +1,0 @@
-{"slug": "2026-05-01-sle-an-ensemble-machine-learning-approach-for-pre-harvest-rice-yield-forec", "studies": {
-"agrisatellite": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Academic paper on Sentinel-2 rice yield model for Kambia and Bombali; names no ministry, agency or institute using it, and no service."}}},
-"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No government body using AI stated."}}},
-"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A proposed research model, not an AI tool in a public sector system."}}},
-"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No AI model release or computing in the country stated; model is a paper's proposal."}}},
-"policyresearch": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No digital policy research institution named."}}}
-}}

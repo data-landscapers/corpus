@@ -1,4 +1,0 @@
-{"slug": "2026-11-25-dza-casnos-14-services", "studies": {
-"disabilityaccess": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The services added are social-security services with no accessibility feature or rule stated."}}},
-"egovservices": {"countries": {"DZA": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Algeria's High Commission for Digitalization said on 24 November 2026 that 14 new CASNOS services, such as contribution declaration, online payment and appointment booking, were integrated into the national Dzair Digital Services portal.", "as_of": "2026-11-24", "date_precision": "day", "system": "Dzair Digital Services", "class": "eservices"}], "systems": [{"system": "Dzair Digital Services", "country_label": "Algeria", "class": "eservices", "platform": "National Portal of Digital Services", "owner": "High Commission for Digitalization", "tiers": ""}], "note": ""}}}
-}}

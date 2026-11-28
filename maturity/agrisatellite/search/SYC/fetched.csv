@@ -1,7 +1,0 @@
-k,url,status,detail,cache,words,kind,page_title
-1,https://www.meteo.sc/documents/3181/SMA-CLI-FM-011_-_MONTHLY_CLIMATE_BULLETIN-SEPTEMBER_2026.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/SYC/1.txt,2772,pdf,
-2,https://alliancehydromet.org/wp-content/uploads/2025/06/CHD-Report-Seychelles-final-draft_12June2025.pdf,held,held as raw/2025/2025-06-12-syc-saws-country-hydromet-diagnostics.md,,0,,
-3,https://www.fao.org/giews/earthobservation/country/index.jsp?code=SYC&lang=en,fetched,,scripts/.workroot/study/agrisatellite/cache/SYC/3.txt,870,html,FAO.org
-4,https://www.ccardesa.org/sites/default/files/knowledge-products/CCARDESA%20Digital%20Agriculture%20County%20Study%20-%20Seychelles.pdf,held,held as raw/2021/2021-01-01-ccardesa-digital-agriculture-country-study-seychelles.md,,0,,
-5,https://www.ciwaprogram.org/wp-content/uploads/SADRI_Drought_Resilience_Profile_Seychelles.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/SYC/5.txt,5548,pdf,Seychelles_v1
-6,https://www.nation.sc/articles/3524/stakeholders-learn-to-use-new-data-collection-technology-for-better-land-use-planning,fetched,,scripts/.workroot/study/agrisatellite/cache/SYC/6.txt,529,html,Stakeholders learn to use new data collection technology for better land use planning

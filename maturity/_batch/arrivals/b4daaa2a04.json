@@ -1,7 +1,0 @@
-{"slug": "2026-03-16-ben-presidentielle-du-12-avril-la-haac-encadre-la-campagne-mediatique", "studies": {
-"aiabuse": {"countries": {"BEN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "Benin's media regulator HAAC, in decision n°26-003 of 3 March 2026 for the 12 April presidential election, requires media to refrain from manipulating information or candidates' words through uncontrolled and irresponsible use of AI, with disciplinary or administrative sanctions for violations.", "as_of": "2026-03-03", "date_precision": "day", "system": "HAAC decision n°26-003/HAAC", "class": "aiharm"}], "systems": [], "note": "No dated enforcement under the decision is stated."}}},
-"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
-"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No sector system use stated."}}},
-"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI built in the country stated."}}},
-"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
-}}
