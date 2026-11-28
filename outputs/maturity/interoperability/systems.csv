@@ -12,6 +12,7 @@ AGO,Janela Única Logística,Janela Única Logística,other,,"Ministry of Transp
 AGO,Sistema de Pagamentos em Tempo Real (SPTR),SPTR,other,ISO 20022,Banco Nacional de Angola (BNA) with EMIS and BODIVA,banks and payment system participants,2026-07-16-bna-conclui-migracao-iso-20022
 AGO,"Bilhete de Identidade issuance, linked to the birth registration system",Bilhete de Identidade,other,,Ministry of Justice and Human Rights,"national, provincial",2026-07-01-impressao-do-bi-abrange-todas-as-provincias
 AGO,Projecto de Infra-estruturas Digitais Públicas / plataforma de interoperabilidade,Digitais Públicas,other,,"Instituto de Modernização Administrativa (IMA), contractor TIS Tech Angola",ministries and public services,2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas
+AGO,SEPE,Angola,,,Ministério das Telecomunicações e Tecnologias de Informação,,2026-11-06-dpi-map-2026-11-12
 BDI,EAC Secure Data Sharing Framework (proposed regional cross-border data flow framework),,other,,"East African Community, under the World Bank-supported Eastern Africa Regional Digital Integration Project",,2026-06-25-eac-backs-secure-data-sharing-framework
 BDI,e-KORI,e-KORI,other,,OBR (Office burundais des recettes),national,2026-08-10-burundi-ekori-tax-registration-data-exchange
 BDI,easybusiness.bi,easybusiness.bi,other,,ADB (Agence de développement du Burundi),national,2026-08-10-burundi-ekori-tax-registration-data-exchange
@@ -24,6 +25,9 @@ BEN,Catalogue des solutions interopérables (CatIS),CatIS,other,,,,2020-03-18-be
 BEN,Politique d'architecture des systèmes d'information de l'État (PASI),PASI,framework,,ASIN,"ministries, institutions, agencies, local authorities",2026-07-01-pasi-pdaie-architecture-systemes-etat
 BEN,Politique de développement et d'intégration des applications de l'État (PDAIE),PDAIE,other,,ASIN,"ministries, institutions, agencies, local authorities",2026-07-01-pasi-pdaie-architecture-systemes-etat
 BEN,UXP Directory (Benin X-Road/UXP exchange dashboard),Benin,other,UXP (Cybernetica),Government of Benin,,2026-07-11 UXP Directory
+BEN,X-Road BJ,Benin,,X-Road,Information Systems and Digital Agency,,2026-11-06-dpi-map-2026-11-12
+BEN,XROAD BJ (National Interoperability Platform),Benin,other,X-Road,ASIN,,2026-09-17-ben-benin-s-national-interoperability-platform-achieves-205m-secure-reques
+BEN,XROAD BJ (UXP),Benin,other,X-Road via UXP,ASIN,,2026-08-12-ben-how-did-you-manage-to-connect-an-entire-state
 BFA,Referentiel general d'interoperabilite (RGI),Referentiel general d'interoperabilite,framework,,Ministry of Digital Economy and Posts (DGTIC),public administrations,2019-10-15-bfa-burkina24-referentiel-interoperabilite-administration
 BFA,Referentiel general d'interoperabilite,Burkina Faso,framework,,,,2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl
 BWA,National Interoperability framework,National Interoperability framework,framework,,"Government of Botswana, supported by Expertise France and ESTDEV",e-government services; government institutions,2026-02-17-eu-support-digital-transformation-botswana
@@ -49,6 +53,7 @@ CIV,Référentiel Général d'Interopérabilité (RGI),Référentiel Général d
 CIV,plateforme d'interopérabilité des systèmes d'information de l'administration,Plateforme d'interopérabilité,other,,Ministère de la Transition Numérique et de l'Innovation Technologique,,2026-09-15-civ-afriqueeconomie-pnd-2026-2030-541-milliards-numerique
 CIV,Plateforme d'interopérabilité des systèmes d'information de l'administration,Plateforme d'interopérabilité,other,,Ministère de la Transition numérique (executed by SNDI),central administration; pilot phase covers 12 public bodies,2026-07-23-ci-interoperabilite-gouvernance-numerique
 CIV,plateforme d'interopérabilité UXP,Plateforme nationale d'interopérabilité (UXP),other,UXP,"SNDI (Société nationale de développement informatique), for the Ministère de la Transition numérique","central administration; 5 of 12 phase-one bodies integrated, 31 judged mature",2026-07-22-cote-divoire-cinq-administrations-integrent-plateforme-interoperabilite
+CIV,IAN (Integrated Administration Network),Côte d'Ivoire,,,Ministry of Communication and Digital Economy,,2026-11-06-dpi-map-2026-11-12
 CMR,MINDDEVEL decentralisation digitalisation programme (384 councils),programme de digitalisation des communes et des régions,other,,MINDDEVEL with the Ministry of Posts and Telecommunications,local,2026-08-25-cameroun-georges-elanga-obam-veut-mettre-fin-aux-lots-num-riques-de-l
 CMR,Guichet unique maritime,Guichet unique maritime,other,,,national,2026-08-18-dba-fgi-cameroun-camtel-interoperabilite-nationale
 CMR,MINFI budget and customs information systems,systèmes d'information budgétaires et douaniers,other,,Ministry of Finance (MINFI),national,2026-08-18-dba-fgi-cameroun-camtel-interoperabilite-nationale
@@ -105,6 +110,7 @@ DJI,Plateforme d'identité numérique,plateforme d'identité numérique,other,,,
 DJI,Catalogue de solutions interopérables,catalogue de solutions interopérables,other,,,,2022-01-01-cadre-interoperabilite-djibouti-cid
 DJI,National interoperability framework (Djibouti),national interoperability framework,framework,,ANSIE,,2023-04-30-ega-djibouti-digital-interoperability-platform
 DJI,National data exchange layer,national data exchange layer,other,,ANSIE,,2023-04-30-ega-djibouti-digital-interoperability-platform
+DJI,Plateforme Nationale d'interopérabilité,Djibouti,,,Agence Nationale des Systèmes d'Information de l'État (ANSIE),,2026-11-06-dpi-map-2026-11-12
 DZA,Dzair Digital Services,Dzair Digital Services,other,,,national portal bringing digital public services together for citizens and businesses,2026-09-26-dza-jeune-independant-guessoum-interoperabilite-numerique
 DZA,Plan d'interopérabilité numérique sécurisée,plan d'interopérabilité numérique sécurisée entre les instances et institutions de l'Etat,framework,,Haut-commissariat à la numérisation (supervision),state bodies and institutions; wilayas,2026-09-21-dza-interfil-conseil-ministres-interoperabilite-numerique
 DZA,National digital system for tracking strategic goods,منظومة وطنية رقمية لمتابعة مسار المواد الاستراتيجية,other,,High Commission for Digitalisation; Ministry of Internal Trade,"interior and local government, transport, agriculture and fisheries, internal trade ministries",2026-09-04-algerie-manzouma-wataniya-raqamiya-mawad-istiratijiya
@@ -121,6 +127,7 @@ EGY,Government Digital Transformer (المحول الرقمي الحكومي),ا
 EGY,Digital Egypt platform (منصة مصر الرقمية),منصة مصر الرقمية,other,,Ministry of Communications and Information Technology,"central government services, 242 services",2026-07-19-rabt-105-jiha-hukumiyya-242-khidma-mansat-misr-al-raqmiyya
 EGY,Digital Egypt platform,Digital Egypt platform,other,,Ministry of Communications and Information Technology,"central government; 210 services, 10.7 million users in 2025",2026-01-02-mcit-egypt-ict-sector-achievements-2025
 EGY,Government-to-Government (G2G) project,Government-to-Government (G2G) project,other,,Ministry of Communications and Information Technology with Ministry of Interior,central government; Public Prosecution traffic division linked to Ministry of Interior traffic departments,2026-01-02-mcit-egypt-ict-sector-achievements-2025
+EGY,G2G Services,Egypt,,,Ministry of Communications and Information Technology (MCIT),,2026-11-06-dpi-map-2026-11-12
 ERI,ASYCUDA World,ASYCUDA World customs management system,other,ASYCUDA World (UNCTAD),Eritrean Customs Department,all customs stations,2026-01-08-undp-eritrea-asycuda-world-digital-customs
 ERI,National identity card (new electronic card),Eritrean national identity card,other,,Department of Immigration and Nationality,,2018-09-26-eritrea-national-id-card-ecoi
 ETH,Ethiopian eGovernment Interoperability Framework (EeGIF),EeGIF,framework,,Ministry of Innovation and Technology,ministerial and regional offices,2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF)
@@ -130,6 +137,7 @@ ETH,Digital Government Strategy and Government Enterprise Architecture 2024-2029
 ETH,Ethiopian eGovernment Interoperability Framework (EeGIF),EeGIF,framework,,Ministry of Innovation and Technology,,2023-02-01-mint-assessment-provision-e-government-services
 ETH,E-Services Portal,E-Services Portal,other,Perago,Ministry of Innovation and Technology,eight ministries and public departments onboarded,2023-02-01-mint-assessment-provision-e-government-services
 ETH,Ethiopian National Enterprise Architecture Framework (ENEAF),ENEAF,other,,,,2023-02-01-mint-assessment-provision-e-government-services
+ETH,Data Exchange Platform,Ethiopia,,,Information Network Security Administration (INSA),,2026-11-06-dpi-map-2026-11-12
 GAB,government interoperability platform,interoperability platform,other,,ANINF / Ministry of Digital Economy (steering committee),government information systems,2026-09-09-techafricanews-gabon-four-digital-projects
 GAB,eGabon-SIS,projet de Renforcement du système d'information de santé eGabon-SIS,other,,ANINF with the Ministry of Health,"health facilities, military teaching hospitals",2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis
 GAB,Gabon Connect,Portail Gabon Connect,other,IKA Technology,Government of Gabon,central administrations,2026-02-19-presidence-ga-audience-ika-technology-gabon-connect
@@ -200,6 +208,7 @@ LBR,Government Interoperability Framework,Government Interoperability Framework,
 LBR,Government Enterprise Architecture Framework,Government Enterprise Architecture Framework,other,,"Office of Technology, Digitalization and Innovation (OTDI)","all ministries, agencies and commissions",2026-04-28-liberia-executive-order-163-otdi-national-digitalization
 LBR,OneHealthEHR,OneHealthEHR,other,"FHIR R4 and HL7 standards-based, offline-first EHR and disease-surveillance platform",OneHealthEHR Inc. (private company),"clinics and health centres; live from 1 September 2026 at four facilities, seven by late September",2026-09-28-lbr-gha-onehealthehr-goes-live
 LBR,Education Management Information System (EMIS),EMIS,other,,Ministry of Education,national and county education officers,2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap
+LBR,E-Liberia,Liberia,,,Ministry of Post and Telecommunications (MoPT),,2026-11-06-dpi-map-2026-11-12
 LBY,LyGIF,"LyGIF (Libyan national interoperability framework, proposed)",framework,,General Information Authority (proposed lead),national,2025-12-01-escwa-gia-lygif-interoperability-frameworks-roadmap
 LBY,National Directory of Government Data,الدليل الوطني للبيانات الحكومية,other,,General Information Authority,national,2025-12-01-escwa-gia-lygif-interoperability-frameworks-roadmap
 LBY,National Guide for Government Data,الدليل الوطني للبيانات الحكومية,other,,General Information Authority,national,2022-12-01-gia-national-guide-for-government-data
@@ -210,6 +219,7 @@ LBY,National Data Distributor,National Data Distributor,other,,General Informati
 LBY,Chambers Union electronic system,Electronic system of the Union of Chambers,other,,Union of Chambers,,2026-04-23-chambers-union-electronic-system-gia
 LBY,LY-NDEX,National Data Distributor (LY-NDEX),other,,General Information Authority,,2026-04-23-gia-zakat-fund-data-governance-national-guide
 LBY,GIA interoperability service (National Database and national data-exchange network),Libya,other,National Database at the General Information Authority,General Information Authority,,2023-02-01-lby-gia-interoperability-service
+LBY,LIP-ROAD,Libya,,,General Information Authority,,2026-11-06-dpi-map-2026-11-12
 LSO,Government of Lesotho Enterprise Architecture and Interoperability Framework,Government of Lesotho Enterprise Architecture and Interoperability Framework,framework,,Government of Lesotho,,2025-02-19-lesotho-budget-speech-2025-26
 LSO,e-Government Interoperability (E-GIF) Framework,E-GIF,framework,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
 LSO,Government of Lesotho Enterprise Architecture (GLEA),GLEA,other,,Government of Lesotho (MICSTI),,2024-07-22-lesotho-glea-e-gif-terms-of-reference
