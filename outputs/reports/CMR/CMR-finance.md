@@ -1,6 +1,6 @@
 ---
 title: Cameroon: finance
-compiled: 2026-11-25
+compiled: 2026-11-28
 place: CMR
 ---
 
@@ -14,6 +14,7 @@ place: CMR
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">38</td><td class="num">8</td><td class="num">&lt;1</td><td class="num">7</td><td class="num">29</td><td class="num">96</td><td class="num total">179</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">19</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">21</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">18</td><td class="num total">18</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">17</td><td class="num">&lt;1</td><td class="num total">17</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">11</td><td class="num">3</td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">15</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num">12</td><td class="num total">14</td></tr>
@@ -24,13 +25,12 @@ place: CMR
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">897</td><td class="num">17</td><td class="num">4</td><td class="num">168</td><td class="num">394</td><td class="num">485</td><td class="num total">1,965</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">897</td><td class="num">17</td><td class="num">4</td><td class="num">168</td><td class="num">411</td><td class="num">485</td><td class="num total">1,982</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/all-finance.html">Full table &mdash; 177 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/all-finance.html">Full table &mdash; 178 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CMR/CMR-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -65,6 +65,7 @@ place: CMR
 <tr><th scope="row">Cybersecurity</th><td class="num">165</td><td class="num zero"></td><td class="num zero"></td><td class="num">108</td><td class="num">66</td><td class="num zero"></td><td class="num total">339</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">38</td><td class="num">8</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">13</td><td class="num zero"></td><td class="num total">60</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">19</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">0</td><td class="num zero"></td><td class="num zero"></td><td class="num total">19</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">17</td><td class="num">&lt;1</td><td class="num total">17</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">11</td><td class="num">3</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">15</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">12</td><td class="num total">13</td></tr>
@@ -74,13 +75,12 @@ place: CMR
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">897</td><td class="num">17</td><td class="num">4</td><td class="num">110</td><td class="num">304</td><td class="num">282</td><td class="num total">1,614</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">897</td><td class="num">17</td><td class="num">4</td><td class="num">110</td><td class="num">321</td><td class="num">282</td><td class="num total">1,631</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/finance.html">Full table &mdash; 123 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/finance.html">Full table &mdash; 124 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CMR/CMR-nonstate.csv" download>&darr; Download CSV</a>
 </div>
