@@ -63,7 +63,7 @@ def flush(block: str) -> str:
 def all_finance(iso: str, name: str, fin: list[dict], bud: list[dict]) -> str:
     rows = [{"primary_topic": r.get("primary_topic"), "yr": r.get("report_year"),
              "amt": float(r["budget_usd"]) / 1e6} for r in bud if c.budget_counted(r)]
-    rows += [{"primary_topic": r.get("primary_topic"), "yr": r.get("start_year"),
+    rows += [{"primary_topic": r.get("primary_topic"), "yr": r.get("year"),
               "amt": c.usd_m(r)} for r in fin]
     if not rows:
         return f"<p>{copy_inline('datasets', 'finance-all-none', name=name)}</p>"

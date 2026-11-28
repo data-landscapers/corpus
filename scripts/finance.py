@@ -165,7 +165,7 @@ def load_finance(sdir: Path) -> dict:
                 by_sector[r["primary_topic"]] += 1
             # The deal's own year only: an end year can run to 2046 (a 20-year licence) or,
             # in CRS rows, fall before the commitment year, and neither is a year of the table.
-            y = r.get("start_year") or ""
+            y = r.get("year") or ""
             if y.isdigit():
                 years.append(int(y))
     return {
@@ -241,9 +241,9 @@ PAGE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{table_csv}"
-      data-cols="recipient, start_year, published_date, financier, primary_topic, subtopic, sector, instrument, commitment_usd_m, title, description, url"
+      data-cols="recipient, year, published_date, financier, primary_topic, subtopic, sector, instrument, commitment_usd_m, title, description, url"
       data-filters="recipient, financier, african, primary_topic, subtopic, sector, instrument, aid, status, beneficiary_type"
-      data-numeric="start_year, end_year, commitment_usd_m"
+      data-numeric="year, start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
       data-tips="{tips}"
@@ -673,7 +673,7 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
     tag = facet_tags(nonstate, budget)
     out = []
     for r in nonstate:
-        year = (r.get("start_year") or "").strip()[:4]
+        year = (r.get("year") or "").strip()[:4]
         if not year.isdigit() or int(year) < ALL_FIRST_YEAR:
             continue
         m = r.get("commitment_usd_m") or ""

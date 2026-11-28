@@ -98,8 +98,8 @@ def mobilise(unit: str, as_at: dt.date, live_from: dt.date) -> dict | None:
     counted = [r for r in rows
                if r["beneficiary_type"] in PRIVATE
                and (r["status"] in COUNTED_STATUS or r["status"] == "Unknown" and r["instrument"] == "Equity")
-               and r["instrument"] not in NOT_INSTRUMENT and r["start_year"].strip().isdigit()
-               and int(r["start_year"]) in years and _seen(_date(r["record"]), as_at, live_from)]
+               and r["instrument"] not in NOT_INSTRUMENT and r["year"].strip().isdigit()
+               and int(r["year"]) in years and _seen(_date(r["record"]), as_at, live_from)]
     total = sum(float(r["commitment_usd_m"] or 0) for r in counted) * 1e6
     value = 100 * total / 3 / g[0]
     dates = [d for d in (_date(r["record"]) for r in (counted or rows)) if d]

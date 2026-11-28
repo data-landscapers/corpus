@@ -170,7 +170,7 @@ def recipients() -> list[dict]:
         with open(path, encoding="utf-8-sig", newline="") as fh:
             for r in csv.DictReader(fh):
                 name = (r.get("recipient_organisation") or "").strip()
-                year = (r.get("start_year") or "")[:4]
+                year = (r.get("year") or "")[:4]
                 if name and year.isdigit() and int(year) >= DEALS_FROM and (iso3, fold(name)) not in seen:
                     seen.add((iso3, fold(name)))
                     out.append({"iso3": iso3, "type": r.get("beneficiary_type", ""), "institution": name,

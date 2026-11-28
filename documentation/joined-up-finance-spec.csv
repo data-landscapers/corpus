@@ -1,6 +1,6 @@
 ﻿All-finance,non-state,budget
 country,recipient,country
-year,start_year,report_year
+year,year,report_year
 primary_topic,primary_topic,primary_topic
 type,"aid (replace ""not aid"" with ""other finance"")","""budget"""
 financier,financier,admin_head

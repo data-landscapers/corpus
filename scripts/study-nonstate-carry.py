@@ -13,7 +13,7 @@ countries it covers with no document opened:
 - `money` = `committed`: one fact per commitment to a Private Sector, Fund or PPP
   beneficiary, Active, Approved or Completed, its instrument neither MoU nor Unknown, with
   an amount, starting in 2024 or later. **The fact is dated by the commitment's
-  `start_year`**, which is what question 2 counts.
+  `year`**, which is what question 2 counts.
 - `home` = `raised`: the same rows where `HOME` names the financier as the country's own.
   The list is read by hand from the rows' own descriptions; the `african` column says the
   continent and not the country.
@@ -55,7 +55,7 @@ def facts(rows: list[dict], iso: str, held: set[str]) -> dict[str, list[dict]]:
     out: dict[str, list[dict]] = collections.defaultdict(list)
     seen = set()
     for r in rows:
-        year = r["start_year"].strip()
+        year = r["year"].strip()
         if (r["beneficiary_type"] not in BENEFICIARY or r["status"] not in STATUS
                 or r["instrument"] in NOT_INSTRUMENT or not year.isdigit() or int(year) < FROM
                 or not r["commitment_usd_m"].strip() or r["record"] not in held

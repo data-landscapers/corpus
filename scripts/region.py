@@ -91,7 +91,7 @@ def build(code: str) -> list[Path]:
     csv_names: dict[str, str] = {}
     if fin:
         cols = list(fin[0].keys())
-        ys = [y for y in (country.year(r.get("start_year")) for r in fin) if y is not None]
+        ys = [y for y in (country.year(r.get("year")) for r in fin) if y is not None]
         amounts = [float(r["commitment_usd_m"]) for r in fin if r.get("commitment_usd_m")]
         csv_names = country.publish_finance_csvs(code, out_dir, cols)
     else:

@@ -1,3 +1,7 @@
+## 28 November 2026
+
+- The non-state finance download's `start_year` column is now `year`, the year a commitment was made, and a new `start_year` column gives the year the activity starts. Amounts are shown to the thousand dollars, and a source's own dollar amount is now in `original_amount`, so US$1.537m no longer reads as 2.
+
 ## 26 November 2026
 
 - The Statistics page shows where readers come from, month by month, and how many people subscribe to catalogue alerts. Search impressions will join them once the site is registered with Google Search Console.

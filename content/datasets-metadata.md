@@ -11,7 +11,7 @@ What each column in the downloadable datasets means. Each table can be downloade
 
 ## Non-state finance
 
-One row per commitment to digital transformation from a financier other than the state. Each is tagged to one country or region only, so totals by place sum without double-counting. Figures are commitments, not disbursements, in millions of US dollars at a rate dated to the year of announcement; a multi-year commitment sits wholly in its start year. A commitment that is only partly digital, or whose scope is unclear, counts at 50% in `commitment_usd_m`, because its digital part cannot be separated: double it for the amount announced, and `scope_basis` says why it was judged so. A commitment where digital is incidental to another purpose is left out.
+One row per commitment to digital transformation from a financier other than the state. Each is tagged to one country or region only, so totals by place sum without double-counting. Figures are commitments, not disbursements, in millions of US dollars at a rate dated to the year of announcement; a multi-year commitment sits wholly in `year`, the year it was committed, and `start_year` gives the year the activity starts where the source states one. Amounts are to the thousand dollars. A commitment that is only partly digital, or whose scope is unclear, counts at 50% in `commitment_usd_m`, because its digital part cannot be separated: double it for the amount announced, and `scope_basis` says why it was judged so. A commitment where digital is incidental to another purpose is left out.
 
 <!-- table: site/metadata/non-state-finance-metadata.csv -->
 

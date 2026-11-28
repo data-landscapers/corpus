@@ -215,6 +215,14 @@ def deal_year(r):
             return m.group(1)
     return ""
 
+def stated_year(v):
+    """The `start_year` cell: the year the record states the activity starts, and nothing else.
+    `year` is the deal's own year (`deal_year`); the column it replaced was called `start_year`
+    and printed that, so 15 CRS rows read as starting in the year they were committed
+    (`osint-notes` 362, housekeeping 93)."""
+    m = re.match(r"\s*((?:19|20)\d\d)(?!\d)", v or "")
+    return m.group(1) if m else ""
+
 FIRST_YEAR = 2015   # the home page promises commitments "made since 2015" (Bill, 2026-09-26)
 
 def in_window(by_place):
@@ -307,7 +315,7 @@ def recip_org(T):
     v = re.sub(r'\s*\([A-Z]{3}\)\s*$', '', v).strip()  # drop a trailing country tag
     return clean(v)
 
-NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "african",
+NS_HEADER = ["recipient", "year", "start_year", "end_year", "published_date", "financier", "african",
              "primary_topic",
              "instrument", "aid", "commitment_usd_m", "amount_basis", "amount_quality",
              "scope", "scope_basis", "status",
@@ -341,11 +349,18 @@ def usd_m_cell(usd):
     (US$366.85 → 0.000367) distinguishable from nothing, and an empty string stays what
     it has always meant: no amount is held. A genuine zero is not a deal.
 
-    Whole millions round half up: Python's `.0f` rounds half to even, so KOICA's US$12.5m
-    in Cameroon printed as 12 (housekeeping 83)."""
+    Above a million the cell is to the thousand dollars, trailing zeros dropped, half up: whole
+    millions printed US$7.5m as 8 and US$1.537m as 2 against the deal table (`osint-notes` 362,
+    housekeeping 93), and Python's `.0f` had rounded KOICA's US$12.5m to 12 (housekeeping 83)."""
     if not usd:
         return ""
-    return half_up(usd, "1") if usd >= 1 else f"{usd:.3g}"
+    return thousands(usd) if usd >= 1 else f"{usd:.3g}"
+
+
+def thousands(x):
+    """US$m to the thousand dollars, half up, with no trailing zeros: 1.537, 7.5, 9."""
+    s = half_up(x, "0.001")
+    return s.rstrip("0").rstrip(".") if "." in s else s
 
 
 def half_up(x, quantum):
@@ -360,7 +375,7 @@ def halved_cell(usd):
     if not usd:
         return ""
     h = usd * SCOPE_SHARE
-    return half_up(h, "0.1").rstrip("0").rstrip(".") if h >= 1 else f"{h:.3g}"
+    return thousands(h) if h >= 1 else f"{h:.3g}"
 
 
 def amount_quality(rec):
@@ -386,19 +401,32 @@ def is_aid(instrument: str) -> str:
     return "true" if (instrument or "").strip().lower() in AID_INSTRUMENTS else "false"
 
 
+def original_amount(T):
+    """The amount as the source states it. A record whose source states US dollars carries no
+    `Original amount`, so the row read blank and the claim audit called KOICA's US$9,000,000 in
+    Ghana unstated (`osint-notes` 362, housekeeping 93): the `Commitment (USD)` cell is then the
+    stated amount, unless it carries a note, which marks a conversion."""
+    v = T.get("Original amount", "").strip()
+    if v:
+        return v
+    c = T.get("Commitment (USD)", "").strip()
+    return c if c and "(" not in c and usd_millions(c) else ""
+
+
 def _ns_row(r, country, lab):
     T = r["table"]; fm = r["fm"]
     usd, basis = deal_usd(T)
     sec = primary_subject(r)
     status = T.get("Status", "")
-    return [country, deal_year(r), T.get("End year", ""), published_date(r),
+    return [country, deal_year(r), stated_year(T.get("Start year", "")), T.get("End year", ""),
+            published_date(r),
             fin_name(fm_get(fm, "financier_slug")), fin_african(fm_get(fm, "financier_slug")),
             lab.get(sec, sec),
             T.get("Instrument", ""), is_aid(T.get("Instrument", "")),
             scoped_cell(r, usd), basis,
             amount_quality(r), r.get("scope", ""), r.get("scope_basis", ""), status,
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
-            T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
+            T.get("Beneficiary type", ""), recip_org(T), original_amount(T),
             T.get("Project ID", ""), T.get("IATI activity ID", ""),
             r["url"], fm_get(fm, "financier_slug"), r["deal_id"], r["fn"][:-3]]
 

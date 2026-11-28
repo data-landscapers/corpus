@@ -1,6 +1,7 @@
 ﻿Column,Definition
 recipient,"The ISO 3166-1 alpha-3 code for the recipient country, or the region code for a commitment to several countries"
-start_year,"The year in which the finance was approved or committed. In some circumstances this may be a planned, rather than actual, start year."
+year,"The year the commitment was made: the commitment year where the source gives one, else the start year, else the year the source was published. The whole amount sits in this year."
+start_year,"The year the financed activity starts, where the source states one"
 end_year,The year in which the financed activity ended or is due to end
 published_date,"The date the source was published. Where the source gives only a year or month, as IATI activity records do, the date Data Landscapers found it."
 financier,The short or abbreviated name of the institution providing the finance
@@ -10,7 +11,7 @@ subtopic,"What the money buys within its topic, such as health information syste
 sector,"The field the money serves, such as health, education or finance, built on the UN classification of government functions. A telecom operator, tech firm or venture fund serves the digital sector. Our assessment; still changing. In the all-Africa file only."
 instrument,"The financial instrument such as grant, loan equity."
 aid,"true where the instrument is a grant, a concessional loan or technical assistance; false for every other instrument, including Unknown"
-commitment_usd_m,The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates. A commitment whose scope is partial or unclear counts at half its value.
+commitment_usd_m,"The committed value of the finance in millions of US dollars, to the thousand dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates. A commitment whose scope is partial or unclear counts at half its value."
 amount_basis,"Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this."
 amount_quality,"Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data."
 scope,"Whether the whole commitment is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. commitment_usd_m counts a partial or unclear commitment at half. Blank where the commitment has not yet been assessed. Commitments where digital is incidental to another purpose are not in the table."
@@ -20,7 +21,7 @@ title,The title of the investment
 description,A brief description of the investment
 beneficiary_type,"e.g. Government, private sector"
 recipient_organisation,The name of the institution receiving the finance
-original_amount,The amount and currency of the legal commitment
+original_amount,"The amount and currency of the legal commitment, as the source states it"
 project_id,"If the financier maintains a public portfolio, this is the Id of their record"
 iati_activity_id,"If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data."
 url,A public url referencing the source from which the data in this table has been collected.

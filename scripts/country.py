@@ -346,7 +346,7 @@ def num(v: float) -> str:
 
 
 def year(v: str) -> int | None:
-    """Most `start_year`/`end_year` cells are a bare year; a few carry a
+    """Most `year`/`end_year` cells are a bare year; a few carry a
     parenthetical like `2015 (2015-07-06)`. The leading four digits are the
     year in every case observed, so read those rather than fail the page."""
     m = re.match(r"\s*(\d{4})", v or "")
@@ -357,7 +357,7 @@ def usd_m(r: dict) -> float:
     return float(r.get("commitment_usd_m") or 0)
 
 
-def pivot(rows: list[dict], year_col: str = "start_year", amount=usd_m,
+def pivot(rows: list[dict], year_col: str = "year", amount=usd_m,
           cutoff: int | None = FINANCE_CUTOFF) -> str:
     """Topic by year, US$m: committed, or with `year_col` and `amount` set, budgeted.
 
@@ -516,7 +516,7 @@ def budget_section(name: str, header: list[str], rows: list[dict], csv_name: str
 # The row panel carries every field, shown columns included (Bill, 2026-09-27): the panel is
 # where a reader reads one deal whole, and a field missing there because it is also a column
 # is missing. `finance.py` imports this for the all-Africa table.
-FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, african, primary_topic, "
+FINANCE_DETAIL = ("recipient, year, start_year, end_year, published_date, financier, african, primary_topic, "
                   "instrument, aid, commitment_usd_m, amount_basis, amount_quality, scope, scope_basis, "
                   "status, title, "
                   "description, beneficiary_type, recipient_organisation, original_amount, "
@@ -567,14 +567,14 @@ FINANCE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{csv_src}"
-      data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
+      data-cols="year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
       data-filters="financier, african, primary_topic, instrument, aid, scope, status, beneficiary_type"
-      data-numeric="start_year, end_year, commitment_usd_m"
+      data-numeric="year, start_year, end_year, commitment_usd_m"
       data-links="url"
       data-detail=\"""" + FINANCE_DETAIL + """\"
       data-labels=\"""" + attr_json(AID_LABELS).replace("{", "{{").replace("}", "}}") + """\"
       data-filter-all=\"""" + attr_json(FILTER_ALL).replace("{", "{{").replace("}", "}}") + """\"
-      data-sort="start_year:desc"
+      data-sort="year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">
         <span class="dt-title">{name} &mdash; non-state finance</span>
@@ -762,7 +762,7 @@ def all_finance_rows(name: str, fin: list[dict], bud: list[dict]) -> list[dict]:
         "url": "", "deal_id": r.get("deal_id", ""),
     } for r in bud if budget_counted(r)]
     rows += [{
-        "side": "Non-state finance", "year": r.get("start_year", ""),
+        "side": "Non-state finance", "year": r.get("year", ""),
         "primary_topic": r.get("primary_topic", ""), "usd_m": r.get("commitment_usd_m", ""),
         "payer": r.get("financier", ""), "recipient": r.get("recipient_organisation", ""),
         "title": r.get("title", ""), "description": r.get("description", ""),
@@ -919,7 +919,7 @@ def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
     `temporalCoverage` is the years the money covers, not the years the rows were written — the
     table carries no finer date than the year, and it is the question anyone searching for
     finance data is asking."""
-    years = [year(r.get("start_year")) for r in fin] + [year(r.get("end_year")) for r in fin]
+    years = [year(r.get("year")) for r in fin] + [year(r.get("end_year")) for r in fin]
     return structured_data.dataset(
         name=f"Data Landscapers non-state finance — {name}",
         description=copy_md("datasets", "dataset-place", name=name),
@@ -971,7 +971,7 @@ def build(iso: str) -> list[Path]:
     csv_names: dict[str, str] = {}
     if fin:
         cols = list(fin[0].keys())
-        ys = [y for y in (year(r.get("start_year")) for r in fin) if y is not None]
+        ys = [y for y in (year(r.get("year")) for r in fin) if y is not None]
         amounts = [float(r["commitment_usd_m"]) for r in fin if r.get("commitment_usd_m")]
         # **The CSVs are published before the pages, because the pages link them by name**
         # *(2026-08-18)*. Which name that is depends on what `publish` decided — a new edition

@@ -26,7 +26,7 @@ def check(label, got, want):
     print(f"  {'ok  ' if ok else 'FAIL'}  {label}" + ("" if ok else f"  — got {got!r}, want {want!r}"))
 
 
-NS = {"recipient": "KEN", "start_year": "2025 (2025-07-06)", "primary_topic": "Connectivity",
+NS = {"recipient": "KEN", "year": "2025 (2025-07-06)", "primary_topic": "Connectivity",
       "aid": "true", "african": "non-African", "financier": "World Bank", "recipient_organisation": "ICT Authority",
       "title": "Fibre", "description": "A loan.", "commitment_usd_m": "22.5",
       "deal_id": "wb-ken-1", "scope": "partial", "scope_basis": "Broadband with power."}
@@ -40,8 +40,8 @@ rows = {r["deal_id"]: r for r in finance.all_finance_rows(
     [NS, {**NS, "deal_id": "wb-ken-2", "aid": "false", "commitment_usd_m": ""},
      {**NS, "deal_id": "afx-ken-1", "aid": "false", "african": "African"},
      {**NS, "deal_id": "new-ken-1", "aid": "false", "african": ""},
-     {**NS, "deal_id": "wb-ken-old", "start_year": "2023"},
-     {**NS, "deal_id": "wb-ken-undated", "start_year": ""}], [BD])}
+     {**NS, "deal_id": "wb-ken-old", "year": "2023"},
+     {**NS, "deal_id": "wb-ken-undated", "year": ""}], [BD])}
 ns, other, bd = rows["wb-ken-1"], rows["wb-ken-2"], rows["ken-2025-x"]
 
 check("every row has exactly the published columns", list(ns), list(finance.ALL_COLUMNS))

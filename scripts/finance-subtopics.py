@@ -281,7 +281,7 @@ def main():
                 w.writerow(["budget", x["deal_id"], x["country"], x["report_year"], t, sub, sec, x["budget_usd"]])
             for t, sub, sec, x in deals:
                 m = x["commitment_usd_m"]
-                w.writerow(["nonstate", x["deal_id"], x["recipient"], x["start_year"][:4], t, sub, sec,
+                w.writerow(["nonstate", x["deal_id"], x["recipient"], x["year"][:4], t, sub, sec,
                             f"{float(m) * 1e6:.0f}" if m else ""])
         print(f"wrote {a.out}")
     if a.unplaced:
