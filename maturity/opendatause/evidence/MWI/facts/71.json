@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-26-mwi-malawi-just-relaunched-its-power-of-data",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The author lists an Open Data Portal giving citizens access to budgets, projects and service delivery data, and a new NSO website and data platform opening survey, agricultural and business data, launched 24 November 2026.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Open Data Portal; NSO data platform",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Portal",
+   "country_label": "Malawi",
+   "class": "open",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NSO website and data platform",
+   "country_label": "Malawi",
+   "class": "open",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

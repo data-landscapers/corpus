@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-24-tgo-togo-launches-open-data-platforms-for-public-access",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "Togo's Ministry of Digital Economy, through Agence Togo Digital, announced on 19 December 2024 the Open Data platform (opendata.gouv.tg) with data on health, education and agriculture, and the Open Data Geoportal (geodata.gouv.tg), from which users can download datasets.",
+   "as_of": "2024-12-19",
+   "date_precision": "day",
+   "system": "Open Data Geoportal (geodata.gouv.tg)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data platform",
+   "country_label": "opendata.gouv.tg",
+   "class": "open",
+   "platform": "opendata.gouv.tg",
+   "owner": "Agence Togo Digital",
+   "tiers": ""
+  },
+  {
+   "system": "Open Data Geoportal",
+   "country_label": "geodata.gouv.tg",
+   "class": "open",
+   "platform": "geodata.gouv.tg",
+   "owner": "Agence Togo Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
