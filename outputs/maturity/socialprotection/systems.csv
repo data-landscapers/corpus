@@ -10,6 +10,7 @@ BDI,Registre social unique (RSU),Burundi,other,,Government of Burundi,national,2
 BDI,CORE-MIS,Burundi,socialmis,open source,"Government of Burundi, World Bank-supported",national,2026-05-01-worldbank-building-burundi-national-social-protection-systems
 BDI,Unified Social Registry,Burundi,other,,Government of Burundi,national,2026-05-01-worldbank-building-burundi-national-social-protection-systems
 BDI,Pension System,Burundi,socialmis,,INSS and ONPR,,2025-12-18-worldbank-govtech-dataset-dec2025
+BDI,CORE-MIS (Merankabandi),Burundi,socialmis,CORE-MIS (open source),"Government, hosted at SETIC",,2026-01-22-bdi-burundi-le-projet-d-appui-aux-filets-sociaux-adopte-des-technologies-i
 BEN,GBESSOKÉ (PFPSP) electronic transfers onto SIM cards,Benin,other,mobile phone SIM,Ministère des Affaires Sociales et de la Microfinance,,2025-09-22-gbessoke-transferts-monetaires-demarrage
 BEN,Registre Social Unique (RSU),Benin,other,,Government of Benin,,2026-01-21-registre-social-unique-protection-vulnerables
 BEN,Registre Social Unique (RSU),Benin,other,,,,2025-04-09-ben-afco-assurance-maladie-arch-rsu
@@ -151,6 +152,7 @@ NGA,National Social Safety Net Program-Scale Up payment system,Nigeria,socialmis
 NGA,National Social Register,Nigeria,other,,Federal Ministry of Humanitarian Affairs and Poverty Reduction,,2026-08-17-businessday-nigeria-social-register-payment-gap
 NGA,National Social Register,Nigeria,other,,,,2026-06-04-fg-disburses-hope-ct-imo-beneficiaries
 NGA,Contributory Pension Scheme (CPS),Nigeria,socialmis,,National Pension Commission,,2025-12-18-worldbank-govtech-dataset-dec2025
+NGA,National Social Safety Net Project registry,Nigeria,other,,NASSP,,2026-11-16-nimc-digital-identity-ecosystem
 RWA,MEIS,Rwanda,socialmis,,MINALOC/LODA,beneficiary registry for VUP components,2024-01-01-rwa-minecofin-sp-ssp-2024-2029
 RWA,DMIS,Rwanda,socialmis,,NCPD/LODA,"disability classification, 96.7% of PwDs classified in 2023/24",2024-01-01-rwa-minecofin-sp-ssp-2024-2029
 RWA,Imibereho SRIS,Rwanda,other,,MINALOC,"social registry, replaces Ubudehe targeting",2024-01-01-rwa-minecofin-sp-ssp-2024-2029
