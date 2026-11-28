@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-19-eri-implementation-progress-and-results-report-strengthening-tax-administr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EriTAS",
+   "country_label": "Eritrea Integrated Tax Administration System",
+   "class": "other",
+   "platform": "COTS",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The tax system is being supplied and installed, not yet in use."
+}
